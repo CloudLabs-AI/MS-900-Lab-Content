@@ -30,13 +30,13 @@
 
    - **Username:** Enter username.
 
-   ![](Images/img4.png)
+     ![](Images/img4.png)
 
    - **Password settings:** select let me create password and provide password.
 
    - **Require this user to change their password when they first sign in** : selected.
 
-   ![](Images/img5.png)
+     ![](Images/img5.png)
 
 1. In the  **Assign product licenses**  pane, select the location and in licenses under **Assign a user product license** select **office 365 E5** license and select **Next**.
 
