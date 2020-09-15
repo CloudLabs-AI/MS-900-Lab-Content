@@ -1,6 +1,6 @@
 # MS-900
 
-# Module 1: Intro to Microsoft 365 Admin Center
+# Module 1: Introduction to Microsoft 365 Admin Center
 
 # Exercise 1: Admin Experience for User Management
 
