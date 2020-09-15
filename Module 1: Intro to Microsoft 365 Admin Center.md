@@ -12,7 +12,7 @@
 
 1. From the navigation menu click on **Users** icon and click on **Active users** from here you can see the users that are active.
 
-   ![](RackMultipart20200915-4-1nh6j6i_html_4b096f3d688d4256.png)
+   ![](Images/img1.png)
 
 1. From the navigation menu click on **Groups** icon and click on **Active groups** this displays list of all the groups that are created
 
