@@ -68,4 +68,4 @@
 
 1. Under **Apps** select **outlook** this will redirect you to the outlook mail.
 
-1.Switch back to the admin portal and from  **App launcher** select **OneDrive** under **Apps**.
+1. Switch back to the admin portal and from  **App launcher** select **OneDrive** under **Apps**.
