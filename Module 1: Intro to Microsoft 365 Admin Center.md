@@ -58,7 +58,7 @@
 
 1. When prompted enter the username and password of the user that you created in the previous step.
 
-   >**Note**: you can get username by clicking on **Users**  and  **Active users** from navigation menu and in Active Users pane note username for your newly created user
+   >**Note**: you can get username by clicking on **Users**  and  **Active users** from navigation menu and in Active Users pane note username for your newly created  user
 
 1. When logging in with the new user for the first time it will prompt you to update your password, provide your current password and new password and select sign in.
    
@@ -67,5 +67,7 @@
 1. From the top right corner click on **App launcher**
 
 1. Under **Apps** select **outlook** this will redirect you to the outlook mail.
+   
+    ![](Images/img9.png)
 
 1. Switch back to the admin portal and from  **App launcher** select **OneDrive** under **Apps**.
