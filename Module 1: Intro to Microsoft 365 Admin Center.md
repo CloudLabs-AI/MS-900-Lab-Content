@@ -16,13 +16,13 @@
 
 1. From the navigation menu click on **Groups** icon and click on **Active groups** this displays list of all the groups that are created
 
-   ![](RackMultipart20200915-4-1nh6j6i_html_89d1518b94221b31.png)
+   ![](Images/img2.png)
 
 1. Now let us create a new user.
 
 1. From the navigation menu click on **Users icon** and click on **Active users** , Now select **Add a user** icon.
 
-   ![](RackMultipart20200915-4-1nh6j6i_html_7dff03eea28d8984.png)
+   ![](Images/img3.png)
 
 1. In the **Set up the basics pane** , fill in the basic user information, and then select Next.
 
@@ -30,25 +30,25 @@
 
    - **Username:** Enter username.
 
-   ![](RackMultipart20200915-4-1nh6j6i_html_54be65ccc0845c4d.png)
+   ![](Images/img4.png)
 
    - **Password settings:** select let me create password and provide password.
 
    - **Require this user to change their password when they first sign in** : selected.
 
-   ![](RackMultipart20200915-4-1nh6j6i_html_8c40a8f9a43962a6.png)
+   ![](Images/img5.png)
 
 1. In the  **Assign product licenses**  pane, select the location and in licenses under **Assign a user product license** select **office 365 E5** license and select **Next**.
 
-   ![](RackMultipart20200915-4-1nh6j6i_html_f6a6ca6f34a5245a.png)
+   ![](Images/img6.png)
 
 1. In the  **Optional settings**  pane, leave everything as default and click on **Next**.
 
-   ![](RackMultipart20200915-4-1nh6j6i_html_7cb0fa81427b152.png)
+   ![](Images/img7.png)
 
 1. In **Review and Finish** pane review your new user&#39;s settings, then select  **Finish adding** , then  **Close**.
 
-   ![](RackMultipart20200915-4-1nh6j6i_html_eba72f7e9b66987e.png)
+   ![](Images/img8.png)
 
 ### Task 2: End User Experience
 
