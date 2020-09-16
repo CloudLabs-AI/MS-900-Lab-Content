@@ -76,9 +76,20 @@
 
 1. The recipient of the message will receive a notification about the received private message.
 
-### Stream
+### Task 4: Explore Microsoft Stream
+
+1. Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely. You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration.
 
 1. From the  **App launcher** click on All apps and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab** this will redirect you  to the **Stream** web page. 
+
+1. In the Stream navigation bar, select **Invite** button.
+   
+    ![](Images/img26.png)
+   
+1. In the search bar search and select the users or groups you would like to invite to Stream, clcik on **Add** and the select **Invite**.
+   
+    ![](Images/img27.png)
+
 
 1. Now from the **Stream** dashboard select  **Create** button and from the drop down select **Upload video** option.
 
