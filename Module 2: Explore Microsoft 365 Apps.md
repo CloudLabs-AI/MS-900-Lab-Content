@@ -37,5 +37,9 @@
 1. Now clcik on the newly create folder. From the top select **Upload** icon and select **Files**, when prompted select the **File** that you want to upload.
 
    ![](Images/img19.png)
+   
+1. Select the new file that you have created, click on **Show actions** icon this will display the list of actions that can be performed.
+
+   ![](Images/img20.png)
 
 
