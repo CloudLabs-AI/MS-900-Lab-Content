@@ -42,5 +42,9 @@
 
    ![](Images/img20.png)
 
-1.
+1. You can explore through other options available in the **OneDrive** pane.
+
+1. Switch back to the account and from  **App launcher**, under **Apps** select **Yammer** and  from **Open context menu** click on **Open in new tab** this will redirect you  to the **Yammer** page.
+
+
 
