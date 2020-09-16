@@ -18,7 +18,7 @@
 
    ![](Images/img9.png)
    
-1. In the outlook page from the left hand menu you can explore through all the features avaialbale.
+1. In the outlook page from the left hand menu you can explore through all the options avaialbale.
 
    ![](Images/img15.png)
 
