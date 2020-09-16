@@ -22,6 +22,8 @@
 
    ![](Images/img15.png)
    
+### Task 2 : Explore OneDrive
+
 1. Switch back to the account and from  **App launcher**, under **Apps** select **OneDrive** and  from **Open context menu** click on **Open in new tab** this will redirect you  to the **OneDrive** page. From here you can manage all your **files**.
    
    ![](Images/img10.png)
@@ -44,9 +46,26 @@
 
 1. You can explore through other options available in the **OneDrive** pane.
 
-1. Switch back to the account and from  **App launcher**, under **Apps** select **Yammer** and  from **Open context menu** click on **Open in new tab** this will redirect you  to the **Yammer** page.
+### Task 3  : Explore yammer
+
+1. Switch back to the admin account and from  **App launcher**, under **Apps** select **Yammer**.From **Open context menu** click on **Open in new tab** this will redirect you  to the **Yammer** page. With yammer people can openly connect and engage across an organization, from here we can discuss ideas, share and collaborate with others.
+
+   ![](Images/img21.png)
+
+1. From the left hand pane select **Create a group**  button, enter a name for you group and in **Group Memmbers** search and select the user you created. Based on your requirement select the **Public** or **Private** access and click on **Create Group**.
+
+1. Now select the group that you newly created, clcik on **Update** type content which you like to post (you can include gifs, files or any website links based on the requirement). Click on **post**.
+
+1. Switch back to the yammer account of the user which you added to the group, and verify if user is added to newly created group and posts are visible.
+
+1.
+
+
+
+### Stream
+
+1. From the  **App launcher** click on All apps and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab** this will redirect you  to the **Stream** web page. 
+
+1. Now from the **Stream** dashboard select  **Create** button and from the drop down select **Upload video** option.
 
 1. 
-
-
-
