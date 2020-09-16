@@ -4,7 +4,7 @@
 
 # Exercise 1: End User Experience 
 
-### 
+### Task 1 : Exploring through teams
 
 1. Open a new browser window and login to the admin center at https://admin.microsoft.com.
 
@@ -22,15 +22,28 @@
 
 1. Now switch back to the teams user account and verify the message.
 
-### schedule meeting
+### Task 2 : scheduling teams meeting
 
 1. Select **calendar** from the left hand side of the teams pane. 
 
-1. Now clcik on  **New Meeting** and from the drop down select **Schedule meeting**.
+1. Now clcik on  **New Meeting** and from the drop down select **Schedule meeting**. 
+  
+   - **Add Title:** Provide a name for the meeting.
+   
+   - **Add required attendes:** Search and select the user you created in the previous exercise.
+   
+   - Select date and time as per the requirements.
+   
+   - If it's a recurring meeting, open the dropdown menu next to **Does not repeat** (just below the date). Choose how often you want it to occur from the default options, or select Custom to create your own cadence.
+   
+   - If you want to have your meeting in a channel, select the appropriate channel.If you’d rather not, skip it. When you have a meeting in a channel, everyone in the team will be able to see it and join it in that channel.
+   
+1. Microsoft Teams also has a Scheduling Assistant you can use to find a time that works for everyone. 
 
-1. Enter a title for the meeting and in **Add required attendees** select the user you created earlier. Choose the date, time for the meeting and click on send.
+1. Click on **Send**.
+   
 
-### Explore teams admin center
+### Task 3 :  Explore teams admin center
 
 1. From the Navigation menu under **Admin centers** select **Teams** this will redirect you to **Microsoft Teams admin center**.
 
