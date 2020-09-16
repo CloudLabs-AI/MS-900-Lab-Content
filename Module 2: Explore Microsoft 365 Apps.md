@@ -21,4 +21,12 @@
 1. In the outlook page from the left hand menu you can explore through all the options avaialbale.
 
    ![](Images/img15.png)
+   
+1. Switch back to the account and from  **App launcher**, under **Apps** select **OneDrive** and  from **Open context menu** click on **Open in new tab** this will redirect you  to the **OneDrive** page. From here you can manage all your **files**.
+   
+   ![](Images/img10.png)
+   
+   ![](Images/img16.png)
+
+1.
 
