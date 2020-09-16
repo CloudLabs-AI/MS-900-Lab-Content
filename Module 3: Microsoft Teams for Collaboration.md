@@ -18,3 +18,22 @@
 
 1. When prompted enter the username and password of the user that you created in the previous exercise.
 
+1. In the admin teams account, in the search bar  search and select the newly created user and initiate a conversation.
+
+1. Now switch back to the teams user account and verify the message.
+
+### schedule meeting
+
+1. Select **calendar** from the left hand side of the teams pane. 
+
+1. Now clcik on  **New Meeting** and from the drop down select **Schedule meeting**.
+
+1. Enter a title for the meeting and in **Add required attendees** select the user you created earlier. Choose the date, time for the meeting and click on send.
+
+### Explore teams admin center
+
+1. From the Navigation menu under **Admin centers** select **Teams** this will redirect you to **Microsoft Teams admin center**.
+
+1. Now from the **Left navigation button** select **Teams**  and click on **Manage teams**. This will display the  summary of total user count, internal and guest users from here you can also create a new team by clicking on add button.
+
+1. From the **Left navigation button** select **Teams**  and click on **Team policies**.
