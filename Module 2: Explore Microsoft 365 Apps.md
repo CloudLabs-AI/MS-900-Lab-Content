@@ -11,6 +11,8 @@
 1. Now let us explore through the **Microsoft 365 Apps**.
 
 1. From the top right corner click on **App launcher**.
+  
+  ![](Images/img14.png)
 
 1. Under **Apps** select **outlook** and from **Open context menu** click on **Open in new tab** this will redirect you to the outlook mail.
 
