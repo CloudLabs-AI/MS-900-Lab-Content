@@ -76,9 +76,13 @@
 
 1. To verify the custom domains, from navigation pane select **Settings** under settings select **Domains**.
 
+   ![](Images/img12.png)
+
 1. The available domains can be found here.We can also purschase new doamins or add any existing domain from **Domains** page.
 
 1. To access other admin centers, from navigation pane select **Admin centers** and select **All Admin centers**.
+
+   ![](Images/img13.png)
 
 
 
