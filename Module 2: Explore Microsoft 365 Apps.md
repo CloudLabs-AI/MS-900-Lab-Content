@@ -46,5 +46,7 @@
 
 1. Switch back to the account and from  **App launcher**, under **Apps** select **Yammer** and  from **Open context menu** click on **Open in new tab** this will redirect you  to the **Yammer** page.
 
+1. 
+
 
 
