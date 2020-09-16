@@ -91,6 +91,16 @@
     ![](Images/img28.png)
 
 
-1. Now from the **Stream** dashboard select  **Create** button and from the drop down select **Upload video** option.
+1. Now from the Microsoft **Stream** dashboard from the top navigation bar,  click on  **Create** button and from the drop down select **Upload video** option.
 
-1. 
+1. Drag and drop or select files which needs to be uploaded from your device. In the Details tab, you can rename  the video, add a description, and choose a thumbnail for the video. 
+
+1. Under the "Permissions" tab, you can configure access to the video inside of the organization. 
+
+1. Now click on the "Options" tab. From here you can enable/disable the ability for tagging people, having a comments section, having captions, or adding subtitles.
+
+1. Select **Publish**.
+
+1.
+
+
