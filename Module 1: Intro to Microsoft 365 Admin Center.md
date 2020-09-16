@@ -66,11 +66,13 @@
     
 1. From the top right corner click on **App launcher**
 
-1. Under **Apps** select **outlook** this will redirect you to the outlook mail.
+1. Under **Apps** select **outlook** and from **Open context menu** click on **Open in new tab** this will redirect you to the outlook mail.
    
-    ![](Images/img9.png)
+   ![](Images/img9.png)
 
-1. Switch back to the admin portal and from  **App launcher** select **OneDrive** under **Apps**.
+1. Switch back to the user account and from  **App launcher**, under **Apps** select **OneDrive**  from **Open context menu** click on **Open in new tab** this will redirect you  to the **OneDrive**.
+   
+   ![](Images/img10.png)
 
 ### Task 3: Verify Custom Domains in the tenant and Access other admin centers
 
