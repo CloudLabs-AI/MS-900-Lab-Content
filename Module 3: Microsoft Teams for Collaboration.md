@@ -42,10 +42,33 @@
 
 1. Click on **Send**. This will close the scheduling form and send an invite to everyone's Outlook inbox.
    
-### Task 3 :  Explore teams admin center
+# Exercise 2: Explore teams admin center 
+
+### Task 1 :  Manage teams policies 
+
+1. Teams policies in Microsoft Teams can be used to control what users in your organization can do in teams and channels.
 
 1. From the Navigation menu under **Admin centers** select **Teams** this will redirect you to **Microsoft Teams admin center**.
 
-1. Now from the **Left navigation button** select **Teams**  and click on **Manage teams**. This will display the  summary of total user count, internal and guest users from here you can also create a new team by clicking on add button.
+1. Now from the **Left navigation button** select **Teams**  and click on **Messagng policies**. Messaging policies are used to control which chat and channel messaging features are available to users in Microsoft Teams.
 
-1. From the **Left navigation button** select **Teams**  and click on **Team policies**.
+1. In the **Messaging policies** page click on **Add**. 
+
+   - Provide a name and description for the policy.
+   
+   - Disable **Use Giphys in conversations** and **Delete sent messages**. you can exlpore through all the **Messaging policies** settings and select changes that you want.
+   
+   - Click on **Save**.
+   
+1. Now let us assign policy to user, select the policy that you have created and clcik on **Manage Users**.In the search bar  search and select the user that you created previously and click on **Apply**.
+
+1. Switch back to user teams portal and in the chat notice **Delete** option is not available.
+
+
+   
+   
+
+
+
+
+
