@@ -63,9 +63,16 @@
 1. Switch back to the yammer account of the user which you added to the group, and verify if user is added to newly created group and posts are visible.
    
    ![](Images/img24.png)
-1.
+  
+1.  We send a private message to a specific person in Yammer.
+   
+1. From yammer dashboard click the **+** next to **Private Messages** on the left sidebar. When prompted select Send **Private Message**.
 
+1. In the Add Participants field, search or type the person's user name. A drop-down menu of user names that are matches appears.
 
+1. Select the person's name that you want the message to be sent to, enter the message you wnat to send and then click on **Post**.
+
+1. The recipient of the message will receive a notification about the received private message.
 
 ### Stream
 
