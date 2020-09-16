@@ -16,3 +16,9 @@
 
 1. Under **Apps** select **outlook** and from **Open context menu** click on **Open in new tab** this will redirect you to the outlook mail.
 
+   ![](Images/img9.png)
+   
+1. In the outlook page from the left hand menu you can explore through all the features avaialbale.
+
+   ![](Images/img15.png)
+
