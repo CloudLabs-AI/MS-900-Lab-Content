@@ -66,7 +66,9 @@
   
 1.  We send a private message to a specific person in Yammer.
    
-1. From yammer dashboard click the **+** next to **Private Messages** on the left sidebar. When prompted select Send **Private Message**.
+1. From yammer dashboard click the **+** next to **Private Messages** on the left sidebar. When prompted select **Send Private Message**.
+   
+   ![](Images/img25.png)
 
 1. In the Add Participants field, search or type the person's user name. A drop-down menu of user names that are matches appears.
 
