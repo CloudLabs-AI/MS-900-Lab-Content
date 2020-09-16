@@ -33,5 +33,9 @@
    ![](Images/img17.png)
    
    ![](Images/img18.png)
+   
+1. Now clcik on the newly create folder. From the top select **Upload** icon and select **Files**, when prompted select the **File** that you want to upload.
+
+   ![](Images/img19.png)
 
 
