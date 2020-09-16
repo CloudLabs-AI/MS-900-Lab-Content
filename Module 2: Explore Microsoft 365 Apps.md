@@ -28,5 +28,10 @@
    
    ![](Images/img16.png)
 
-1.
+1. Now we will try creating an folder and upload files into it. In the OneDrive page click on **New** icon and select **Folder** option, when prompted provide a name for your folder and select **Create**.
+  
+   ![](Images/img17.png)
+   
+   ![](Images/img18.png)
+
 
