@@ -40,9 +40,8 @@
    
 1. Microsoft Teams also has a Scheduling Assistant you can use to find a time that works for everyone. 
 
-1. Click on **Send**.
+1. Click on **Send**. This will close the scheduling form and send an invite to everyone's Outlook inbox.
    
-
 ### Task 3 :  Explore teams admin center
 
 1. From the Navigation menu under **Admin centers** select **Teams** this will redirect you to **Microsoft Teams admin center**.
