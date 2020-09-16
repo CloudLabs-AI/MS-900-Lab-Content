@@ -54,10 +54,15 @@
 
 1. From the left hand pane select **Create a group**  button, enter a name for you group and in **Group Memmbers** search and select the user you created. Based on your requirement select the **Public** or **Private** access and click on **Create Group**.
 
+   ![](Images/img22.png)
+   
 1. Now select the group that you newly created, clcik on **Update** type content which you like to post (you can include gifs, files or any website links based on the requirement). Click on **post**.
-
+  
+   ![](Images/img23.png)
+   
 1. Switch back to the yammer account of the user which you added to the group, and verify if user is added to newly created group and posts are visible.
-
+   
+   ![](Images/img24.png)
 1.
 
 
