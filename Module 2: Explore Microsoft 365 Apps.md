@@ -101,6 +101,6 @@
 
 1. Select **Publish**.
 
-1.
+1. From  the Stream navigation bar, click on **My content** and select **My videos**. 
 
 
