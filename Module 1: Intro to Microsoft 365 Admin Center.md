@@ -6,9 +6,9 @@
 
 ### Task 1: Admin Experience for User Management
 
-1. open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+1. Open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
-1. Use the credentials provided in the **Environment Details** page to log in to the admin center when prompted.
+1. When prompted, use the credentials provided in the **Environment Details** page to log in to the admin center.
 
 1. From the navigation menu click on **Users** icon and click on **Active users** from here you can see the users that are active.
 
