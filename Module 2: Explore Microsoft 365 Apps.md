@@ -121,7 +121,7 @@
 
 1. From the top of the SharePoint page, click **+ Create site**  option.
   
-   ![](Images/img34.png)
+   ![](Images/img36.png)
 
 1. A site creation wizard will appear on the right-hand side of the screen, based on your requirement you  can select **Team site** or **Communication site**. For now select **Team site**.
    
@@ -131,7 +131,7 @@
 
     -  Select a language for your site and clcik on **Next**
     
-       ![](Images/img35.png)
+       ![](Images/img37.png)
     
     -  In **Add group memmbers** pane, add the names or email addresses of anyone else you want to manage this site in the **Add additional owners box**. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**.  
 
