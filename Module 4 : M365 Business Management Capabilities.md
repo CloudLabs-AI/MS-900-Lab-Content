@@ -89,7 +89,7 @@
 
 1. For now select **Choice**.Enter the text you want to display for the question and each of the choices. Click **Add Option** to add more choices than the default two choices.
 
-1. Click **Add New** to add more questions to your form. Now select **Tex**.
+1. Click **Add New** to add more questions to your form. Now select **Text**.
 
 1. For text questions, select the **Long Answer** option if you want a larger text box displayed on the form.
 
