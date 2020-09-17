@@ -121,11 +121,7 @@
 
     -  Select a language for your site and clcik on **Next**
     
-    -  In **Add group memmbers** pane, add the names or email addresses of anyone else you want to manage this site in the **Add additional owners box**. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**. 
-
-1. On the Home page or the Site contents page, select **New** and the **List**. List provides a flexible way to organize your information.
-
-1. 
+    -  In **Add group memmbers** pane, add the names or email addresses of anyone else you want to manage this site in the **Add additional owners box**. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**.  
 
 ### Task 5 : Exlpore list
 
