@@ -96,8 +96,6 @@
    ![](Images/img29.png)
 
 1. Drag and drop or select files which needs to be uploaded from your device. In the Details tab, you can rename  the video, add a description, and choose a thumbnail for the video. 
-   
-   ![](Images/img30.png)
 
 1. Under the "Permissions" tab, you can configure access to the video inside of the organization. 
 
