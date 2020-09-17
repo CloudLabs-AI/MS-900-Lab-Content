@@ -144,6 +144,7 @@
  1. When your list opens, to add an item to your list, select **+ New**. 
  
  1. Under **Title** provide a name for your new item, if needed you can also add attachements. Once done click on **Save**.
+
  
 
     
