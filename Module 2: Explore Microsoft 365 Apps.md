@@ -101,6 +101,53 @@
 
 1. Select **Publish**.
 
-1. From  the Stream navigation bar, click on **My content** and select **My videos**. 
+1. From  the Stream navigation bar, click on **Discover**. You can browse for videos, channels, people in your organization, and groups from here.
+
+1. You can exlpore through other available options.
+
+### Task 5 : Exlpore SharePoint
+
+1. Microsoft SharePoint  helps organizations share and manage content, knowledge, and applications to Empower team work, Quickly find information and Seamlessly collaborate across the organization.
+
+1. Switch back to the admin portal. From the  **App launcher** click on All apps and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab** this will redirect you  to the **Stream** web page. 
+
+1. From the top of the SharePoint page, click **+ Create site**  option.
+
+1. A site creation wizard will appear on the right-hand side of the screen, based on your requirement you  can select **Team site** or **Communication site**. For now select **Team site**.
+   
+    - Provide a name for your site
+    
+    - In Privacy settings section, choose either **Public - anyone in the organization can access this site** or **Private - only members can access this site** to control who has access to your site.
+
+    -  Select a language for your site and clcik on **Next**
+    
+    -  In **Add group memmbers** pane, add the names or email addresses of anyone else you want to manage this site in the **Add additional owners box**. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**. 
+
+1. On the Home page or the Site contents page, select **New** and the **List**. List provides a flexible way to organize your information.
+
+1. 
+
+### Task 5 : Exlpore list
+
+1. List helps to track information and organize your work. With list one can track issues, assets, routines, contacts, inventory and more using customizable views and smart rules and alerts to keep everyone in sync.
+
+1. In the home page of **Lists** click on **New list**. 
+
+1. From the Create a list page, select **Blank list**.
+ 
+    - Provide a name for your list and if needed  provide description.
+    
+    - Choose a color and icon for your list.
+    
+    - In **Save to** select a location where you want your list to be saved. Click on **Create**
+    
+ 1. When your list opens, to add an item to your list, select **+ New**. 
+ 
+ 1. Under **Title** provide a name for your new item, if needed you can also add attachements. Once done click on **Save**.
+ 
+
+    
+
+       
 
 
