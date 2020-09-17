@@ -2,7 +2,7 @@
 
 # Exercise 1: Types of Groups in M365 
 
-### Task 1: Microsoft 365
+### Task 1: Exlopre through difrrent group types 
 
 1. Microsoft 365 groups are used for collaboration between users, both inside and outside your company. With each Microsoft 365 group, members get a group email and shared workspace for conversations, files, and calendar events, and a Planner.
 
@@ -12,7 +12,20 @@
 
 1. From the navigation menu click on **Groups** icon and click on **Active groups**, now select **Add a group** icon.
 
-   ![](Images/img2.png)
+1. In the **Group type** page, you can see all the group types available 
+
+   - **Microsoft 365 group** :  are used for collaboration between users, both inside and outside your company.
+   
+   - **Distribution** :  groups are used for sending notifications to a group of people.
+   
+   - **Mail-enabled security** : groups are used for granting access to resources such as SharePoint, and emailing notifications to those users.
+   
+   - **Security groups** : are used for granting access to resources such as SharePoint sites.
+   
+   
+### Task 3: Create M365 Groups
+
+1. From the navigation menu click on **Groups** icon and click on **Active groups**, now select **Add a group** icon.
    
 1. On the Choose a group type page, select **Office 365**, and select **Next**.
 
@@ -31,6 +44,8 @@
 1. To add memmbers to the group, navigate to the **Members tab** and select **View all and manage members**.
 
 1. Click on **Add members**, select the users you want to add, and then select **Save**.
+
+
 
 
 
