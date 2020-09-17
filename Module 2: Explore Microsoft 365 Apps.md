@@ -117,7 +117,7 @@
 
 1. Microsoft SharePoint  helps organizations share and manage content, knowledge, and applications to Empower team work, Quickly find information and Seamlessly collaborate across the organization.
 
-1. Switch back to the admin portal. From the  **App launcher** click on All apps and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab** this will redirect you  to the **Stream** web page. 
+1. Switch back to the admin portal. From the  **App launcher** click on All apps and in the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab** this will redirect you  to the **SharePoint** web page. 
 
 1. From the top of the SharePoint page, click **+ Create site**  option.
 
