@@ -121,9 +121,11 @@
 
 1. From the top of the SharePoint page, click **+ Create site**  option.
   
-   ![](Images/img36.png)
+   ![](Images/img35.png)
 
 1. A site creation wizard will appear on the right-hand side of the screen, based on your requirement you  can select **Team site** or **Communication site**. For now select **Team site**.
+   
+   ![](Images/img36.png)
    
     - Provide a name for your site
     
