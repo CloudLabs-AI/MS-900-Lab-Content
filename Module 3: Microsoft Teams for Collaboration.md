@@ -30,6 +30,8 @@
 
 1. Now clcik on  **New Meeting** and from the drop down select **Schedule meeting**. 
   
+   ![](Images/img41.png)
+   
    - **Add Title:** Provide a name for the meeting.
    
    - **Add required attendes:** Search and select the user you created in the previous exercise.
@@ -38,7 +40,9 @@
    
    - If it's a recurring meeting, open the dropdown menu next to **Does not repeat** (just below the date). Choose how often you want it to occur from the default options, or select Custom to create your own cadence.
    
-   - If you want to have your meeting in a channel, select the appropriate channel.If you’d rather not, skip it. When you have a meeting in a channel, everyone in the team will be able to see it and join it in that channel.
+   - If you want to have your meeting in a channel, select the appropriate channel.If you’d rather not, skip it. When you have a meeting in a channel, everyone in the team will be able to see it and join it in that channel
+   
+       ![](Images/img42.png)
    
 1. Microsoft Teams also has a Scheduling Assistant you can use to find a time that works for everyone. 
 
