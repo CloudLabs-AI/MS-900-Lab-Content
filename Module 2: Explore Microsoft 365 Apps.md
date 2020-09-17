@@ -143,6 +143,8 @@
 
 1. In the home page of **Lists** click on **New list**. 
 
+   ![](Images/img38.png)
+
 1. From the Create a list page, select **Blank list**.
  
     - Provide a name for your list and if needed  provide description.
@@ -150,6 +152,8 @@
     - Choose a color and icon for your list.
     
     - In **Save to** select a location where you want your list to be saved. Click on **Create**
+    
+      ![](Images/img39.png)
     
  1. When your list opens, to add an item to your list, select **+ New**. 
  
