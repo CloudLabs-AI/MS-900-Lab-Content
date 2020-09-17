@@ -120,6 +120,8 @@
 1. Switch back to the admin portal. From the  **App launcher** click on All apps and in the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab** this will redirect you  to the **SharePoint** web page. 
 
 1. From the top of the SharePoint page, click **+ Create site**  option.
+  
+   ![](Images/img34.png)
 
 1. A site creation wizard will appear on the right-hand side of the screen, based on your requirement you  can select **Team site** or **Communication site**. For now select **Team site**.
    
@@ -128,6 +130,8 @@
     - In Privacy settings section, choose either **Public - anyone in the organization can access this site** or **Private - only members can access this site** to control who has access to your site.
 
     -  Select a language for your site and clcik on **Next**
+    
+       ![](Images/img35.png)
     
     -  In **Add group memmbers** pane, add the names or email addresses of anyone else you want to manage this site in the **Add additional owners box**. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**.  
 
