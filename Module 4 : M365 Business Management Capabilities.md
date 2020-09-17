@@ -109,6 +109,44 @@
 
 1. From the top navigation menu click on **Share**. From here based on your requirement you can either use link, QR code, Embed or Email option to share your form.
 
+# Exercise 5 : Setup Basic PowerBI Report from a sample Excel 
+
+### Task 1: Import data to PowerBI
+
+1. From the top right corner click on **App launcher**
+
+1. Under **Apps** select **Power BI** and from **Open context menu** click on **Open in new tab** this will redirect you to the Microsoft **Power BI**  web page.
+
+1. Download sample data from https://docs.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
+
+1. In Power BI from left navigation menu select **My workspace**, select **New** and from the drop down select **Upload a file**.
+
+1. Select **Local File**, browse to where you saved the Financial Sample Excel file, and select **Open**.
+
+1. On the **Local File page**, select **Import**.
+
+1. Now to create a report. With in **My workspace** select **New** and from the drop down slect **Report**.
+
+1. In the **Select a dataset to create a report** dialog box, select your **Financial Sample dataset** and click on **Create**.
+
+### Task 2 : Visualize data
+
+1. The report opens in Editing view and displays the blank report canvas. On the right are the **Visualizations**, **Filters**, and **Fields** panes.
+
+1. Now let us create visualizations. Let's say your manager wants to see profit over time. In the Fields pane, select **Profit**. Power BI displays a column chart with one column.
+
+1. From Fields pane, select **Profit**. Power BI updates the column chart to show profit by date. 
+
+1. We can also create  a map visualization. In this we will check which countries are the most profitable.
+
+1. Select a blank area on your report canvas, from the **Fields** pane, select **Country** and **Profit** field. Power BI creates a map visual with bubbles representing the relative profit of each location.
+
+1. In this way you can explore through other visualization options.
+
+1. To save your report from the top navigation menu select **File** and click on **Save** provide a name for your report and select **Save**.
+
+# Exercise 5 : Explore Microsoft EndPoint Manager 
+
 
          
      
