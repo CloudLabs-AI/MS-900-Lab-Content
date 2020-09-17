@@ -73,6 +73,10 @@
      ![](Images/img45.png)
    
 1. Now let us assign policy to user, select the policy that you have created and clcik on **Manage Users**.In the search bar  search and select the user that you created previously and click on **Apply**.
+ 
+   ![](Images/img46.png)
+   
+   ![](Images/img47.png)
 
 1. Switch back to user teams portal and in the chat notice **Delete** option is not available.
 
