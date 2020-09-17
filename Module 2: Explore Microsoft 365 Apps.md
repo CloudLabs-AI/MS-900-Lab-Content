@@ -84,11 +84,11 @@
 
 1. In the Stream navigation bar, select **Invite** button.
    
-   ![](Images/img29.png)
+   ![](Images/img27.png)
    
 1. In the search bar search and select the users or groups you would like to invite to Stream, clcik on **Add** and the select **Invite**.
    
-   ![](Images/img30.png)
+   ![](Images/img28.png)
 
 
 1. Now from the Microsoft **Stream** dashboard from the top navigation bar,  click on  **Create** button and from the drop down select **Upload video** option.
