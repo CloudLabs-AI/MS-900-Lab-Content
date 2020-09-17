@@ -56,7 +56,11 @@
 
 1. From the Navigation menu under **Admin centers** select **Teams** this will redirect you to **Microsoft Teams admin center**.
 
-1. Now from the **Left navigation button** select **Teams**  and click on **Messagng policies**. Messaging policies are used to control which chat and channel messaging features are available to users in Microsoft Teams.
+   ![](Images/img43.png)
+
+1. Now from the **Left navigation button** select **Messagng policies**. Messaging policies are used to control which chat and channel messaging features are available to users in Microsoft Teams.
+
+   ![](Images/img44.png)
 
 1. In the **Messaging policies** page click on **Add**. 
 
@@ -65,6 +69,8 @@
    - Disable **Use Giphys in conversations** and **Delete sent messages**. you can exlpore through all the **Messaging policies** settings and select changes that you want.
    
    - Click on **Save**.
+    
+     ![](Images/img45.png)
    
 1. Now let us assign policy to user, select the policy that you have created and clcik on **Manage Users**.In the search bar  search and select the user that you created previously and click on **Apply**.
 
