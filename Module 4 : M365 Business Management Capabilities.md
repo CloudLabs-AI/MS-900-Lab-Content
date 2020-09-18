@@ -128,6 +128,8 @@
    ![](Images/img69.png)
   
 1. Now from the drop down select **Between** and enter the number. You can choose to restrict the numbers by selecting from the various options such as Greater than, Less than, Between, and many others.
+   
+   ![](Images/img70.png)
 
 1. Click Preview at the top of the design window to see how your form will look on a computer. Now  to test your form, enter answers for the questions in preview mode and then click **Submit**.
 
@@ -143,9 +145,15 @@
 
 1. Click on the **Theme** at the top right of the design window and pick the color or background you want.
 
+   ![](Images/img74.png)
+
 1. If you prefer to customize theme, with  in the theme page scroll down and select **+ Customize theme** buttton. From here you can either upload a  image by clicking on **Upload image** icon or customize color of your choice by clicking on **Customize color** button.
 
+   ![](Images/img75.png)
+
 1. From the top navigation menu click on **Share**. From here based on your requirement you can either use link, QR code, Embed or Email option to share your form.
+
+   ![](Images/img76.png)
 
 # Exercise 5 : Setup Basic PowerBI Report from a sample Excel 
 
