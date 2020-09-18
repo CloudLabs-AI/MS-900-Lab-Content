@@ -165,17 +165,17 @@
 
 1. Download sample data from https://docs.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
 
-1. In Power BI from left navigation menu select **My workspace**, select **New** and from the drop down select **Upload a file**.
-
    ![](Images/img77.png)
-
-1. Select **Local File**, browse to where you saved the Financial Sample Excel file, and select **Open**.
+   
+1. In Power BI from left navigation menu select **My workspace**, select **New** and from the drop down select **Upload a file**.
 
    ![](Images/img78.png)
 
-1. On the **Local File page**, select **Import**.
+1. Select **Local File**, browse to where you saved the Financial Sample Excel file, and select **Open**.
 
    ![](Images/img79.png)
+
+1. On the **Local File page**, select **Import**.
 
 1. Now to create a report. With in **My workspace** select **New** and from the drop down slect **Report**.
 
