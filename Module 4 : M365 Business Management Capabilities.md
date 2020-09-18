@@ -19,21 +19,27 @@
 
 1. From the navigation menu click on **Groups** icon and click on **Active groups**, now select **Add a group** icon.
 
-    ![](Images/img53.png)
+   ![](Images/img53.png)
     
 1. On the Choose a group type page, select **Office 365**, and select **Next**.
 
+   ![](Images/img54.png)
+
 1. On the Basics page, type a name for the group and a description(optional). Select **Next**.
 
-1. In the Owners page, choose the name of one or more people who will be designated to manage the group. Anyone who is a group owner can add or remove members and have unique permissions like the ability to delete conversations from the shared inbox or change different settings about the group. 
-
-1. Select **Next**.
-
+1. In the Owners page, choose the name of one or more people who will be designated to manage the group. Anyone who is a group owner can add or remove members and have unique permissions like the ability to delete conversations from the shared inbox or change different settings about the group. Select **Next**.
+ 
+   ![](Images/img55.png)
+   
 1. Now in the **Settings** page, type a unique email address for the group, choose a privacy option based on your requirement and whether you want to add Microsoft Teams for group, and then selec **Next**.
+
+   ![](Images/img56.png)
 
 1. Review your settings and making any changes if needed, select **Create group** and then select **close**.
 
-1. In the admin center, select the name of the group that you want to add members to. Refresh the page if your nt able to see newly created group.
+   ![](Images/img57.png)
+
+1. In the admin center, select the name of the group that you want to add members to. Refresh the page if your not able to see newly created group.
 
 1. To add memmbers to the group, navigate to the **Members tab** and select **View all and manage members**.
 
