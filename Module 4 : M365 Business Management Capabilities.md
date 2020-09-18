@@ -88,6 +88,8 @@
     - Select a due date for the task
     
     - Click on **Assign** and choose a plan member from the list. If the right person isn't listed, type a name or email address in the search box to add someone new.
+    
+       ![](Images/img64.png)
 
 # Exercise 4 : Setup Microsoft Forms 
 
