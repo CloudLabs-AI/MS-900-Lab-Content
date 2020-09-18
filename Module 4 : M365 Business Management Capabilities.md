@@ -113,29 +113,31 @@
 
 1. Choose from Choice, Text, Rating, or Date questions. You can also click More question types Drop down list for more question types in Microsoft Forms to select Ranking, Likert, File upload, or Net Promoter Score® questions. 
 
+   ![](Images/img67.png)
+
 1. For now select **Choice**.Enter the text you want to display for the question and each of the choices. Click **Add Option** to add more choices than the default two choices.
 
-   ![](Images/img67.png)
+   ![](Images/img68.png)
 
 1. Click **Add New** to add more questions to your form. Now select **Text**.
  
-   ![](Images/img68.png)
+   ![](Images/img69.png)
 
 1. For text questions, select the **Long Answer** option if you want a larger text box displayed on the form.
 
 1. Text questions also allow you to set restrictions when you need to have numbers as the answer.Click on **More settings for question More options** button , and then select **Restrictions**
   
-  ![](Images/img69.png)
+  ![](Images/img71.png)
 
 1. Now from the drop down select **Between** and enter the number. You can choose to restrict the numbers by selecting from the various options such as Greater than, Less than, Between, and many others.
 
 1. Click Preview at the top of the design window to see how your form will look on a computer. Now  to test your form, enter answers for the questions in preview mode and then click **Submit**.
 
-  ![](Images/img71.png)
+  ![](Images/img72.png)
 
 1. Now click on **Back** and select the **Responses tab**. From here you can see summary information data about your form, such as number of responses and average time it took for respondents to complete your form.
 
-  ![](Images/img72.png)
+  ![](Images/img73.png)
 
 ### Task 2 : Change a form theme and Sharing forms
 
