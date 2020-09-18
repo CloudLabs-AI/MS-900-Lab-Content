@@ -75,5 +75,7 @@
 
 1. Microsoft Secure Score is a measurement of an organization's security posture, with a higher number indicating more improvement actions taken.Following the Secure Score recommendations can protect your organization from threats. From a centralized dashboard in the Microsoft 365 security center, organizations can monitor and work on the security of their Microsoft 365 identities, data, apps, devices, and infrastructure.
 
-1. 
+1. From the **App launcher** click on All apps and in the search bar search for **Security**, from **Open context menu** click on Open in new tab this will redirect you to the **Microsoft 365 security** web page.
+
+1. Select **Secure Score** from the left hand menu.
 
