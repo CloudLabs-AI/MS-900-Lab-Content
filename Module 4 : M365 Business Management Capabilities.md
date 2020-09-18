@@ -211,6 +211,8 @@
 
 # Exercise 5 : Explore Microsoft EndPoint Manager 
 
+1. Microsoft Endpoint Manager is an integrated solution for managing all of your devices. Microsoft brings together Configuration Manager and Intune with simplified licensing.
+
 
 
          
