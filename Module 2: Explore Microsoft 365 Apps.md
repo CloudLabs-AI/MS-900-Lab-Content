@@ -150,10 +150,16 @@
 1. Add a page name in the title area.You can customize the title area with an image, a choice of four layouts, text above the title, the ability to change the displayed author, and you can show or hide the published date.
 
 1. Select **Edit web part** icon from here you can select the layout of your choice, Set alignment, Add text above the title.
+  
+   ![](Images/img50.png)
 
 1. To add an image click on **Add image** button in the toolbar on the left. 
 
+   ![](Images/img51.png)
+
 1. Choose a recent image or get an image from a web search, your site, your computer, or a link. If your organization has specified a set of approved images, you'll be able to choose from that set under Your organization. 
+
+   ![](Images/img52.png)
 
 1. In **text box** you can add the content. Click **+** to add content like text, documents, video and more. 
 
