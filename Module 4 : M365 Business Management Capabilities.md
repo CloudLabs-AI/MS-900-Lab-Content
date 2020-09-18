@@ -179,19 +179,19 @@
 
 1. Now to create a report. With in **My workspace** select **New** and from the drop down slect **Report**.
 
-   ![](Images/img80.png)
-
 1. In the **Select a dataset to create a report** dialog box, select your **Financial Sample dataset** and click on **Create**.
 
-   ![](Images/img81.png)
+   ![](Images/img80.png)
 
 ### Task 2 : Visualize data
 
 1. The report opens in Editing view and displays the blank report canvas. On the right are the **Visualizations**, **Filters**, and **Fields** panes.
 
-   ![](Images/img82.png)
+   ![](Images/img81.png)
 
 1. Now let us create visualizations. Let's say your manager wants to see profit over time. In the Fields pane, select **Profit**. Power BI displays a column chart with one column.
+
+   ![](Images/img82.png)
 
 1. From Fields pane, select **Profit**. Power BI updates the column chart to show profit by date. 
 
