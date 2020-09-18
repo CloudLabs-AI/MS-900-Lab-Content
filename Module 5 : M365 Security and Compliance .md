@@ -27,3 +27,44 @@
 1. Select **Create** to create and enable your policy.
 
 ### Task 2 : Azure AD PIM                                                                                                                                                                               
+1. Privileged Identity Management (PIM) is a service in Azure Active Directory (Azure AD) that enables you to manage, control, and monitor access to important resources in your organization. These resources include resources in Azure AD, Azure, and other Microsoft Online Services such as Microsoft 365 or Microsoft Intune.
+
+1. From  the navigation menu scroll down to  **Admin centers** and select **Azure Active Directory**, the Azure Active Directory overview page will appear.
+
+1. In Azure Active Directory page click on **All services**  and select **Azure AD Privileged Identity Management**.
+
+1. Under **Manage** select **Azure AD roles** 
+
+1. Now select **Settings** from here you can configure role settings. Explore through the roles and select the role whose settings you want to configure.
+
+1. Select **Edit** to open the Role settings page. On the Role setting pane for each role, there are several settings you can configure.
+
+1. Use the **Activation maximum duration** slider to set the maximum time, in hours, that a role stays active before it expires. This value can be from one to 24 hours.
+
+1. To require multi-factor authentication before activation, check the Require Multi-Factor Authentication on activation box in the Assignment tab of Edit role setting.
+
+1. **Requires approval to activate** Specifies whether a member of the Privileged Role Administrators or Security Administrators group is required to approve the activation.
+
+1. Now select **Assignment** from here you can choose one of these eligible assignment duration options
+
+1. Select **Notification**, from here we can configure to receive notification when a members are assigned as eligible to role or when a role is activated.
+
+1. Now to assign a role, within **Azure AD Privileged Identity Management** page under manage click on **Roles** this displays  list of roles for Azure AD permissions.
+
+1. Select **Add assignments** to open the Add assignments page.
+
+1. From **Select role** drop down Select a role you want to assign, and under **Select  members** select a member to whom you want to assign to the role, and then select **Next**.
+
+1. In the **Assignment type** list on the **Membership settings** pane, select **Eligible** or **Active**.
+
+     -  **Eligible assignments** require the member of the role to perform an action to use the role. Actions might include performing a multi-factor authentication (MFA) check, providing a business justification, or requesting approval from designated approvers.
+
+     -  **Active assignments** don't require the member to perform any action to use the role. Members assigned as active have the privileges assigned to the role at all times.
+
+1. To specify a specific assignment duration, add a start and end date and time boxes. When finished, select **Assign** to create the new role assignment.
+
+1. After the role is assigned, a assignment status notification is displayed.
+
+1. Now select **Assignments** from here you can check **Eligible**, **Active** and **Expired** assignments. You can also add new assignments from here.
+
+
