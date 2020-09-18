@@ -45,7 +45,11 @@
 
 1. To add memmbers to the group, navigate to the **Members tab** and select **View all and manage members**.
 
+   ![](Images/img59.png)
+   
 1. Click on **Add members**, select the users you want to add, and then select **Save**.
+
+   ![](Images/img60.png)
 
 # Exercise 3 : Explore Microsoft Planner 
 
