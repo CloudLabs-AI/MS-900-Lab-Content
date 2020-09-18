@@ -77,5 +77,21 @@
 
 1. From the **App launcher** click on All apps and in the search bar search for **Security**, from **Open context menu** click on Open in new tab this will redirect you to the **Microsoft 365 security** web page.
 
-1. Select **Secure Score** from the left hand menu.
+1. Select **Secure Score** from the left hand menu. In the **Overview** page your score will be shown as a percentage, along with the number of points you've achieved out of a total possible points.
+
+1. Additionally, if you select the Include button next to your score, you can choose different views of your score.
+
+    - **Planned score** : Shows projected score when planned actions are completed.
+    
+    - **Current license score** : Shows score that can be achieved with your current Microsoft license.
+    
+    - **Achievable score**: Shows score that can be achieved with your Microsoft licenses and current risk acceptance.
+    
+1. Now select **Improvement actions** tab lists the security recommendations that address possible attack surfaces. It also includes their status (to address, planned, risk accepted, resolved through third party, resolved through alternate mitigation, and completed).
+
+1. When you select a specific improvement action, a full page flyout appears.
+
+   - **Manage** : Select Manage to go the configuration screen and make the change. You'll then gain the points that the action is worth, visible in the fly out.
+   
+   - **Share** : Select Share to copy the direct link to the improvement action. You can also choose the platform to share the link, such as email, Microsoft Teams, Microsoft Planner, or ServiceNow. 
 
