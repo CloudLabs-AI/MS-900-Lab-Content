@@ -141,7 +141,11 @@
 
 1. In the home page of the site Select **+ New**, and then select **Page**.
 
+   ![](Images/img48.png)
+
 1. Choose a page template to start with. For now you can select **Blank** template and click on **Create page**.
+
+   ![](Images/img49.png)
 
 1. Add a page name in the title area.You can customize the title area with an image, a choice of four layouts, text above the title, the ability to change the displayed author, and you can show or hide the published date.
 
