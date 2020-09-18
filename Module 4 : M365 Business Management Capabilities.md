@@ -18,7 +18,9 @@
 ### Task 1 : Create Office 365 Groups
 
 1. From the navigation menu click on **Groups** icon and click on **Active groups**, now select **Add a group** icon.
-   
+
+    ![](Images/img53.png)
+    
 1. On the Choose a group type page, select **Office 365**, and select **Next**.
 
 1. On the Basics page, type a name for the group and a description(optional). Select **Next**.
