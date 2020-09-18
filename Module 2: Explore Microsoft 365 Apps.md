@@ -136,6 +136,24 @@
        ![](Images/img37.png)
     
     -  In **Add group memmbers** pane, add the names or email addresses of anyone else you want to manage this site in the **Add additional owners box**. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**.  
+    
+1. Now  let us add and publish a page in the newly created site.
+
+1. In the home page of the site Select **+ New**, and then select **Page**.
+
+1. Choose a page template to start with. For now you can select **Blank** template and click on **Create page**.
+
+1. Add a page name in the title area.You can customize the title area with an image, a choice of four layouts, text above the title, the ability to change the displayed author, and you can show or hide the published date.
+
+1. Select **Edit web part** icon from here you can select the layout of your choice, Set alignment, Add text above the title.
+
+1. To add an image click on **Add image** button in the toolbar on the left. 
+
+1. Choose a recent image or get an image from a web search, your site, your computer, or a link. If your organization has specified a set of approved images, you'll be able to choose from that set under Your organization. 
+
+1. In **text box** you can add the content. Click **+** to add content like text, documents, video and more. 
+
+1. When done, click **Publish**.
 
 ### Task 6 : Exlpore list
 
