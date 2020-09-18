@@ -167,29 +167,47 @@
 
 1. In Power BI from left navigation menu select **My workspace**, select **New** and from the drop down select **Upload a file**.
 
+   ![](Images/img77.png)
+
 1. Select **Local File**, browse to where you saved the Financial Sample Excel file, and select **Open**.
+
+   ![](Images/img78.png)
 
 1. On the **Local File page**, select **Import**.
 
+   ![](Images/img79.png)
+
 1. Now to create a report. With in **My workspace** select **New** and from the drop down slect **Report**.
 
+   ![](Images/img80.png)
+
 1. In the **Select a dataset to create a report** dialog box, select your **Financial Sample dataset** and click on **Create**.
+
+   ![](Images/img81.png)
 
 ### Task 2 : Visualize data
 
 1. The report opens in Editing view and displays the blank report canvas. On the right are the **Visualizations**, **Filters**, and **Fields** panes.
 
+   ![](Images/img82.png)
+
 1. Now let us create visualizations. Let's say your manager wants to see profit over time. In the Fields pane, select **Profit**. Power BI displays a column chart with one column.
 
 1. From Fields pane, select **Profit**. Power BI updates the column chart to show profit by date. 
+
+   ![](Images/img83.png)
 
 1. We can also create  a map visualization. In this we will check which countries are the most profitable.
 
 1. Select a blank area on your report canvas, from the **Fields** pane, select **Country** and **Profit** field. Power BI creates a map visual with bubbles representing the relative profit of each location.
 
+   ![](Images/img84.png)
+
 1. In this way you can explore through other visualization options.
 
 1. To save your report from the top navigation menu select **File** and click on **Save** provide a name for your report and select **Save**.
+
+   ![](Images/img85.png)
 
 # Exercise 5 : Explore Microsoft EndPoint Manager 
 
