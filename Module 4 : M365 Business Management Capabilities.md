@@ -60,6 +60,8 @@
 1. Under **Apps** select **Planner** and from **Open context menu** click on **Open in new tab** this will redirect you to the Microsoft Planner  web page.
 
 1. Select **New plan**  in the left pane.
+ 
+   ![](Images/img61.png)
 
 1. In the New plan window: 
     
@@ -70,8 +72,12 @@
     - Click on **Add to an existing Microsoft 365 Group** to create your plan in exisiting group or if needed you can create a new group.
     
     - Select **Create plan**.
+    
+       ![](Images/img62.png)
 
 1. Now to add memmbers to the plan, from the upper-right corner of the Planner window click on **Members**
+
+   ![](Images/img63.png)
 
 1. Search the name or email address of a person within your organization that you want to add to the plan and select the person's card when it appears.
 
