@@ -95,3 +95,10 @@
    
    - **Share** : Select Share to copy the direct link to the improvement action. You can also choose the platform to share the link, such as email, Microsoft Teams, Microsoft Planner, or ServiceNow. 
 
+# Exercise 3: Cloud App Security 
+
+### Task 1 : Discover Apps with Cloud App Security  
+
+1. Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB). It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all your cloud services.
+
+1. 
