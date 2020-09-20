@@ -10,17 +10,15 @@
 
 1. When prompted, use the credentials provided in the **Environment Details** page to log in to the admin center.
 
-1. From the navigation menu click on **Users** icon and click on **Active users** from here you can see the users that are active.
+1. From the navigation menu, click on the **Users** icon and click on **Active users**. Here you can see the users that are active.
 
    ![](Images/img1.png)
 
-1. From the navigation menu click on **Groups** icon and click on **Active groups** this displays list of all the groups that are created
+1. From the navigation menu click on **Groups** icon and click on **Active groups**. This will display list of all the groups that are created
 
    ![](Images/img2.png)
 
-1. Now let us create a new user.
-
-1. From the navigation menu click on **Users icon** and click on **Active users** , Now select **Add a user** icon.
+1. Now to create a new user, from the navigation menu click on **Users icon** and click on **Active users** , Now select **Add a user** icon.
 
    ![](Images/img3.png)
 
@@ -38,7 +36,7 @@
 
      ![](Images/img5.png)
 
-1. In the  **Assign product licenses**  pane, select the location and in licenses under **Assign a user product license** select **office 365 E5** license and select **Next**.
+1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, select **office 365 E5** under **Assign a user product license**  and select **Next**.
 
    ![](Images/img6.png)
 
