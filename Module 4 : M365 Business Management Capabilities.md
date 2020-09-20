@@ -2,7 +2,7 @@
 
 # Exercise 1: Types of Groups in M365 
 
-1.In the Groups section of the Microsoft 365 admin center, you can create and manage diffrent types of groups:
+1. In the Groups section of the Microsoft 365 admin center, you can create and manage diffrent types of groups:
 
    - **Microsoft 365 group** :  Microsoft 365 groups are used for collaboration between users, both inside and outside your company. With each Microsoft 365 group, members get a group email and shared workspace for conversations, files, and calendar events, and a Planner.
    
@@ -11,7 +11,7 @@
    
    - **Mail-enabled security** : These groups are used for granting access to resources such as SharePoint, and emailing notifications to those users.
    
-   - **Security groups** : They can be used for granting access to resources such as SharePoint sites.They can make administration easier because you need to only administer the group rather than adding users to each resource individually.
+   - **Security groups** : They can be used for granting access to resources such as SharePoint sites. They can make administration easier because you need to only administer the group rather than adding users to each resource individually.
    
 # Exercise 2: Create M365 Groups
 
@@ -21,33 +21,33 @@
 
    ![](Images/img53.png)
     
-1. On the Choose a group type page, select **Office 365**, and select **Next**.
+1. On the Choose a group type page, select **Office 365**, and click on **Next**.
 
    ![](Images/img54.png)
 
-1. On the Basics page, type a name for the group and a description(optional). Select **Next**.
+1. On the Basics page, type a name for the group and a description(optional). Click **Next**.
 
    ![](Images/img55.png)
 
-1. In the Owners page, choose the name of one or more people who will be designated to manage the group. Anyone who is a group owner can add or remove members and have unique permissions like the ability to delete conversations from the shared inbox or change different settings about the group. Select **Next**.
+1. In the **Owners** page, choose the name of one or more people who will be designated to manage the group. Anyone who is a group owner can add or remove members and have unique permissions like the ability to delete conversations from the shared inbox or change different settings about the group. Click **Next**.
  
    ![](Images/img56.png)
    
-1. Now in the **Settings** page, type a unique email address for the group, choose a privacy option based on your requirement and whether you want to add Microsoft Teams for group, and then selec **Next**.
+1. Now in the **Settings** page, type a unique email address for the group, choose a privacy option based on your requirement and whether you want to add Microsoft Teams for group, and then click **Next**.
 
    ![](Images/img57.png)
 
-1. Review your settings and making any changes if needed, select **Create group** and then select **close**.
+1. Review your settings and make any changes if needed, select **Create group** and then **close**.
 
    ![](Images/img58.png)
 
 1. In the admin center, select the name of the group that you want to add members to. Refresh the page if your not able to see newly created group.
 
-1. To add memmbers to the group, navigate to the **Members tab** and select **View all and manage members**.
+1. To add members to the group, navigate to the **Members tab** and select **View all and manage members**.
 
    ![](Images/img59.png)
    
-1. Click on **Add members**, select the users you want to add, and then select **Save**.
+1. Click on **Add members**, select the users you want to add, and then click on **Save**.
 
    ![](Images/img60.png)
 
@@ -55,15 +55,15 @@
 
 1. Microsoft Planner provides a hub for team members to create plans, organise and assign tasks to different users and to check updates on progress through dashboards. It also provides a centralised place where files can be shared and gives visibility to the whole team.
 
-1. From the top right corner of admin  center click on **App launcher**
+1. From the top right corner of admin center click on **App launcher**.
 
-1. Under **Apps** select **Planner** and from **Open context menu** click on **Open in new tab** this will redirect you to the Microsoft Planner  web page.
+1. Under **Apps** select **Planner** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft Planner  web page.
 
 1. Select **New plan**  in the left pane.
  
    ![](Images/img61.png)
 
-1. In the New plan window: 
+1. In the **New plan** window: 
     
     - Enter a name for the plan
     
@@ -75,13 +75,13 @@
     
        ![](Images/img62.png)
 
-1. Now to add memmbers to the plan, from the upper-right corner of the Planner window click on **Members**
+1. Now to add members to the plan, from the upper-right corner of the Planner window click on **Members**.
 
    ![](Images/img63.png)
 
 1. Search the name or email address of a person within your organization that you want to add to the plan and select the person's card when it appears.
 
-1. Now to assing task to people click on **Add task** 
+1. Now to assign task to people click on **Add task** 
     
     - Provide a task name
     
@@ -99,7 +99,7 @@
 
 1. From the top right corner click on **App launcher**
 
-1. Under **Apps** select **outlook** and from **Open context menu** click on **Open in new tab** this will redirect you to the Microsoft Forms  web page.
+1. Under **Apps** select **outlook** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft Forms  web page.
 
 1. Select **New Form** to begin creating your form.
 
@@ -115,13 +115,13 @@
 
    ![](Images/img67.png)
 
-1. For now select **Choice**.Enter the text you want to display for the question and each of the choices. Click **Add Option** to add more choices than the default two choices.
+1. For now select **Choice**. Enter the text you want to display for the question and each of the choices. Click **Add Option** to add more choices than the default two choices.
 
 1. Click **Add New** to add more questions to your form. Now select **Text**.
 
 1. For text questions, select the **Long Answer** option if you want a larger text box displayed on the form.
 
-1. Text questions also allow you to set restrictions when you need to have numbers as the answer.Click on **More settings for question More options** button , and then select **Restrictions**
+1. Text questions also allow you to set restrictions when you need to have numbers as the answer. For this cick on **More options** button , and then select **Restrictions**.
     
    ![](Images/img68.png)
    
@@ -131,7 +131,7 @@
    
    ![](Images/img70.png)
 
-1. Click Preview at the top of the design window to see how your form will look on a computer. Now  to test your form, enter answers for the questions in preview mode and then click **Submit**.
+1. Click Preview at the top of the design window to see how your form will look on a computer. Now  to test your form, enter answers for the questions in preview mode and then click on **Submit**.
 
    ![](Images/img71.png)
    
@@ -147,7 +147,7 @@
 
    ![](Images/img74.png)
 
-1. If you prefer to customize theme, with  in the theme page scroll down and select **+ Customize theme** buttton. From here you can either upload a  image by clicking on **Upload image** icon or customize color of your choice by clicking on **Customize color** button.
+1. If you prefer to customize theme, with  in the theme page scroll down and select **+ Customize theme** button. From here you can either upload a  image by clicking on **Upload image** icon or customize color of your choice by clicking on **Customize color** button.
 
    ![](Images/img75.png)
 
@@ -159,25 +159,25 @@
 
 ### Task 1: Import data to PowerBI
 
-1. From the top right corner click on **App launcher**
+1. From the top right corner of admin center click on **App launcher**
 
-1. Under **Apps** select **Power BI** and from **Open context menu** click on **Open in new tab** this will redirect you to the Microsoft **Power BI**  web page.
+1. Under **Apps**, select **Power BI** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft **Power BI** web page.
 
 1. Download sample data from https://docs.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
 
    ![](Images/img77.png)
    
-1. In Power BI from left navigation menu select **My workspace**, select **New** and from the drop down select **Upload a file**.
+1. In Power BI, from left navigation menu select **My workspace**, click on **New** and from the drop down select **Upload a file**.
 
    ![](Images/img78.png)
 
-1. Select **Local File**, browse to where you saved the Financial Sample Excel file, and select **Open**.
+1. Select **Local File**, browse to where you saved the Financial Sample data file, and click on **Open**.
 
    ![](Images/img79.png)
 
 1. On the **Local File page**, select **Import**.
 
-1. Now to create a report. With in **My workspace** select **New** and from the drop down slect **Report**.
+1. Now to create a report. With in **My workspace** select **New** and from the drop down select **Report**.
 
 1. In the **Select a dataset to create a report** dialog box, select your **Financial Sample dataset** and click on **Create**.
 
@@ -189,11 +189,11 @@
 
    ![](Images/img81.png)
 
-1. Now let us create visualizations. Let's say your manager wants to see profit over time. In the Fields pane, select **Profit**. Power BI displays a column chart with one column.
+1. Now let us create visualizations. Let's say your manager wants to see profit over time. To do this, in the Fields pane select **Profit**. Power BI displays a column chart with one column.
 
    ![](Images/img82.png)
 
-1. From Fields pane, select **Profit**. Power BI updates the column chart to show profit by date. 
+1. From Fields pane, select **Date**. Power BI updates the column chart to show profit by date. 
 
    ![](Images/img83.png)
 
@@ -205,7 +205,7 @@
 
 1. In this way you can explore through other visualization options.
 
-1. To save your report from the top navigation menu select **File** and click on **Save** provide a name for your report and select **Save**.
+1. To save your report from the top navigation menu, select **File** and click on **Save**, provide a name for your report and select **Save**.
 
    ![](Images/img85.png)
 
