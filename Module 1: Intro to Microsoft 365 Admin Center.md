@@ -14,7 +14,7 @@
 
    ![](Images/img1.png)
 
-1. From the navigation menu click on **Groups** icon and click on **Active groups**. This will display list of all the groups that are created
+1. From the navigation menu click on **Groups** icon and click on **Active groups**. This will display list of all the groups that are created.
 
    ![](Images/img2.png)
 
@@ -50,13 +50,13 @@
 
 ### Task 2: End User Experience
 
-1. Now we will login with the newly created user.
+1. Now login with the newly created user.
 
-2. open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+2. Open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
 1. When prompted enter the username and password of the user that you created in the previous step.
 
-   >**Note**: you can get username by clicking on **Users**  and  **Active users** from navigation menu and in Active Users pane note username for your newly created  user
+   >**Note**: You can get the username by clicking on **Users** and then **Active users** from the navigation menu. In the Active Users pane note down the username for your newly created  user
 
 1. When logging in with the new user for the first time it will prompt you to update your password, provide your current password and new password and select sign in.
    
@@ -64,23 +64,23 @@
     
 1. From the top right corner click on **App launcher**
 
-1. Under **Apps** select **outlook** and from **Open context menu** click on **Open in new tab** this will redirect you to the outlook mail.
+1. Under **Apps**, select **Outlook** and from **Open context menu** click on **Open in new tab**. This will redirect you to the outlook mail.
    
    ![](Images/img9.png)
 
-1. Switch back to the user account and from  **App launcher**, under **Apps** select **OneDrive**  from **Open context menu** click on **Open in new tab** this will redirect you  to the **OneDrive**.
+1. Now switch back to the user account and from  **App launcher** under **Apps**, select **OneDrive**  from **Open context menu** click on **Open in new tab** this will redirect you to **OneDrive**.
    
    ![](Images/img10.png)
 
 ### Task 3: Verify Custom Domains in the tenant and Access other admin centers
 
-1. To verify the custom domains, from navigation pane select **Settings** under settings select **Domains**.
+1. To verify the custom domains, from navigation pane select **Settings** and choose **Domains**.
 
    ![](Images/img12.png)
 
-1. The available domains can be found here.We can also purschase new doamins or add any existing domain from **Domains** page.
+1. All the available domains can be found here. We can also purschase new domains or add any existing domain from the **Domains** page.
 
-1. To access other admin centers, from navigation pane select **Admin centers** and select **All Admin centers**.
+1. To access other admin centers, from navigation pane select **Admin centers** and choose all **All Admin centers**.
 
    ![](Images/img13.png)
 
