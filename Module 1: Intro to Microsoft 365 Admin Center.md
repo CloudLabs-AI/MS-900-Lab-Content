@@ -36,7 +36,7 @@
 
      ![](Images/img5.png)
 
-1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, select **office 365 E5** under **Assign a user product license**  and select **Next**.
+1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, choose **Assign user a product license**  and   select **office 365 E5** license. Click **Next**.
 
    ![](Images/img6.png)
 
@@ -44,7 +44,7 @@
 
    ![](Images/img7.png)
 
-1. In **Review and Finish** pane review your new user&#39;s settings, then select  **Finish adding** , then  **Close**.
+1. In **Review and Finish** pane, review the new user&#39;s settings and click on **Finish adding**, then **Close**.
 
    ![](Images/img8.png)
 
