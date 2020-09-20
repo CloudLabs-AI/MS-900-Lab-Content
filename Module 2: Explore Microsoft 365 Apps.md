@@ -135,11 +135,11 @@
     
        ![](Images/img37.png)
     
-    -  In **Add group members** pane, under **Add additional owners box** add the names or email addresses of others whom you want to allow to manage this site. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**.  
+    -  In **Add group members** pane, under **Add additional owners box** add the names or email addresses of others whom you would want to allow to manage this site. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**.  
     
 1. Now  let us add and publish a page in the newly created site.
 
-1. In the home page of the site Select **+ New**, and then select **Page**.
+1. In the home page of the site click on **New**, and then select **Page**.
 
    ![](Images/img48.png)
 
@@ -147,7 +147,7 @@
 
    ![](Images/img49.png)
 
-1. Add a page name in the title area.You can customize the title area with an image, a choice of four layouts, text above the title, the ability to change the displayed author, and you can show or hide the published date.
+1. Add a page name in the title area. You can customize the title area with an image, a choice of four layouts, text above the title, the ability to change the displayed author, and you can show or hide the published date.
 
 1. Select **Edit web part** icon from here you can select the layout of your choice, Set alignment, Add text above the title.
   
