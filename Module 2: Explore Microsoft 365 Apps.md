@@ -117,13 +117,13 @@
 
 1. Microsoft SharePoint  helps organizations share and manage content, knowledge, and applications to Empower team work, Quickly find information and Seamlessly collaborate across the organization.
 
-1. Switch back to the admin portal. From the  **App launcher** click on All apps and in the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab** this will redirect you  to the **SharePoint** web page. 
+1. Switch back to the admin portal, from the  **App launcher** click on **All apps**. In the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab**. This will redirect you  to the **SharePoint** web page. 
 
 1. From the top of the SharePoint page, click **+ Create site**  option.
   
    ![](Images/img35.png)
 
-1. A site creation wizard will appear on the right-hand side of the screen, based on your requirement you  can select **Team site** or **Communication site**. For now select **Team site**.
+1. A site creation wizard will appear on the right-hand side of the screen. Based on your requirement you  can select **Team site** or **Communication site**. For now select **Team site**.
    
    ![](Images/img36.png)
    
@@ -131,11 +131,11 @@
     
     - In Privacy settings section, choose either **Public - anyone in the organization can access this site** or **Private - only members can access this site** to control who has access to your site.
 
-    -  Select a language for your site and clcik on **Next**
+    -  Select a language for your site and click on **Next**
     
        ![](Images/img37.png)
     
-    -  In **Add group memmbers** pane, add the names or email addresses of anyone else you want to manage this site in the **Add additional owners box**. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**.  
+    -  In **Add group members** pane, under **Add additional owners box** add the names or email addresses of others whom you want to allow to manage this site. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**.  
     
 1. Now  let us add and publish a page in the newly created site.
 
