@@ -183,8 +183,6 @@
 
    ![](Images/img105.png)
    
-   ![](Images/img106.png)
-   
    ![](Images/img107.png)
 
 1. In **Publish to users and groups** pane select the **Users and Groups** and click on **Add**. Now select users or groups which you are going to publish this label and Click **Next** to continue.
