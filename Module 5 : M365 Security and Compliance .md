@@ -79,13 +79,16 @@
 
      -  **Active assignments** don't require the member to perform any action to use the role. Members assigned as active have the privileges assigned to the role at all times.
      
-           ![](Images/img125.png)
 
 1. To specify a specific assignment duration, add a start and end date and time boxes. When finished, select **Assign** to create the new role assignment.
+
+   ![](Images/img125.png)
 
 1. After the role is assigned, an assignment status notification is displayed.
 
 1. Now select **Assignments** from here you can check **Eligible**, **Active** and **Expired** assignments. You can also add new assignments from here.
+
+   ![](Images/img126.png)
 
 # Exercise 2: Threat Protection 
 
