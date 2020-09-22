@@ -102,3 +102,45 @@
 1. Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB). It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all your cloud services.
 
 1. 
+
+### Exercise 4 : Information Protection 
+
+### Task 1 : Setup Data sensitivity label and policy 
+
+1. Sensitivity labels from the Microsoft Information Protection framework let you classify and protect your organization's data, while making sure that user productivity and their ability to collaborate isn't hindered.
+
+1. In the **admin center**, from  the navigation menu scroll down to  **Admin centers** and select **Compliance**, the Microsoft 365 Compliance center overview page will appear.
+
+1. Now under **Solutions** select **Information protection**. If you don't immediately see this option, first select **Show all**.
+
+1. On the **Labels** page, select **+ Create a label** to start the New sensitivity label wizard.
+
+1. Enter a **Label name**  and **Description**. Select **Next**.
+
+1. In **Encryption** page, choose when you want to assign permissions, whether you want your users' access to the content to expire, and whether you want to allow offline access. 
+
+      - **Encryption** : select Apply.
+      
+      - **Assign permissions now or let users decide?** : select Assign permissions now.
+      
+      - **User access to content expires** : select On a specific date. You can also select other options based on requirement.
+      
+      - **Acess expires** : Select a date. After this time, users won't be able to open the labeled item.
+      
+      - **Allow offline access** :  Never, always, or for a specific number of days after the label is applied. If you restrict offline access to never or a number of days, when that threshold is reached, users must be reauthenticated and their access is logged. 
+      
+1. Under **Assign permissions to specific users or groups** click on **Assign permissions**. From here you can grant permissions to specific people so that only they can interact with the labeled content.
+ 
+1. In **Assign permissions** pane, add users or groups that will be assigned permissions to the labeled content. For now select **+ Add users or groups** and select the user or group for whom you want to assign the label. Select **Add**.
+ 
+1. Now in **Assign permissions** pane, click on **Choose permissions**. 
+
+1. When you choose which permissions to allow for those users or groups, you can select either a predefined permissions level with a preset group of rights, such as Co-Author, CO-Owner, Reviewer or Viewer and Custom permissions, where you choose one or more usage rights.
+
+1. On the **Assign Permissions** pane, select **Save**. Click on **Next**.
+
+
+     
+ 
+ 
+      
