@@ -111,11 +111,17 @@
 
 1. In the **admin center**, from  the navigation menu scroll down to  **Admin centers** and select **Compliance**, the Microsoft 365 Compliance center overview page will appear.
 
+   ![](Images/img89.png)
+
 1. Now under **Solutions** select **Information protection**. If you don't immediately see this option, first select **Show all**.
 
 1. On the **Labels** page, select **+ Create a label** to start the New sensitivity label wizard.
 
+   ![](Images/img90.png)
+
 1. Enter a **Label name**  and **Description**. Select **Next**.
+
+   ![](Images/img91.png)
 
 1. In **Encryption** page, choose when you want to assign permissions, whether you want your users' access to the content to expire, and whether you want to allow offline access. 
 
@@ -129,9 +135,13 @@
       
       - **Allow offline access** :  Never, always, or for a specific number of days after the label is applied. If you restrict offline access to never or a number of days, when that threshold is reached, users must be reauthenticated and their access is logged. 
       
+         ![](Images/img92.png)
+      
 1. Under **Assign permissions to specific users or groups** click on **Assign permissions**. From here you can grant permissions to specific people so that only they can interact with the labeled content.
  
 1. In **Assign permissions** pane, add users or groups that will be assigned permissions to the labeled content. For now select **+ Add users or groups** and select the user or group for whom you want to assign the label. Select **Add**.
+
+   ![](Images/img93.png)
  
 1. Now in **Assign permissions** pane, click on **Choose permissions**. 
 
