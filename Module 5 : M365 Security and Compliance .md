@@ -139,6 +139,15 @@
 
 1. On the **Assign Permissions** pane, select **Save**. Click on **Next**.
 
+1. On the **Content Marking** page, you can configure the Header, Footer and the Water Marking for this label. Click Next.
+
+1. In **Auto-labeling for Office apps**, turn on **Auto labeling**. Add a condition, under **Detect content that matches these conditions**, select Add a condition. 
+
+1. Select **Next**. Review your settings, and select **Create**. Your label will be created. Repeat this process for any additional labels you want.
+
+1. Click on your newly created label from here you can edit, publish or delete it.
+
+
 
      
  
