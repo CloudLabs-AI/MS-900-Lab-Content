@@ -173,5 +173,21 @@
 
 1. In the **Assessments** dashboard, select the assessment name to open it and view the Action Items and Controls Info.
 
-1. 
+1. In the **Assessments** dashboard, you can add your assessment by clicking on **Add Assessment**.
+
+
+### Task 2 : Customer Lockbox 
+
+1. Customer Lockbox ensures that Microsoft cannot access your content to perform a service operation without your explicit approval. Customer Lockbox brings you into the approval workflow for requests to access your content.
+
+1. In the **admin center**, from  the navigation menu scroll down to  **Settings** and select **Org settings**.
+
+1. Select **Services** in the search bar search and select  **Customer Lockbox**.
+
+1. Now enable the setting **Require approval for all data access requests**.
+
+1. To approve or deny requests, head over to the Office 365 admin center and under **Support** select **Customer Lockbox requests**. User with Global Admin role and Customer Lockbox access approver role can approve or deny requests.
+
+
+
       
