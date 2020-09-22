@@ -182,8 +182,6 @@
 
 1. In the **admin center**, from  the navigation menu scroll down to  **Settings** and select **Org settings**.
 
-   ![](Images/img86.png)
-
 1. Select **Services** in the search bar search and select  **Customer Lockbox**.
 
    ![](Images/img86.png)
