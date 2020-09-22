@@ -61,19 +61,25 @@
 
 1. Select **Notification**, from here we can configure to receive notification when a member is assigned as eligible to role or when a role is activated.
 
-   ![](Images/img123.png)
+   ![](Images/img122.png)
 
 1. Now to assign a role, within **Azure AD Privileged Identity Management** page under manage, click on **Roles**. This displays list of roles for Azure AD permissions.
 
 1. Select **Add assignments** to open the Add assignments page.
 
+   ![](Images/img123.png)
+
 1. From **Select role** drop down select a role you want to assign, and under **Select  members** select a member to whom you want to assign   the role, and then select **Next**.
+   
+   ![](Images/img124.png)
 
 1. In the **Assignment type** list on the **Membership settings** pane, select **Eligible** or **Active**.
 
      -  **Eligible assignments** require the member of the role to perform an action to use the role. Actions might include performing a multi-factor authentication (MFA) check, providing a business justification, or requesting approval from designated approvers.
 
      -  **Active assignments** don't require the member to perform any action to use the role. Members assigned as active have the privileges assigned to the role at all times.
+     
+           ![](Images/img125.png)
 
 1. To specify a specific assignment duration, add a start and end date and time boxes. When finished, select **Assign** to create the new role assignment.
 
