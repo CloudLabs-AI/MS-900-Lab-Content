@@ -186,13 +186,15 @@
 
 1. Select **Services** in the search bar search and select  **Customer Lockbox**.
 
-   ![](Images/img87.png)
+   ![](Images/img86.png)
 
 1. Now enable the setting **Require approval for all data access requests**.
 
-   ![](Images/img88.png)
+   ![](Images/img87.png)
 
 1. To approve or deny requests, head over to the Office 365 admin center and under **Support** select **Customer Lockbox requests**. User with Global Admin role and Customer Lockbox access approver role can approve or deny requests.
+
+   ![](Images/img88.png)
 
 
 
