@@ -12,7 +12,15 @@
 
 1. From  the navigation menu scroll down to  **Admin centers** and select **Azure Active Directory**, the Azure Active Directory overview page will appear.
 
-1. On the left side of the page scroll down to the **Security group**, then click **Conditional access**.
+   ![](Images/img116.png)
+
+1. On the left side of the page scroll down to the **Security**.
+
+   ![](Images/img127.png)
+
+1. In the **Security** page select **Conditional access**.
+
+   ![](Images/img128.png)
 
 1. At the top of the Policies pane, click **+ New Policy**. 
 
