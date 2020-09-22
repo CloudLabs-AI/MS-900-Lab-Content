@@ -31,13 +31,21 @@
 
 1. From  the navigation menu scroll down to  **Admin centers** and select **Azure Active Directory**, the Azure Active Directory overview page will appear.
 
+   ![](Images/img116.png)
+   
 1. In Azure Active Directory page click on **All services**  and select **Azure AD Privileged Identity Management**.
 
 1. Under **Manage** select **Azure AD roles**. 
 
+   ![](Images/img117.png)
+
 1. Now select **Settings**, from here you can configure role settings. Explore through the roles and select the role whose settings you want to configure.
 
+   ![](Images/img118.png)
+
 1. Select **Edit** to open the Role settings page. On the Role setting page for each role, there are several settings you can configure.
+
+   ![](Images/img119.png)
 
 1. Use the **Activation maximum duration** slider to set the maximum time, in hours, that a role stays active before it expires. This value can be from 1 to 24 hours.
 
