@@ -177,17 +177,29 @@
 
 1. Now click on **Label policies** and select **Publish labels**. 
 
-   ![](Images/img103.png)
+   ![](Images/img104.png)
 
 1. On the next page Click  **Choose sensitivity labels to publish**, and select your newly created label and click **ADD**  and then click **Next**.
 
+   ![](Images/img105.png)
+   
+   ![](Images/img106.png)
+
 1. In **Publish to users and groups** pane select the **Users and Groups** and click on **Add**. Now select users or groups which you are going to publish this label and Click **Next** to continue.
+   
+   ![](Images/img108.png)
 
 1. Under the **Policy Setting**, select the way you prefer and click **Next**.
 
+   ![](Images/img109.png)
+
 1. Provide Name and Description for your policy. Click **Next**.
 
+   ![](Images/img110.png)
+
 1. Click **Submit** to finish the policy creation for the label.
+
+   ![](Images/img111.png)
 
 ### Exercise 5 : Compliance Manager 
 
