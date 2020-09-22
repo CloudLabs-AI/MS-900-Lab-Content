@@ -159,6 +159,19 @@
 
 1. Click **Submit** to finish the policy creation for the label.
 
+### Exercise 5 : Compliance Manager 
 
- 
+### Task 1 : Explore Compliance Manager 
+
+1. Compliance Manager measures your progress in completing actions that help reduce risks around data protection and regulatory standards.
+
+1. In the **admin center**, from  the navigation menu scroll down to  **Admin centers** and select **Compliance**, the Microsoft 365 Compliance center overview page will appear.
+
+1. From the left navigation pane select **Compliance Manager**. In the overview page you can see your overall Compliance score, Compliance score breakdown.
+
+1. In the **Compliance Manager** page select **Assessments**. Assessments help us to implement data protection controls specified by compliance, security, privacy, and data protection standards, regulations, and laws. 
+
+1. In the **Assessments** dashboard, select the assessment name to open it and view the Action Items and Controls Info.
+
+1. 
       
