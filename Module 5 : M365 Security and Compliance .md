@@ -147,9 +147,18 @@
 
 1. Click on your newly created label from here you can edit, publish or delete it.
 
+1. Now click on **Label policies** and select **Publish labels**. 
+
+1. On the next page Click  **Choose sensitivity labels to publish**, and select your newly created label and click **ADD**  and then click **Next**.
+
+1. In **Publish to users and groups** pane select the **Users and Groups** and click on **Add**. Now select users or groups which you are going to publish this label and Click **Next** to continue.
+
+1. Under the **Policy Setting**, select the way you prefer and click **Next**.
+
+1. Provide Name and Description for your policy. Click **Next**.
+
+1. Click **Submit** to finish the policy creation for the label.
 
 
-     
- 
  
       
