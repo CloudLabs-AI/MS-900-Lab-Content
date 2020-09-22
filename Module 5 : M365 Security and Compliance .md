@@ -24,7 +24,7 @@
 
 1. At the top of the Policies pane, click **+ New Policy**. 
 
-1. Under Assignments, select **Users and groups**. Under Include, select **All users** and click on **Done**.
+1. Provide a name for your policy. Under Assignments, select **Users and groups**. Under Include, select **All users** and click on **Done**.
 
 1. Under **Cloud apps**, click on **Select Apps** and select the apps for which you intend to apply policy.
 
