@@ -79,6 +79,8 @@
 
 1. Select **Secure Score** from the left hand menu. In the **Overview** page your score will be shown as a percentage, along with the number of points you've achieved out of a total possible points.
 
+   ![](Images/img112.png)
+
 1. Additionally, if you select the Include button next to your score, you can choose different views of your score.
 
     - **Planned score** : Shows projected score when planned actions are completed.
@@ -87,13 +89,19 @@
     
     - **Achievable score**: Shows score that can be achieved with your Microsoft licenses and current risk acceptance.
     
+       ![](Images/img113.png)
+    
 1. Now select **Improvement actions** tab, this lists the security recommendations that address possible attack surfaces. It also includes their status (to address, planned, risk accepted, resolved through third party, resolved through alternate mitigation, and completed).
+
+   ![](Images/img114.png)
 
 1. When you select a specific improvement action, a full page flyout appears.
 
    - **Manage** : Select Manage to go to the configuration screen and make the change. You'll then gain the points that the action is worth, visible in the fly out.
    
    - **Share** : Select Share to copy the direct link to the improvement action. You can also choose the platform to share the link, such as email, Microsoft Teams, Microsoft Planner, or ServiceNow. 
+   
+       ![](Images/img115.png)
 
 # Exercise 3: Cloud App Security 
 
