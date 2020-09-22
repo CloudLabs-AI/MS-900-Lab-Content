@@ -49,13 +49,19 @@
 
 1. Use the **Activation maximum duration** slider to set the maximum time, in hours, that a role stays active before it expires. This value can be from 1 to 24 hours.
 
+   ![](Images/img120.png)
+
 1. To require multi-factor authentication before activation, check the Require Multi-Factor Authentication on activation box in the Assignment tab of Edit role setting.
 
 1. **Requires approval to activate** Specifies whether a member of the Privileged Role Administrators or Security Administrators group is required to approve the activation.
 
 1. Now select **Assignment**, from here you can choose one of these eligible assignment duration options.
 
+   ![](Images/img121.png)
+
 1. Select **Notification**, from here we can configure to receive notification when a member is assigned as eligible to role or when a role is activated.
+
+   ![](Images/img123.png)
 
 1. Now to assign a role, within **Azure AD Privileged Identity Management** page under manage, click on **Roles**. This displays list of roles for Azure AD permissions.
 
