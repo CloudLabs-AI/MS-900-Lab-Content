@@ -145,9 +145,15 @@
  
 1. Now in **Assign permissions** pane, click on **Choose permissions**. 
 
+   ![](Images/img95.png)
+
 1. When you choose which permissions to allow for those users or groups, you can select either a predefined permissions level with a preset group of rights, such as Co-Author, CO-Owner, Reviewer or Viewer and Custom permissions, where you choose one or more usage rights.
 
+   ![](Images/img96.png)
+   
 1. On the **Assign Permissions** pane, select **Save**. Click on **Next**.
+
+   ![](Images/img97.png)
 
 1. On the **Content Marking** page, you can configure the Header, Footer and the Water Marking for this label. Click Next.
 
