@@ -157,13 +157,27 @@
 
 1. On the **Content Marking** page, you can configure the Header, Footer and the Water Marking for this label. Click Next.
 
+   ![](Images/img98.png)
+   
+   ![](Images/img99.png)
+
 1. In **Auto-labeling for Office apps**, turn on **Auto labeling**. Add a condition, under **Detect content that matches these conditions**, select Add a condition. 
+
+   ![](Images/img100.png)
+   
+   ![](Images/img101.png)
 
 1. Select **Next**. Review your settings, and select **Create**. Your label will be created. Repeat this process for any additional labels you want.
 
+   ![](Images/img102.png)
+
 1. Click on your newly created label from here you can edit, publish or delete it.
 
+   ![](Images/img103.png)
+
 1. Now click on **Label policies** and select **Publish labels**. 
+
+   ![](Images/img103.png)
 
 1. On the next page Click  **Choose sensitivity labels to publish**, and select your newly created label and click **ADD**  and then click **Next**.
 
