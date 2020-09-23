@@ -24,23 +24,37 @@
 
 1. At the top of the Policies pane, click **+ New Policy**. 
 
+   ![](Images/img142.png)
+
 1. Provide a name for your policy. Under Assignments, select **Users and groups**. In Include tab, select **Users and groups**. In the search bar search  and select the user's you intend to enable MFA and click on **Select**.
+
+   ![](Images/img135.png)
 
 1. Under **Cloud apps**, click on **Select Apps** and select the apps for which you intend to apply policy.
 
+   ![](Images/img136.png)
+
 1. Now under **Access controls** select **Grant**, and then select **Grant access**, check the **Require multi-factor authentication** checkbox, and click on **select**.
+
+   ![](Images/img137.png)
 
 1. Now in Conditions tab select **Client apps** and in **Client apps** page under **Configure** select **Yes** and then select **Done**. You can also make use of other conditions like risk, device platform, or location based on your requirement.
 
-1. Confirm your settings and set Enable policy to **On**.
+   ![](Images/img138.png)
 
-1. Click on **Create** to create and enable your policy.
+1. Confirm your settings and set Enable policy to **On**. Click on **Create** to create and enable your policy.
+
+   ![](Images/img139.png)
 
 1. Now to test the policy login to the user admin account for whom you enabled MFA. From **App launcher** under Apps, select the app for which you enabled MFA.
 
 1. You're required to register for and use Azure Multi-Factor Authentication. In more information required page click **Next**.
 
 1. Follow the prompts to complete the process and verify you successfully sign in to the portal.
+
+   ![](Images/img141.png)
+   
+   ![](Images/img142.png)
 
 ### Task 2 : Azure AD PIM                                                                                                                                                                               
 1. Privileged Identity Management (PIM) is a service in Azure Active Directory (Azure AD) that enables you to manage, control, and monitor access to important resources in your organization. These resources include resources in Azure AD, Azure, and other Microsoft Online Services such as Microsoft 365 or Microsoft Intune.
