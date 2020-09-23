@@ -24,15 +24,23 @@
 
 1. At the top of the Policies pane, click **+ New Policy**. 
 
-1. Provide a name for your policy. Under Assignments, select **Users and groups**. Under Include, select **All users** and click on **Done**.
+1. Provide a name for your policy. Under Assignments, select **Users and groups**. In Include tab, select **Users and groups**. In the search bar search  and select the user's you intend to enable MFA and click on **Select**.
 
 1. Under **Cloud apps**, click on **Select Apps** and select the apps for which you intend to apply policy.
 
 1. Now under **Access controls** select **Grant**, and then select **Grant access**, check the **Require multi-factor authentication** checkbox, and click on **select**.
 
+1. Now in Conditions tab select **Client apps** and in **Client apps** page under **Configure** select **Yes** and then select **Done**. You can also make use of other conditions like risk, device platform, or location based on your requirement.
+
 1. Confirm your settings and set Enable policy to **On**.
 
 1. Click on **Create** to create and enable your policy.
+
+1. Now to test the policy login to the user admin account for whom you enabled MFA. From **App launcher** under Apps, select the app for which you enabled MFA.
+
+1. You're required to register for and use Azure Multi-Factor Authentication. In more information required page click **Next**.
+
+1. Follow the prompts to complete the process and verify you successfully sign in to the portal.
 
 ### Task 2 : Azure AD PIM                                                                                                                                                                               
 1. Privileged Identity Management (PIM) is a service in Azure Active Directory (Azure AD) that enables you to manage, control, and monitor access to important resources in your organization. These resources include resources in Azure AD, Azure, and other Microsoft Online Services such as Microsoft 365 or Microsoft Intune.
