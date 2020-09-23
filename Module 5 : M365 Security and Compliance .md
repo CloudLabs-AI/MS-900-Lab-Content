@@ -52,9 +52,9 @@
 
 1. Follow the prompts to complete the process and verify you successfully sign in to the portal.
 
-   ![](Images/img141.png)
+   ![](Images/img140.png)
    
-   ![](Images/img142.png)
+   ![](Images/img141.png)
 
 ### Task 2 : Azure AD PIM                                                                                                                                                                               
 1. Privileged Identity Management (PIM) is a service in Azure Active Directory (Azure AD) that enables you to manage, control, and monitor access to important resources in your organization. These resources include resources in Azure AD, Azure, and other Microsoft Online Services such as Microsoft 365 or Microsoft Intune.
