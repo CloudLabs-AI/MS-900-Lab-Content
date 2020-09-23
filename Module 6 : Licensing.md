@@ -19,14 +19,12 @@
 1. This displays the list of users to whom the selected license is assigned. From here you can assign license to users.
 
 1. Click on **Assign licenses**.
- 
-   ![](Images/img132.png)
 
 1. In the **Assign licenses to users** pane, begin typing a name, and then choose it from the results to add it to the list. You can add up to 20 users at a time.
 
-   ![](Images/img133.png)
-
 1. Select **Turn apps and services on or off** to assign or remove access to specific items.
+   
+   ![](Images/img132.png)
 
 1. When you're finished, select **Assign**, then select Close.
 
@@ -37,3 +35,5 @@
 1. Select **Unassign licenses**. In the Unassign licenses box, select Unassign.
 
 1. Now in the licenses page click on **Requests**. From here you can approve or deny the requests made from members of your organization for license assignments.
+
+    ![](Images/img133.png)
