@@ -10,15 +10,21 @@
 
 1. From  the navigation menu scroll down to  **Billing** and select **Licenses**.
 
-   ![](Images/img116.png)
+   ![](Images/img130.png)
    
 1. In the Subscriptions page you can see all Available licenses, Assigned licenses. Click on any of the product to get detailed information.
+
+   ![](Images/img131.png)
 
 1. This displays the list of users to whom the selected license is assigned. From here you can assign license to users.
 
 1. Click on **Assign licenses**.
+ 
+   ![](Images/img132.png)
 
 1. In the **Assign licenses to users** pane, begin typing a name, and then choose it from the results to add it to the list. You can add up to 20 users at a time.
+
+   ![](Images/img133.png)
 
 1. Select **Turn apps and services on or off** to assign or remove access to specific items.
 
