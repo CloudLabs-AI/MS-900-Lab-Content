@@ -276,9 +276,22 @@
 
 1. From the left navigation pane select **Compliance Manager**. In the overview page you can see your overall Compliance score, Compliance score breakdown.
 
-1. In the **Compliance Manager** page select **Assessments**. Assessments help us to implement data protection controls specified by compliance, security, privacy, and data protection standards, regulations, and laws. 
+1. In the **Compliance Manager** page select **Improvement action**, this displays the list of actions you can take to improve your compliance score. Each improvement action provides recommended guidance that’s intended to help you align with data protection regulations and standards.
 
-1. In the **Assessments** dashboard, select the assessment name to open it and view the Action Items and Controls Info.
+1. Now in the **Compliance Manager** page select **Assessments**. Assessments help us to implement data protection controls specified by compliance, security, privacy, and data protection standards, regulations, and laws. 
+
+1. In the **Assessments** dashboard, select the assessment name to open it and view the Action Items and Controls Info. 
+
+1. The assessments page summarizes key information about each assessment:
+
+      - **Status** : Complete, Incomplete, None or In progress.
+      
+      - **Assessment progress**: the percentage of the work done toward completion, as measured by the number of controls successfully tested.
+      
+      - **Your improvement actions**: the number of completed actions to satisfy implementation of your controls.
+      
+      - **Microsoft actions**: the number of completed actions to satisfy implementation of Microsoft controls.
+
 
 1. In the **Assessments** dashboard, you can add your assessment by clicking on **Add Assessment**.
 
