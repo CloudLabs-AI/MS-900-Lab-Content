@@ -261,6 +261,10 @@
 1. Click **Submit** to finish the policy creation for the label.
 
    ![](Images/img111.png)
+   
+1. In order for your labels to work, each user needs to download the Azure Information Protection unified labeling client. Search the web for **AzinfoProtection_UL.exe**, then download it from the Microsoft Download Center, and run it on your users' computers.
+
+1. The next time you open an Office app like Word, you'll see the sensitivity labels that were created. 
 
 ### Exercise 5 : Compliance Manager 
 
