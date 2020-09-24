@@ -69,7 +69,7 @@
 
    ![](Images/img117.png)
 
-1. Now select **Settings**, from here you can configure role settings. Explore through the roles and select the role whose settings you want to configure.
+1. Now select **Settings**, from here you can configure role settings. Explore through the roles and select the role which you want to configure.
 
    ![](Images/img118.png)
 
