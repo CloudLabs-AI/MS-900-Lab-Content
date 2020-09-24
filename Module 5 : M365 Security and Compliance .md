@@ -276,11 +276,15 @@
 
 1. From the left navigation pane select **Compliance Manager**. In the overview page you can see your overall Compliance score, Compliance score breakdown.
 
-1. In the **Compliance Manager** page select **Improvement action**, this displays the list of actions you can take to improve your compliance score. Each improvement action provides recommended guidance that’s intended to help you align with data protection regulations and standards.
+1. In the **Compliance Manager** page, select **Improvement action**. This displays the list of actions you can take to improve your compliance score. Each improvement action provides recommended guidance that’s intended to help you align with data protection regulations and standards.
+
+1. In the **Compliance Manager** page, select **Solutions** tab. The solutions page displays your organization’s solutions that are connected to improvement actions. The table lists each solution’s contribution to your overall score, the points achieved and possible within that solution, and the remaining number of improvement actions grouped in that solution that can increase your score.
+
+1. On the row of your intended solution, under the Remaining actions column, select the hyperlinked number. You’ll see a filtered view of the improvement actions screen showing untested improvement actions for that solution.
+
+1. On the row of your intended solution, under the Open solution column, select Open. You’ll see the solution or location in the Microsoft 365 and Office 365 security and compliance centers where you can take the recommended action.
 
 1. Now in the **Compliance Manager** page select **Assessments**. Assessments help us to implement data protection controls specified by compliance, security, privacy, and data protection standards, regulations, and laws. 
-
-1. In the **Assessments** dashboard, select the assessment name to open it and view the Action Items and Controls Info. 
 
 1. The assessments page summarizes key information about each assessment:
 
@@ -291,9 +295,16 @@
       - **Your improvement actions**: the number of completed actions to satisfy implementation of your controls.
       
       - **Microsoft actions**: the number of completed actions to satisfy implementation of Microsoft controls.
+      
+      - **Group**: name of the group the assessment belongs to.
+      
+      - **Product**: associated Microsoft 365 service.
+      
+      - **Regulation**: the regulatory standard, policy, or law that applies to the assessment.
 
+1. In the **Assessments** dashboard, select the assessment name to open it and view the Action Items and Controls Info.
 
-1. In the **Assessments** dashboard, you can add your assessment by clicking on **Add Assessment**.
+1. From the **Assessments** dashboard, you can add your assessment by clicking on **Add Assessment**.
 
 
 ### Task 2 : Customer Lockbox 
