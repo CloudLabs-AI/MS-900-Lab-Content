@@ -66,11 +66,11 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 ### Exercise 2 : Explore Microsoft 365 Apps
 
-### Task 2: End User Experience
+### Task 1 : Explore Outlook
 
-1. Now login with the newly created user.
+1. Microsoft Outlook is an application that is used mainly to send and receive emails. It can also be used to manage various types of personal data including calendar appointments and similar entries, tasks, contacts, and notes.
 
-2. Open a new browser window and login to the admin center at https://www.office.com.
+1. Now login with the newly created user. Open a new browser window and login to the office365 center at https://www.office.com.
 
 1. When prompted enter the username and password of the user that you created in the previous step.
 
@@ -85,16 +85,14 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 1. Under **Apps**, select **Outlook** and from **Open context menu** click on **Open in new tab**. This will redirect you to the outlook mail.
    
    ![](Images/img9.png)
-
-1. Now switch back to the user account and from  **App launcher** under **Apps**, select **OneDrive**  from **Open context menu** click on **Open in new tab** this will redirect you to **OneDrive**.
-   
-   ![](Images/img10.png)
    
 1. In the outlook page from the left hand menu you can explore through all the options available.
 
    ![](Images/img15.png)
    
 ### Task 2 : Explore OneDrive
+
+1. OneDrive gives you one place to store, share, and sync your work or school files. As part of your organization's Microsoft 365 subscription, you can save your files in OneDrive and then work with them from almost any device, share files with others, give others permission to edit files and work on them at the same time.
 
 1. Switch back to the user account and from  **App launcher** under **Apps**, select **OneDrive**. From **Open context menu** click on **Open in new tab**. This will redirect you  to the **OneDrive** page, from here you can manage all your **files**.
    
@@ -120,7 +118,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ### Task 3  : Explore yammer
 
-1. Switch back to the admin account and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you  to the **Yammer** page. With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
+1. Switch back to the user account and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you  to the **Yammer** page. With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
 
    ![](Images/img21.png)
 
