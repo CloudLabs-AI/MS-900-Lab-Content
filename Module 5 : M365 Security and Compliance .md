@@ -274,6 +274,8 @@
 
 1. In the **admin center**, from  the navigation menu scroll down to  **Admin centers** and select **Compliance**, the Microsoft 365 Compliance center overview page will appear.
 
+   ![](Images/img89.png)
+
 1. From the left navigation pane select **Compliance Manager**. In the overview page you can see your overall Compliance score, Compliance score breakdown.
 
 1. In the **Compliance Manager** page, select **Improvement action**. This displays the list of actions you can take to improve your compliance score. Each improvement action provides recommended guidance that’s intended to help you align with data protection regulations and standards.
