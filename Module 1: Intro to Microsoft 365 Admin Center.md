@@ -2,11 +2,10 @@
 
 # Module 1: Introduction to Microsoft 365 Admin Center
 
- The Microsoft 365 admin center is where you manage your business in the cloud. You can complete such tasks as adding and removing users, changing licenses, and resetting passwords. 
-
 # Exercise 1: Admin Experience for User Management
 
-  In this exercise you will create
+  In this exercise, you will see how to create user,
+  
 
 ### Task 1: Admin Experience for User Management
 
