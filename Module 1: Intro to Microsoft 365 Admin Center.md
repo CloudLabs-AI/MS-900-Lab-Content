@@ -6,7 +6,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 # Exercise 1: Admin Experience for User Management
 
-  In this exercise, you will see how to create user,
+  In this exercise, you will see how to create user, 
   
 
 ### Task 1: Admin Experience for User Management
