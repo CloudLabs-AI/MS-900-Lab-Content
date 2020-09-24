@@ -52,7 +52,7 @@
 
 1. Now login with the newly created user.
 
-2. Open a new browser window and login to the admin center at https://www.office.com/?auth=2.
+2. Open a new browser window and login to the admin center at https://www.office.com.
 
 1. When prompted enter the username and password of the user that you created in the previous step.
 
