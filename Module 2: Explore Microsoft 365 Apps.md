@@ -68,7 +68,7 @@
    
 1.  In the yammer dashboard click the **+** icon next to **Private Messages** from the left sidebar. When prompted select **Send Private Message**.
    
-   ![](Images/img25.png)
+    ![](Images/img25.png)
 
 1. In the Add Participants field, search or type the person's username. A drop-down menu of usernames that matches will appear.
 
