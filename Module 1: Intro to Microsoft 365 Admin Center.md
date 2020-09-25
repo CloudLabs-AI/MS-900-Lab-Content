@@ -116,8 +116,9 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ### Task 3  : Explore yammer
 
-1. Switch back to the user account and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you  to the **Yammer** page. With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
+1. With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
 
+1. Switch back to the user account and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you  to the **Yammer** page. 
    ![](Images/img21.png)
 
 1. From the left hand pane click on **Create a group**, enter a name for your group. In **Group Members** search and select the user you have created. Based on your requirement choose **Public** or **Private** access and click on **Create Group**.
