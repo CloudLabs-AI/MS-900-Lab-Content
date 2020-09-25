@@ -77,8 +77,6 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    >**Note**: You can get the username by clicking on **Users** and then **Active users** from the navigation menu. In the Active Users pane note down the username for your newly created  user
 
 1. When logging in with the new user for the first time it will prompt you to update your password, provide your current password and new password and select sign in.
-   
-   >**Note**: Ignore the error message displayed
     
 1. From the top right corner click on **App launcher**
 
