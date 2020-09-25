@@ -270,7 +270,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img38.png)
 
-1. From the Create a list page, select **Blank list**.
+1. From the Create a list page, select **Blank list**. 
  
     - Provide a name for your list and if needed  provide description.
     
@@ -283,6 +283,13 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
  1. When your list opens, to add an item to your list, select **+ New**. 
  
  1. Under **Title** provide a name for your new item, if needed you can also add attachements. Once done click on **Save**.
+ 
+ 1. To add  column, select **+ Add column**. In the dropdown, select the type of column you want.
+ 
+ 1. In the Create a column panel, in the Name field, enter a title or column heading. Enter any other required information. The number of fields will vary with column type you choose. The above example is for a 'number' field.
+
+1. Select **Save**.
+ 
 
  
 
