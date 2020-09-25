@@ -119,7 +119,27 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 1. Select the new file that you have uploaded, click on **Show actions** icon. This will display the list of actions that can be performed.
 
    ![](Images/img20.png)
+   
+1. In the **OneDrive** page select the file or folder you want to share by selecting the circle in the upper corner of the item. Select Share at the top of the page.
 
+1. Select **Anyone with the link can edit to customize the link** option. Set the options you want on your link, then select Apply when you're done.
+
+      - **Anyone** : Gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.
+      
+      - **People in (Your Organization)** : Gives access to anyone in your organization who has the link access to the file.
+      
+      - **People with existing access** : Provides a link that can be used by people who already have access to the file or folder. It does not change the permissions on the item. Use this if you just want to send a link to somebody who already has access.
+      
+      - **Specific people** : Gives access only to the people you specify, although other people may already have access. 
+      
+      - **Allow editing** :  select if you want others to be able to edit the file. Uncheck it if you only want others to be able to view the file.
+      
+      - **Set expiration date**  : The link will only work until the date you set. After that, the link will be invalid, and you will need to create a new link for users requiring access to your file or folder.
+
+     - **Set password**  : When a user clicks the link, they will be prompted to enter a password before they can access the file. You'll need to provide this password separately to users.
+     
+1. Once you're back at the main **Share** box enter a name or email of user's with whom you intend to share the file, click on **Send**. You can also select **Copy Link** to copy the link to your clipboard and share.
+  
 1. You can explore through other options available in the **OneDrive**.
 
 ### Task 3  : Explore yammer
