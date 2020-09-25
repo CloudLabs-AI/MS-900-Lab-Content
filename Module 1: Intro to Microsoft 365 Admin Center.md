@@ -86,7 +86,17 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    ![](Images/img9.png)
    
-1.In the outlook page, choose **New message**  to send a new mail.   
+1.In the outlook page, choose **New message**  to send a new mail. 
+  
+   - Enter a name or email address in the To, Cc, or Bcc field. 
+   
+   - In Subject, type the subject of the email message. 
+   
+   - Place the cursor in the body of the email message, and then start typing. 
+   
+   - After typing your message, choose Send.
+
+
 
 1. In the outlook page from the left hand menu you can explore through all the options available.
 
