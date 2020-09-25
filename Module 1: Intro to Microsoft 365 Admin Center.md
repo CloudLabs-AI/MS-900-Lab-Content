@@ -288,7 +288,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
  
  1. In the Create a column panel, in the Name field, enter a title or column heading. Enter any other required information. The number of fields will vary with column type you choose. The above example is for a 'number' field.
 
-1. Select **Save**.
+1. Select **Save**. I
  
 
  
