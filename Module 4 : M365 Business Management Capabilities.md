@@ -211,7 +211,44 @@
 
 # Exercise 5 : Explore Microsoft EndPoint Manager 
 
-1. Microsoft Endpoint Manager is an integrated solution for managing all of your devices. Microsoft brings together Configuration Manager and Intune with simplified licensing.
+1. Microsoft Endpoint Manager helps deliver the modern workplace and modern management to keep your data secure, in the cloud and on-premises. Endpoint Manager includes the services and tools you use to manage and monitor mobile devices, desktop computers, virtual machines, embedded devices, and servers. Endpoint Manager combines services like Microsoft Intune, Configuration Manager, Desktop Analytics, co-management, and Windows Autopilot.
+
+1. From the navigation menu scroll down to Admin centers and select **Endpoint Manager**. This will redirect you to Endpoint Manager admin center.
+
+1. From the navigation pane, select **Dashboard** to display overall details about the devices and client apps in your Intune tenant.
+
+1. Microsoft Intune is a cloud-based service that focuses on mobile device management (MDM) and mobile application management (MAM). Intune is part of Microsoft's Enterprise Mobility + Security (EMS) suite.
+
+1. From the navigation pane, select **Devices**  to display details about the enrolled devices in your Intune tenant.
+
+1. The Devices - Overview pane has several tabs that allow you to view a summary of the following statuses and alerts:
+
+      -  **Enrollment status** - Review details about Intune enrolled devices by platform and enrollment failures.
+      
+      -  **Enrollment alerts** - Find more details about unassigned devices by platform.
+
+      -  **Compliance status** - Review compliance status based on device, policy, setting, threats, and protection. Additionally, this pane provides a list of devices without a compliance policy.
+
+      - **Configuration status** - Review configuration status of device profiles, as well as profile deployment.
+      
+      - **Software update status** - See a visual of the deployment status for all devices and for all users.
+
+1. From the Devices Overview pane, select Conditional Access this display details about access policies.
+
+1. From the navigation pane, select Devices  and select **Configuration profiles** to display details about device profiles in Intune.
+
+1.  In the  **Devices** page select **All devices** to display details about your Intune tenant's enrolled devices. This list of devices show key details about compliance, OS version, and last check-in date.
+
+1. From the navigation pane, select **Apps** to display an overview of app status. This pane provides app installation status based on the Installation status  and 
+
+1. From the Apps - Overview pane, select All apps to see a list of apps that have been added to Intune. You can add a variety of different app type based on platform to Intune. Once an app has been added, you can assign it to groups of users.
+
+1. From the navigation pane, select Users to display details about the users that you have included in Intune. These users are your company's workforce.
+
+1. From the navigation pane, select Groups to display details about the Azure Active Directory (Azure AD) groups included in Intune. As an Intune admin, you use groups to manage devices and users.
+
+1. You can customize the Microsoft Endpoint Manager admin center by choosing the default view, the theme, the credentials timeout period, as well as language and region settings.
+
 
 
 
