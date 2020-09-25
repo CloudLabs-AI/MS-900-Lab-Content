@@ -86,6 +86,8 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    ![](Images/img9.png)
    
+1.In the outlook page, choose **New message**  to send a new mail.   
+
 1. In the outlook page from the left hand menu you can explore through all the options available.
 
    ![](Images/img15.png)
