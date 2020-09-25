@@ -162,7 +162,42 @@
 
 1. Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB). It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all your cloud services.
 
-1. 
+1. In the **admin center**, from the **App launcher** click on **All apps** and in the search bar search for **Security**, from Open context menu click on **Open in new tab**.
+
+1. In the Microsoft 365 security page, click **More resources**, and then select **Cloud App Security**. From the left hand menu select **Dashboard**. In dashboard you can see details about:
+
+   - **Open alerts** : Shows the number of open alerts, a graph of the alert status distribution, and recent alerts
+
+   - **Discovered apps** :Shows the number of discovered apps, a graph of the app risk distribution, and the top app categories by traffic.
+
+   - **Top users to investigate** :Shows the number of users to investigate and the users with the highest investigation priority.
+
+   - **Conditional Access App Control** : Shows the number of apps protected by Conditional Access App Control as well as the number of protected sessions and actions over the last 30 days.
+   
+   - **App connectors status** : Shows the number of API connected app instances and their status.
+
+   - **Files infected with malware** : Shows the number of files infected with malware.
+
+   - **Privileged Office 365 OAuth apps** : Shows the number of rarely used OAuth apps granted highly privileged permissions.
+
+   - **Azure security configuration** : Shows the number and severity of Azure security configuration recommendations.
+
+1. Now from left navigation menu select **Discover**. Cloud Discovery uses your traffic logs to dynamically discover and analyze the cloud apps that your organization is using.
+
+1. In the Cloud App Security portal, click on Discover then Create snapshot report. 
+
+1. Collect log files from your firewall and proxy, through which users in your organization access the Internet. Make sure to gather logs during times of peak traffic that are representative of all user activity in your organization.
+
+1. If you don't have a log file follow the below steps to download a sample log file.
+
+1. Enter a **Report name** and a **Description**. Select the **Data source** from which you want to upload the log files. Click **View and verify** then Download sample log and unzip it.
+
+1. In **Choose traffic logs** browse and upload the log file which you downloaded. Click **Create**.
+
+1. After upload completes, the status message will appear at the top right corner of your screen letting you know that your log was successfully uploaded.
+
+1. After you upload your log files, it will take some time for them to be parsed and analyzed. Wait till the status of your log files turns ready.
+
 
 ### Exercise 4 : Information Protection 
 
