@@ -90,7 +90,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. From the left hand menu select **Calendar**. From here you can create appointments, events, organize meetings and view group schedules.
 
-1. Now Select **People** you can use the People page to view, create, edit, find, and delete contacts. You can use your contacts for your own reference, and can automatically add them as recipients when you compose an email message.
+1. Now Select **People**, you can use the People page to view, create, edit, find, and delete contacts. You can use your contacts for your own reference, and can automatically add them as recipients when you compose an email message.
 
 1. From the left hand menu you can explore through all other options available.
 
