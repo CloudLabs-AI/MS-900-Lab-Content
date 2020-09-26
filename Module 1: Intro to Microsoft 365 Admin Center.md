@@ -139,7 +139,6 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 1. Now Select **People**, you can use the People page to view, create, edit, find, and delete contacts. You can use your contacts for your own reference, and can automatically add them as recipients when you compose an email message.
 
    ![](Images/img155.png)
-   
 
 1. From the left hand menu you can explore through all other options available.
    
@@ -266,6 +265,8 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    ![](Images/img33.png)
 
 1. From  the Stream navigation bar, click on **Discover**. You can browse for videos, channels, people in your organization, and groups from here.
+
+   ![](Images/img161.png)
 
 1. To learn more about Microsoft Stream refer to https://docs.microsoft.com/en-us/stream/overview.
 
