@@ -78,7 +78,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img13.png)
    
-1. In the admin centers page select **Exchange**. This will redirect you to Exchange admin center page.  
+1. In the admin centers page select **Exchange**. This will redirect you to Exchange admin center page. 
 
 1. From here you can manage email settings for your organization. In .the left hand menu explore through the options available
 
