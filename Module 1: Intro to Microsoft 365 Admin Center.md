@@ -245,7 +245,6 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    ![](Images/img28.png)
 
-
 1. Now, from the top navigation bar of the **Stream** dashboard, click on **Create** button and select **Upload video** option from the drop down.
 
    ![](Images/img29.png)
@@ -318,7 +317,9 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img52.png)
 
-1. In **text box** you can add the content. Click **+** to add content like text, documents, video and more. 
+1. In **text box** you can add the content. Click on **+** to add content like text, documents, video and more. 
+
+    ![](Images/img162.png)
 
 1. When done, click **Publish**.
 
