@@ -218,8 +218,34 @@
     
     - **Legal risk factor** : Lets you filter based on all the regulations and policies that are in-place to ensure data protection and privacy of the app's users.
 
-1. 
+1. From the left hand pane select **Alerts**. Alerts are the entry points to understanding your cloud environment more deeply.
 
+1. In the Alerts page, select Open for the **Resolution Status**. This section of the dashboard provides full visibility into any suspicious activity or violation of your established policies. It can help you safeguard the security posture you defined for your cloud environment.
+
+1. For each alert, you need to investigate and determine the nature of the violation and the required response.
+
+    - You can filter the alerts by Alert type or by Severity to process the most important ones first.
+
+    - Select a specific alert. Depending on what type of alert it is, you'll see various actions that can be taken before resolving the alert.
+
+    - You can filter based on App - The apps listed are ones for which activities were detected by Cloud App Security.
+    
+ 1.  You can also customize alerts and actions by creating policies. In alerts page click on **Create policy**. 
+ 
+ 1.  Select **App discovery policy**. Based on your requirement you can choose other **policies**.
+ 
+ 1.  Give your policy a name and description. If you want, you can base it on a template. Set the Severity of the policy.
+ 
+ 1. To set which discovered apps trigger this policy, click Add filters.
+ 
+ 1. Enable **Trigger a policy match if all the following occur on the same day**. Select criteria from the drop down based on your requirements.
+ 
+ 1. Set a **Daily alert limit** under Alerts. Select whether the alert is sent as an email, a text message, or both. 
+ 
+ 1. Select Governance actions to apply when an app matches this policy. It can tag policies as Sanctioned, Unsanctioned, or a custom tag. 
+ 
+ 1. Click Create. 
+ 
 
 ### Exercise 4 : Information Protection 
 
