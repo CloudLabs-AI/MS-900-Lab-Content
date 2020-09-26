@@ -198,6 +198,28 @@
 
 1. After you upload your log files, it will take some time for them to be parsed and analyzed. Wait till the status of your log files turns ready.
 
+1. Now from the left hand menu select **Cloud Discovery Dashboard**. It provides an at-a-glance overview of what kinds of apps are being used, your open alerts, and the risk levels of apps in your organization. It also shows you who your top app users are and provides an App Headquarter location map.
+
+1. Click on **Discoverd apps** tab, from here you can review which apps are risky and which are commonly used by using filters like:
+
+    - **App tag** : Tags enable you to customize the Cloud App Catalog. You can select from either Sanctioned, Unsanctioned, or create custom tags for apps. These tags can then be used as filters.
+    
+    - **Risk score** : Lets you filter apps by risk score that you can focus on. For example, reviewing only risky apps.
+    
+    - **Compliance risk factor** : Lets you search for a specific standards, certification, and compliance that the app may comply with.
+    
+    - **Security risk factor** : Enables you to filter based on specific security measures (such as Encryption at rest, multi-factor authentication, etc.).
+    
+    - **Apps and domains** : Enables you to search for specific apps or apps used in specific domains.
+    
+    - **Categories** : The categories filter, located on the left of the page, enables you to search for types of apps according to app categories.
+    
+    - **Usage** : Lets you filter based on the usage statistics of this app. Usage such as apps with less than or more than a specified number of data uploads, apps with more than or less than a specified number of Users.
+    
+    - **Legal risk factor** : Lets you filter based on all the regulations and policies that are in-place to ensure data protection and privacy of the app's users.
+
+1. 
+
 
 ### Exercise 4 : Information Protection 
 
