@@ -321,7 +321,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
     ![](Images/img162.png)
 
-1. When done, click **Publish**.
+1. When done, click **Publish**. This will publish a page in your site.
 
 1. To learn more about SharePoint refer to https://docs.microsoft.com/en-us/sharepoint/introduction.
 
