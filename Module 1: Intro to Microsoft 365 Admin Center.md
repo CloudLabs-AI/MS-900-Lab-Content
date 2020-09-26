@@ -169,7 +169,11 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 1. In the **OneDrive** page select the file or folder you want to share by selecting the circle in the upper corner of the item. Select Share at the top of the page.
 
+   ![](Images/img156.png)
+
 1. Select **Anyone with the link can edit to customize the link** option. Set the options you want on your link, then select Apply when you're done.
+
+       ![](Images/img157.png)
 
       - **Anyone** : Gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.
       
@@ -185,7 +189,11 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
      - **Set password**  : When a user clicks the link, they will be prompted to enter a password before they can access the file. You'll need to provide this password separately to users.
      
+      ![](Images/img158.png)
+     
 1. Once you're back at the main **Share** box enter a name or email of user's with whom you intend to share the file, click on **Send**. You can also select **Copy Link** to copy the link to your clipboard and share.
+
+   ![](Images/img159.png)
   
 1. You can explore through other options available in the **OneDrive**.
 
