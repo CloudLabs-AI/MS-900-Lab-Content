@@ -224,7 +224,9 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. In the Add Participants field, search or type the person's username. A drop-down menu of usernames that matches will appear.
 
-1. Select the person's name that you want the message to be sent to, enter the message you want to send and then click on **Post**.
+1. Select the person's name that you want the message to be sent to, enter the message you want to send and then click on **Send Message**.
+
+   ![](Images/img160.png)
 
 1. The recipient of the message will recieve a notification about the recieved private message.
 
@@ -234,7 +236,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely. You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration.
 
-1. From the  **App launcher** click on All apps and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Stream** web page. 
+1. In office365 portal from the  **App launcher** click on **All apps** and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Stream** web page. 
 
 1. In the Stream navigation bar, click on **Invite** button.
    
