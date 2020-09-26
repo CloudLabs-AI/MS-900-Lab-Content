@@ -80,6 +80,8 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 1. In the admin centers page select **Exchange**. This will redirect you to Exchange admin center page. 
 
+   ![](Images/img149.png)
+
 1. From here you can manage email settings for your organization. In .the left hand menu explore through the options available
 
      - **Recipients**  - View and manage your mailboxes (both user and shared mailboxes), groups, resource mailboxes, and contacts.
@@ -91,10 +93,16 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
      - **Reports**     - 	View reports on mail flow and migration batches.
      
      - **Insights**    - 	Use the recommendations to discover trends and/or insights, and take actions to fix issues related to mailbox and mail flow.
+     
+       ![](Images/img150.png)
 
 1. Switch back to the admin centers page, select **SharePoint**. This will redirect you to Sharepoint admin center page.
 
+   ![](Images/img151.png)
+
 1. From here you can manage site collections, list and library permissions, file storage and sharing. Explore through the options available in **SharePoint** admin center.
+
+   ![](Images/img152.png)
 
 1. In the same way you can access and explore through all other admin centers available.
    
