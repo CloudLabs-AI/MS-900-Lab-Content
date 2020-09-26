@@ -142,8 +142,6 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 
 1. From the left hand menu you can explore through all other options available.
-
-   ![](Images/img15.png)
    
 ### Task 2 : Explore OneDrive
 
@@ -222,6 +220,8 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. The recipient of the message will recieve a notification about the recieved private message.
 
+1. Explore through other options available in yammer.
+
 ### Task 4: Explore Microsoft Stream
 
 1. Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely. You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration.
@@ -257,7 +257,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. From  the Stream navigation bar, click on **Discover**. You can browse for videos, channels, people in your organization, and groups from here.
 
-1. You can also explore through other available options.
+1. To learn more about Microsoft Stream refer to https://docs.microsoft.com/en-us/stream/overview.
 
 ### Task 5 : Explore SharePoint
 
@@ -310,6 +310,8 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 1. In **text box** you can add the content. Click **+** to add content like text, documents, video and more. 
 
 1. When done, click **Publish**.
+
+1. To learn more about SharePoint refer to https://docs.microsoft.com/en-us/sharepoint/introduction.
 
 ### Task 6 : Exlpore list
 
