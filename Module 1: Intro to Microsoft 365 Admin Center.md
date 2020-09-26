@@ -54,13 +54,25 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 1. Verify that the user has been created successfully. In the Microsoft 365 admin center, in the left navigation pane, select **Users** and select **Active users**. The new user should be listed, along with their assigned license.
    
-### Task 2: Verify Custom Domains in the tenant and Access other admin centers
+### Task 2: Verify Custom Domains in the tenant
 
-1. To verify the custom domains, from navigation pane select **Settings** and choose **Domains**.
+1. To verify the custom domains, from navigation pane click on show all, select **Settings** and choose **Domains**.
 
    ![](Images/img12.png)
 
 1. All the available domains can be found here. We can also purschase new domains or add any existing domain from the **Domains** page.
+
+1. To add an domain Select **Add domain**. Enter the name of the **domain** you want to add, then select **Use this domain**.
+
+1. In **Domain veriifcation** page choose how you want to verify that you own the domain. Select **Add a TXT record to the domain's DNS records** and  click on **Continue**.
+
+1. Now in **Verify your domain** page copy the **TXT name** and **TXT value**. 
+
+1. Go to your domain's registrar or DNS hosting provider, go to DNS management page of your domain and click on **+ Record set**. Under **Name**  paste the **TXT name** and under **Value** paste **TXT value** you copied earlier and in type select **TXT**. Once done click on **Ok**. 
+
+1. Wait for the record set to be created. Switch back to the admin center, click on **Verify** and select **Continue**.
+
+### Task 3 : Access other admin centers 
 
 1. To access other admin centers, from navigation pane select **Admin centers** and choose all **All Admin centers**.
 
