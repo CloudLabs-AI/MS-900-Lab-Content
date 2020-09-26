@@ -130,9 +130,16 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 1. In the outlook page, choose **New message**  to send a new mail. Enter a name or email address in the To, Cc, or Bcc field. In Subject, type the subject of the email message.  Place the cursor in the body of the email message, and then start typing.  After typing your message, choose Send.
 
+   ![](Images/img153.png)
+   
 1. From the left hand menu select **Calendar**. From here you can create appointments, events, organize meetings and view group schedules.
 
+   ![](Images/img154.png)
+   
 1. Now Select **People**, you can use the People page to view, create, edit, find, and delete contacts. You can use your contacts for your own reference, and can automatically add them as recipients when you compose an email message.
+
+   ![](Images/img155.png)
+   
 
 1. From the left hand menu you can explore through all other options available.
 
