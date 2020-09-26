@@ -173,7 +173,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. Select **Anyone with the link can edit to customize the link** option. Set the options you want on your link, then select Apply when you're done.
 
-       ![](Images/img157.png)
+      ![](Images/img157.png)
 
       - **Anyone** : Gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.
       
