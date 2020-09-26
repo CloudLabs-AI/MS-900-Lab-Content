@@ -353,6 +353,8 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. Select **Save**. In this way you can add multiple items and columns to your list.
 
+1. To rename a column, select the column which you wnat to rename select **Coloumn settings** and select **Rename**. When prompted provide column name and select **Save**.
+
 1. To share your list  select **Share** near the top of the page.
 
 1. Enter a name or email address. To change the access permissions you are granting to people, select **Can edit** and then select a option based on requirement. 
