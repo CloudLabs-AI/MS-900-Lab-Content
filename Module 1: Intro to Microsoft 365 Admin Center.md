@@ -189,8 +189,8 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
      - **Set password**  : When a user clicks the link, they will be prompted to enter a password before they can access the file. You'll need to provide this password separately to users.
      
-      ![](Images/img158.png)
-     
+       ![](Images/img158.png)
+       
 1. Once you're back at the main **Share** box enter a name or email of user's with whom you intend to share the file, click on **Send**. You can also select **Copy Link** to copy the link to your clipboard and share.
 
    ![](Images/img159.png)
