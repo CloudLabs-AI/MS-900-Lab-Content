@@ -1,6 +1,6 @@
 # MS-900
 
-# Module 5: M365 Security and Compliance 
+# Module 4 : M365 Security and Compliance 
 
 # Exercise 1: Azure AD Security 
 
