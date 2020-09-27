@@ -1,5 +1,7 @@
 # Module 3 : M365 Business Management Capabilities 
 
+ In this module you will learn to work with M365 groups, Microsoft Planner, Forms, Power BI. You will also explore through Microsoft Endpoint Manager.
+
 # Exercise 1: Types of Groups in M365 
 
 1. In the Groups section of the Microsoft 365 admin center, you can create and manage diffrent types of groups:
@@ -14,6 +16,8 @@
    - **Security groups** : They can be used for granting access to resources such as SharePoint sites. They can make administration easier because you need to only administer the group rather than adding users to each resource individually.
    
 # Exercise 2: Create M365 Groups
+
+  In this exercise you will learn how to create groups and add members to it from admin center.
 
 ### Task 1 : Create Office 365 Groups
 
@@ -50,6 +54,8 @@
 1. Click on **Add members**, select the users you want to add, and then click on **Save**.
 
    ![](Images/img60.png)
+   
+1. To learn more about groups refer to https://docs.microsoft.com/en-us/microsoft-365/admin/create-groups.
 
 # Exercise 3 : Explore Microsoft Planner 
 
@@ -90,9 +96,12 @@
     - Click on **Assign** and choose a plan member from the list. If the right person isn't listed, type a name or email address in the search box to add someone new.
     
        ![](Images/img64.png)
+      
 
 # Exercise 4 : Setup Microsoft Forms 
 
+  This exercise explains how to create and work with Microsoft Forms.
+ 
 ### Task 1 : Creating a new form
 
 1. With Microsoft Forms, you can create surveys, quizzes, and polls, and easily see results as they come in.
@@ -154,8 +163,12 @@
 1. From the top navigation menu click on **Share**. From here based on your requirement you can either use link, QR code, Embed or Email option to share your form.
 
    ![](Images/img76.png)
+   
+1. To know more about forms refer https://support.microsoft.com/en-us/forms.
 
 # Exercise 5 : Setup Basic PowerBI Report from a sample Excel 
+
+  In this exercise you will learn how to create a Power BI report from sample data and visualize it.
 
 ### Task 1: Import data to PowerBI
 
@@ -209,7 +222,9 @@
 
    ![](Images/img85.png)
 
-# Exercise 5 : Explore MyAnalytics
+1. To learn more about **Power BI** refer to https://docs.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview.
+
+# Exercise 6 : Explore MyAnalytics
 
 1. Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to help employees and their managers gain insight into how workers spend their time, with the goal of optimizing tasks and making them more efficient. With this application you can track data such as time spent in meetings, Outlook emails, productivity and time spent working late.
 
@@ -246,7 +261,7 @@
 1. To learn more about **MyAnalytics** refer to https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/mya-landing-page.
 
 
-# Exercise 6 : Explore Microsoft EndPoint Manager 
+# Exercise 7 : Explore Microsoft EndPoint Manager 
 
 1. Microsoft Endpoint Manager helps deliver the modern workplace and modern management to keep your data secure, in the cloud and on-premises. Endpoint Manager includes the services and tools you use to manage and monitor mobile devices, desktop computers, virtual machines, embedded devices, and servers. Endpoint Manager combines services like Microsoft Intune, Configuration Manager, Desktop Analytics, co-management, and Windows Autopilot.
 
@@ -308,11 +323,10 @@
    
 1. To learn more about Endpoint Manager refer to https://docs.microsoft.com/en-us/mem/intune/fundamentals.
 
+## Conclusion
 
-
-
-         
-     
+With the help of this module we learnt how to create M365 groups, forms, plans and assign tasks using Planner, also visualized a sample data using Power BI and explored through EndPoint Manager
+  
 
      
 
