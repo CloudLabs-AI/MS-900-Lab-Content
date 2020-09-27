@@ -164,7 +164,11 @@
 
 1. In the **admin center**, from the **App launcher** click on **All apps** and in the search bar search for **Security**, from Open context menu click on **Open in new tab**.
 
+   ![](Images/img178.png)
+
 1. In the Microsoft 365 security page, click **More resources**, and then select **Cloud App Security**.
+
+   ![](Images/img179.png)
 
 1. From the left hand menu select **Dashboard**. In dashboard you can see details about:
 
@@ -183,24 +187,38 @@
    - **Privileged Office 365 OAuth apps** : Shows the number of rarely used OAuth apps granted highly privileged permissions.
 
    - **Azure security configuration** : Shows the number and severity of Azure security configuration recommendations.
+   
+     ![](Images/img180.png)
 
 1. Now from left navigation menu select **Discover**. Cloud Discovery uses your traffic logs to dynamically discover and analyze the cloud apps that your organization is using.
 
-1. In the Cloud App Security portal, click on Discover then Create snapshot report. 
+1. Under **Discover** select **Create snapshot report**. 
+   
+   ![](Images/img181.png)
 
 1. Collect log files from your firewall and proxy, through which users in your organization access the Internet. Make sure to gather logs during times of peak traffic that are representative of all user activity in your organization.
 
 1. If you don't have a log file follow the below steps to download a sample log file.
 
-1. Enter a **Report name** and a **Description**. Select the **Data source** from which you want to upload the log files. Click **View and verify** then Download sample log and unzip it.
+1. Enter a **Report name** and a **Description**. Select the **Data source** from which you want to upload the log files. Click **View and verify** then Download sample.
+
+   ![](Images/img182.png)
+   
+   ![](Images/img183.png)
 
 1. In **Choose traffic logs** browse and upload the log file which you downloaded. Click **Create**.
 
 1. After upload completes, the status message will appear at the top right corner of your screen letting you know that your log was successfully uploaded.
 
-1. After you upload your log files, it will take some time for them to be parsed and analyzed. Wait till the status of your log files turns ready.
+1. After you upload your log files, it will take some time for them to be parsed and analyzed. Wait till the status of your log files turns **Ready**.
 
-1. Now from the left hand menu select **Cloud Discovery Dashboard**. It provides an at-a-glance overview of what kinds of apps are being used, your open alerts, and the risk levels of apps in your organization. It also shows you who your top app users are and provides an App Headquarter location map.
+   ![](Images/img184.png)
+
+1. Now from the left hand menu under **Discover** select **Cloud Discovery Dashboard**. It provides an at-a-glance overview of what kinds of apps are being used, your open alerts, and the risk levels of apps in your organization. It also shows you who your top app users are and provides an App Headquarter location map.
+
+   ![](Images/img185.png)
+   
+   ![](Images/img186.png)
 
 1. Click on **Discoverd apps** tab, from here you can review which apps are risky and which are commonly used by using filters like:
 
@@ -219,36 +237,47 @@
     - **Usage** : Lets you filter based on the usage statistics of this app. Usage such as apps with less than or more than a specified number of data uploads, apps with more than or less than a specified number of Users.
     
     - **Legal risk factor** : Lets you filter based on all the regulations and policies that are in-place to ensure data protection and privacy of the app's users.
+    
+      ![](Images/img187.png)
+    
+1. Explore through other **IP address** and **Users** tab.
 
 1. From the left hand pane select **Alerts**. Alerts are the entry points to understanding your cloud environment more deeply.
 
 1. In the Alerts page, select Open for the **Resolution Status**. This section of the dashboard provides full visibility into any suspicious activity or violation of your established policies. It can help you safeguard the security posture you defined for your cloud environment.
 
-1. For each alert, you need to investigate and determine the nature of the violation and the required response.
+   ![](Images/img188.png)
 
-    - You can filter the alerts by Alert type or by Severity to process the most important ones first.
-
-    - Select a specific alert. Depending on what type of alert it is, you'll see various actions that can be taken before resolving the alert.
-
-    - You can filter based on App - The apps listed are ones for which activities were detected by Cloud App Security.
+1. For each alert, you need to investigate and determine the nature of the violation and the required response. You can filter the alerts by **Alert type**, by **Severity**, by **App** or by **User Name** to process the most important ones first.
     
- 1.  You can also customize alerts and actions by creating policies. In alerts page click on **Create policy**. 
+      ![](Images/img189.png)
+    
+ 1. You can also customize alerts and actions by creating policies. In alerts page click on **Create policy**. Select **App discovery policy**. Based on your requirement you can choose other **policies**.
  
- 1.  Select **App discovery policy**. Based on your requirement you can choose other **policies**.
+    ![](Images/img190.png)
  
- 1.  Give your policy a name and description. If you want, you can base it on a template. Set the Severity of the policy.
+ 1. Give your policy a name and description. If you want, you can base it on a template. Set the severity of the policy.
  
- 1. To set which discovered apps trigger this policy, click Add filters.
+    ![](Images/img191.png)
+ 
+ 1. To set which discovered apps trigger this policy, click **+** add filters. From the dropdown select the filter based on your requiremnet.
+ 
+    ![](Images/img192.png)
  
  1. Enable **Trigger a policy match if all the following occur on the same day**. Select criteria from the drop down based on your requirements.
  
+    ![](Images/img193.png)
+ 
  1. Set a **Daily alert limit** under Alerts. Select whether the alert is sent as an email, a text message, or both. 
  
- 1. Select Governance actions to apply when an app matches this policy. It can tag policies as Sanctioned, Unsanctioned, or a custom tag. 
+    ![](Images/img194.png)
  
- 1. Click Create. 
+ 1. Select **Governance actions** to apply when an app matches this policy. It can tag policies as **Sanctioned**, **Unsanctioned**, or a custom tag. Click **Create**. 
  
-
+    ![](Images/img195.png)
+ 
+ 1. Alert will be triggered whenever an app with your specified conditions meet, notification will be sent to the email or number specified.
+ 
 ### Exercise 4 : Information Protection 
 
 ### Task 1 : Setup Data sensitivity label and policy 
