@@ -22,6 +22,16 @@
 
 1. Under **Apps** select **Teams** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Teams web app page. In the Teams page click on **Use the web app instead**.
 
+1. On the left side of **Teams** you can find: 
+
+      - **Teams** - Find channels to belong to or create your own. Inside channels you can hold on-the-spot meetings, have conversations, and share files.
+
+      - **Calendar** - See everything you’ve got lined up for the day or week. Or, schedule a meeting. This calendar syncs with your Outlook calendar.
+
+      - **Calls** - In some cases, if your organization has it set up, you can call anyone from Teams, even if they’re not using Teams.
+
+      - **Activity** - Catch up on all your unread messages, @mentions, replies, and more.
+
 1. Now open a new browser window and login to the teams at https://teams.microsoft.com.
 
 1. When prompted enter the username and password of the user that you created in the previous exercise.
@@ -55,6 +65,8 @@
 1. Microsoft Teams also has a **Scheduling Assistant** which you can use to find a time that works for everyone. 
 
 1. Once done click on **Send**. This will close the scheduling form and send an invite to everyone's Outlook inbox.
+
+1. To learn more about teams refer to https://docs.microsoft.com/en-us/MicrosoftTeams/get-started-with-teams-quick-start.
    
 # Exercise 2: Explore teams admin center 
 
