@@ -12,7 +12,9 @@
 
 ## Exercise 1: End User Experience 
 
-### Task 1 : Exploring through teams
+   In this exercise, you'll learn various activities carried out in Teams such as having a Teams chat, scheduling Teams meetings.
+
+### Task 1 : Exploring through Teams
 
 1. Open a new browser window and login to the admin center at https://admin.microsoft.com.
 
@@ -42,7 +44,7 @@
 
 1. Now switch back to the teams user account and verify the message.
 
-### Task 2 : scheduling teams meeting
+### Task 2 : Scheduling teams meeting
 
 1. Select **calendar** from the left hand menu of the teams pane. 
 
@@ -69,6 +71,8 @@
 1. To learn more about teams refer to https://docs.microsoft.com/en-us/MicrosoftTeams/get-started-with-teams-quick-start.
    
 # Exercise 2: Explore teams admin center 
+
+  In this exercise you will learn how to configure Teams policies.
 
 ### Task 1 :  Manage teams policies 
 
@@ -101,7 +105,7 @@
 1. Switch back to user's teams portal and in the chat notice **Delete** option is not available.
 
 
-   
+## Conclusion
    
 
 
