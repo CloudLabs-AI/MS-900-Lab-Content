@@ -2,8 +2,12 @@
 
 # Module 4 : M365 Security and Compliance 
 
+  This module helps you to understand various features that contribute towards overall organization security.
+
 # Exercise 1: Azure AD Security 
 
+  In this exercise you will understand how to enable MFA in Azure Active Directory, configure and manage access to important resources using Azure AD PIM.
+  
 ### Task 1: Enable MFA in AAD using Conditional Access Policy 
 
 1. Open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
@@ -158,6 +162,8 @@
 
 # Exercise 3: Cloud App Security 
 
+  In this exercise you will use the  Cloud App Security portal to identiify the senstivity and criticality of data and apps owned by an organization and address them.
+
 ### Task 1 : Discover Apps with Cloud App Security  
 
 1. Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB). It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all your cloud services.
@@ -280,6 +286,8 @@
  
 ### Exercise 4 : Information Protection 
 
+  In this exercise you will learn how to classify and protect your organization's data using sensitivity label.
+
 ### Task 1 : Setup Data sensitivity label and policy 
 
 1. Sensitivity labels from the Microsoft Information Protection framework let you classify and protect your organization's data, while making sure that user productivity and their ability to collaborate isn't hindered.
@@ -382,6 +390,8 @@
 
 ### Exercise 5 : Compliance Manager 
 
+  This exercise will let you explore through the features of Compliance Manager and Customer LockBox.
+
 ### Task 1 : Explore Compliance Manager 
 
 1. Compliance Manager measures your progress in completing actions that help reduce risks around data protection and regulatory standards.
@@ -451,6 +461,8 @@
    ![](Images/img87.png)
    
 
+## Conclusion
 
+ In this module you learnt to use Microsoft Security and Compliance features to secure your organization's data, information and applications.
 
       
