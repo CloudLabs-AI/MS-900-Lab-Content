@@ -215,13 +215,17 @@
 
 1. From the navigation menu scroll down to Admin centers and select **Endpoint Manager**. This will redirect you to Endpoint Manager admin center.
 
+   ![](Images/img196.png)
+
 1. From the navigation pane, select **Dashboard** to display overall details about the devices and client apps in your Intune tenant.
+
+   ![](Images/img197.png)
 
 1. Microsoft Intune is a cloud-based service that focuses on mobile device management (MDM) and mobile application management (MAM). Intune is part of Microsoft's Enterprise Mobility + Security (EMS) suite.
 
 1. From the navigation pane, select **Devices**  to display details about the enrolled devices in your Intune tenant.
 
-1. The Devices - Overview pane has several tabs that allow you to view a summary of the following statuses and alerts:
+1. The Devices, **Overview** pane has several tabs that allow you to view a summary of the following statuses and alerts:
 
       -  **Enrollment status** - Review details about Intune enrolled devices by platform and enrollment failures.
       
@@ -232,22 +236,40 @@
       - **Configuration status** - Review configuration status of device profiles, as well as profile deployment.
       
       - **Software update status** - See a visual of the deployment status for all devices and for all users.
+      
+        ![](Images/img198.png)
 
-1. From the Devices Overview pane, select Conditional Access this display details about access policies.
+1. From the Devices **Overview** pane, select **Compliance policies**  to display details about compliance policies for devices managed by Intune. Compliance requirements are essentially rules, such as requiring a device PIN, or requiring device encryption. Device compliance policies define the rules and settings that a device must follow to be considered compliant.
 
-1. From the navigation pane, select Devices  and select **Configuration profiles** to display details about device profiles in Intune.
+   ![](Images/img199.png)
 
-1.  In the  **Devices** page select **All devices** to display details about your Intune tenant's enrolled devices. This list of devices show key details about compliance, OS version, and last check-in date.
+1. From the Devices Overview pane, select **Conditional Access** this display details about access policies. Conditional Access refers to ways you can control the devices and apps that are allowed to connect to your email and company resources.
 
-1. From the navigation pane, select **Apps** to display an overview of app status. This pane provides app installation status based on the Installation status  and 
+   ![](Images/img200.png)
 
-1. From the Apps - Overview pane, select All apps to see a list of apps that have been added to Intune. You can add a variety of different app type based on platform to Intune. Once an app has been added, you can assign it to groups of users.
+1. From the navigation pane, select Devices  and select **Configuration profiles** to display details about device profiles in Intune. 
 
-1. From the navigation pane, select Users to display details about the users that you have included in Intune. These users are your company's workforce.
+   ![](Images/img201.png)
 
-1. From the navigation pane, select Groups to display details about the Azure Active Directory (Azure AD) groups included in Intune. As an Intune admin, you use groups to manage devices and users.
+1. From here you can configure device restriction settings like Allow or block the device camera, control access to Google Play, app stores, viewing documents, and gaming, and much more.
 
-1. You can customize the Microsoft Endpoint Manager admin center by choosing the default view, the theme, the credentials timeout period, as well as language and region settings.
+1. In the  **Devices** page select **All devices** to display details about your Intune tenant's enrolled devices. This list of devices show key details about compliance, OS version, and last check-in date. 
+
+  ![](Images/img202.png)
+  
+1. From the navigaton pane select **Apps**. In apps page select **All apps** this displays list of apps that have been added to Intune. You can add a variety of different app type based on platform to Intune. Once an app has been added, you can assign it to groups of users.
+
+  ![](Images/img203.png)
+
+1. From the navigation pane, select **Users** to display details about the users that you have included in Intune.
+
+   ![](Images/img204.png)
+
+1. From the navigation pane, select **Groups** to display details about the Azure Active Directory (Azure AD) groups included in Intune. As an Intune admin, you use groups to manage devices and users.
+
+   ![](Images/img205.png)
+   
+1. To learn more about Endpoint Manager refer to https://docs.microsoft.com/en-us/mem/intune/fundamentals.
 
 
 
