@@ -164,7 +164,9 @@
 
 1. In the **admin center**, from the **App launcher** click on **All apps** and in the search bar search for **Security**, from Open context menu click on **Open in new tab**.
 
-1. In the Microsoft 365 security page, click **More resources**, and then select **Cloud App Security**. From the left hand menu select **Dashboard**. In dashboard you can see details about:
+1. In the Microsoft 365 security page, click **More resources**, and then select **Cloud App Security**.
+
+1. From the left hand menu select **Dashboard**. In dashboard you can see details about:
 
    - **Open alerts** : Shows the number of open alerts, a graph of the alert status distribution, and recent alerts
 
