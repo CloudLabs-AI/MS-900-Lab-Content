@@ -371,15 +371,25 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. To share your list  select **Share** near the top of the page.
 
+   ![](Images/img170.png)
+    
 1. Enter a name or email address. To change the access permissions you are granting to people, select **Can edit** and then select a option based on requirement. 
+
+   ![](Images/img171.png)
 
 1. Check **Notify people** check box if you want user to get notified when a list is shared. Select Grant access.
 
+   ![](Images/img172.png)
+
 1. To create an alert for a list or list item. Select the list that you want to create an alert for. On the command bar, click the ellipses, and then select **Alert me** this display the **Alert me when items change dialog box**.
+
+   ![](Images/img173.png)
 
 1. In the Alert Title section, change the title for the alert if you want. With in the **Send Alerts To section**, enter the user names or email addresses of people you want alerts to be sent to.
 
 1. Select a delivery method, choose the types of changes that you want to be notified about, how frequently you want to receive the alert. Once done select **Ok**.
+
+    ![](Images/img174.png)
 
 1. Depending on how your site and servers are set up, whenever changes are made the person you created an alert for will be notified.
 
