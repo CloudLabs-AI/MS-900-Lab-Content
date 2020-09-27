@@ -1,4 +1,4 @@
-# Module 4 : M365 Business Management Capabilities 
+# Module 3 : M365 Business Management Capabilities 
 
 # Exercise 1: Types of Groups in M365 
 
