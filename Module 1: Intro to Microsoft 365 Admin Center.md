@@ -196,7 +196,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img159.png)
   
-1. You can explore through other options available in the **OneDrive**.
+1. You can explore through other options available in the **OneDrive**. 
 
 ### Task 3  : Explore yammer
 
