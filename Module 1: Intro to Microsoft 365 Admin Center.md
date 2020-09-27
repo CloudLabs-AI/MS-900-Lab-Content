@@ -344,18 +344,30 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
       ![](Images/img39.png)
     
  1. When your list opens, to add an item to your list, select **+ New**. 
+  
+    ![](Images/img167.png)
  
  1. Under **Title** provide a name for your new item, if needed you can also add attachements. Once done click on **Save**.
  
  1. To add  column, select **+ Add column**. In the dropdown, select the type of column you want.
  
- 1. In the Create a column panel, in the Name field, enter a title or column heading. Enter any other required information. The number of fields will vary with column type you choose. The above example is for a 'number' field.
+    ![](Images/img165.png)
+ 
+ 1. In the Create a column panel, in the **Name** field, enter a title or column heading. Enter any other required information. The number of fields will vary with column type you choose. The above example is for a **Multiple lines of tes** field.
+ 
+     ![](Images/img166.png)
 
 1. Select **Save**. In this way you can add multiple items and columns to your list.
 
 1. To rename a column, select the column which you wnat to rename select **Coloumn settings** and select **Rename**. When prompted provide column name and select **Save**.
 
-1. Select the item which you have added click on **Show actions** and select **Edit**  from here you can add value against newly created column.
+   ![](Images/img164.png)
+
+1. Now select the item which you have added click on **Show actions** and select **Edit**  from here you can add value against newly created column.
+
+    ![](Images/img169.png)
+    
+    ![](Images/img168.png)
 
 1. To share your list  select **Share** near the top of the page.
 
