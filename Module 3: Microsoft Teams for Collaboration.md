@@ -1,6 +1,6 @@
 # MS-900
 
-# Module 3: Microsoft Teams for Collaboration  
+# Module 2: Microsoft Teams for Collaboration  
 
 # Exercise 1: End User Experience 
 
