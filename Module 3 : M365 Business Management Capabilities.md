@@ -259,7 +259,7 @@
   
 1. From the navigaton pane select **Apps**. In apps page select **All apps** this displays list of apps that have been added to Intune. You can add a variety of different app type based on platform to Intune. Once an app has been added, you can assign it to groups of users.
 
-  ![](Images/img203.png)
+   ![](Images/img203.png)
 
 1. From the navigation pane, select **Users** to display details about the users that you have included in Intune.
 
