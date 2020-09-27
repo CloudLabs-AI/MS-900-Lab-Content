@@ -209,7 +209,44 @@
 
    ![](Images/img85.png)
 
-# Exercise 5 : Explore Microsoft EndPoint Manager 
+# Exercise 5 : Explore MyAnalytics
+
+1. Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to help employees and their managers gain insight into how workers spend their time, with the goal of optimizing tasks and making them more efficient. With this application you can track data such as time spent in meetings, Outlook emails, productivity and time spent working late.
+
+1. From the top right corner of admin center click on **App launcher**
+
+1. Under **Apps**, select **MyAnalytics** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft **MyAnalytics** web page.
+
+1. From the left navigation menu select **Home**. This displays statistics about your work patterns over the past month, including your focus and collaboration time, how many days you were able to disconnect from work, and how effectively you are networking with your coworkers.
+
+   ![](Images/img206.png)
+
+1. From the left navigation menu select **Focus**. The Focus page shows weekly averages for the time you have available to focus and time spent collaborating with others in your network.
+   
+   ![](Images/img207.png)
+
+1. Select **Wellbeing** this page shows how well you are disconnecting from work during your time off and suggests ways to reduce stress and burnout.
+   
+   ![](Images/img208.png)
+
+1. Select **Network** this page shows how many people you actively connect with in the last month and gives you suggestions on how to improve connections with your most important contacts, such as your manager or your direct reports.
+
+   ![](Images/img209.png)
+
+1. Select **Collaboration** this helps you reflect on how effectively you spend your time in meetings, email, chats, and calls.
+
+   - **Weekly average** : The Weekly average section shows an estimate of how much time you spent in meetings, email, chats, and calls in the past four weeks. 
+   
+   - **Meeting habits** : The Meeting habits view shows data about your meeting habits based on the meetings on your calendar over the past four weeks. It helps you understand the number of times each of these meeting types occur out of the total number of meetings you organized or accepted to attend.
+   
+   - **Communication habits** : The Communication habits section shows the total number of chats (instant messages) and emails sent and read during each hour of the day in the past four weeks.
+   
+     ![](Images/img210.png)
+
+1. To learn more about **MyAnalytics** refer to https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/mya-landing-page.
+
+
+# Exercise 6 : Explore Microsoft EndPoint Manager 
 
 1. Microsoft Endpoint Manager helps deliver the modern workplace and modern management to keep your data secure, in the cloud and on-premises. Endpoint Manager includes the services and tools you use to manage and monitor mobile devices, desktop computers, virtual machines, embedded devices, and servers. Endpoint Manager combines services like Microsoft Intune, Configuration Manager, Desktop Analytics, co-management, and Windows Autopilot.
 
