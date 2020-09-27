@@ -255,7 +255,7 @@
 
 1. In the  **Devices** page select **All devices** to display details about your Intune tenant's enrolled devices. This list of devices show key details about compliance, OS version, and last check-in date. 
 
-  ![](Images/img202.png)
+   ![](Images/img202.png)
   
 1. From the navigaton pane select **Apps**. In apps page select **All apps** this displays list of apps that have been added to Intune. You can add a variety of different app type based on platform to Intune. Once an app has been added, you can assign it to groups of users.
 
