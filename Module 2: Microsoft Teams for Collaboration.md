@@ -22,7 +22,7 @@
 
 1. Under **Apps** select **Teams** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Teams web app page. In the Teams page click on **Use the web app instead**.
 
-1. Now open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+1. Now open a new browser window and login to the teams at https://teams.microsoft.com.
 
 1. When prompted enter the username and password of the user that you created in the previous exercise.
 
