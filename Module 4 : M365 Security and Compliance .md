@@ -398,6 +398,8 @@
 
 1. The next time you open an Office app like Word, you'll see the sensitivity labels that were created. 
 
+1. Learn more about Sensitivity lables by refering  https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels?view=o365-worldwide#:~:text=Unlike%20retention%20labels%2C%20which%20are,and%20groups%20see%20the%20labels.
+
 ### Exercise 5 : Compliance Manager 
 
   This exercise will let you explore through the features of Compliance Manager and Customer LockBox.
