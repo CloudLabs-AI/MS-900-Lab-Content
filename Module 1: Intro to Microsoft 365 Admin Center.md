@@ -80,7 +80,17 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. Wait for the record set to be created. Switch back to the admin center, click on **Verify** and select **Continue**.
 
-1. 
+1. In **Add DNS records** page follow the instructions and click on **Continue**.
+
+   ![](Images/img229.png)
+
+1. Select **Ok** when domain setup is complete.
+
+   ![](Images/img230.png)
+   
+1. In the domains page you can see the newly added domain.
+
+   ![](Images/img231.png)
 
 1. To learn more about managing domains from Microsoft admin center refer to  https://docs.microsoft.com/en-us/microsoft-365/admin/get-help-with-domains/what-is-a-domain?view=o365-worldwide
 
