@@ -442,7 +442,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ## Conclusion
 
-This module helped understand how to create users and assign license to the users from the Microsoft 365 admin center. The module also explains the way to add domains and the process to access other admin centers. It also explores through various office365 apps.
+This module helps you to understand how to create users and assign license to the users from the Microsoft 365 admin center. The module also explains the way to add domains and the process to access other admin centers. It also explores through various office365 apps.
  
 
     
