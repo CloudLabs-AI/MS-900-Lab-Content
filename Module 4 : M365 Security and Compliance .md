@@ -59,6 +59,8 @@
    ![](Images/img140.png)
    
    ![](Images/img141.png)
+   
+1. To learn more about conditional access and policies refer to https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview.
 
 ### Task 2 : Azure AD PIM                                                                                                                                                                               
 1. Privileged Identity Management (PIM) is a service in Azure Active Directory (Azure AD) that enables you to manage, control, and monitor access to important resources in your organization. These resources include resources in Azure AD, Azure, and other Microsoft Online Services such as Microsoft 365 or Microsoft Intune.
