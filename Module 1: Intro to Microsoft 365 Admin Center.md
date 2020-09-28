@@ -2,7 +2,29 @@
 
 # Module 1: Introduction to Microsoft 365 Admin Center
 
-The Microsoft 365 admin center is where you manage your business in the cloud. You can complete such tasks as adding and removing users, changing licenses, and resetting passwords. 
+The Microsoft 365 admin center is where you manage your business in the cloud. You can complete such tasks as adding and removing users, changing licenses, and resetting passwords. Here are the features and settings you'll find in the left-hand navigation of the admin center.
+  
+   - Home : This is the landing page in the admin center. You'll see where to manage users, billing, service health, and reports.
+   
+   - Users : Create and manage users in your organization, like employees or students. You can also set their permission level or reset their passwords.
+   
+   - Groups : Create and manage groups in your organization, such as a Microsoft 365 group, distribution group, security group, or shared mailbox.
+   
+   - Resources : Create and manage resources, like a SharePoint site collection. 
+   
+   - Billing : View, purchase, or cancel subscriptions for your organization. View past billing statements or view the number of assigned licenses to individual users.
+   
+   - Support : View existing service requests or create new ones.
+   
+   - Settings : Manage global settings for apps like email, sites, and the Office suite. Change your password policy and expiration date. Add and update domain names like contoso.com. Change your organization profile and release preferences. And choose whether partners can access your admin center.
+   
+   - Setup : Manage existing domains, turn on and manage multi-factor authentication, manage admin access, migrate user mailboxes to Office 365, manage feature updates, and help users install their Office apps
+   
+   - Reports : See at a glance how your organization is using Microsoft 365 with detailed reports on email use, Office activations, and more.
+   
+   - Health : View the service health at a glance. You can also check out more details and the service health history.
+   
+   - Admin centers : Open separate admin centers for Exchange, Skype for Business, SharePoint, Yammer, and Azure AD. Each admin center includes all available settings for that service.
 
 # Exercise 1: Admin Experience for User Management
 
