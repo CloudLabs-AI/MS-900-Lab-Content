@@ -6,7 +6,7 @@
 
 # Exercise 1: Azure AD Security 
 
-  In this exercise you will understand how to enable MFA in Azure Active Directory, configure and manage access to important resources using Azure AD PIM.
+  In this exercise you will understand how to enable MFA in Azure Active Directory. Then Configure and manage access to important resources using Azure AD PIM.
   
 ### Task 1: Enable MFA in AAD using Conditional Access Policy 
 
@@ -157,7 +157,6 @@
 1. Select **Policies**  from here you can set up policies to manage devices, protect against threats, and receive alerts about various activities in your organization.
 
 1. Select **Permissions**. You can manage who in your organization has access to view content and perform tasks in the Microsoft 365 security center.
-
 
 
 ### Task 2 : Microsoft Secure Score 
