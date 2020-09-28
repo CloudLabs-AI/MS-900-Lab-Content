@@ -128,6 +128,15 @@
 
 1. Switch back to user's teams portal and in the chat notice **Delete** option is not available.
 
+1. In the left navigation of the Microsoft Teams admin center, select **Teams apps**  and select **Permission policies**. From here you can configure App permission policies. App permission policies control what apps you want to make available to Teams users in your organization.
+
+1. Click on **Add**. Enter a name and description for the policy.
+
+1. Under **Microsoft apps** select **Allow specific apps and block all others**. You can also select other options based on your requirement.
+
+1. Select **Allow apps**, search for the apps that you want to allow, and then click **Add**.
+
+1. Similarly, repeat the above steps for **Third-party apps**, **Custom apps**. When done click **Save**.
 
 ## Conclusion
    
