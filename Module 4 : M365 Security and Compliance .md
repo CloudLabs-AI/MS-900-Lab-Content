@@ -158,6 +158,9 @@
 
 1. Select **Permissions**. You can manage who in your organization has access to view content and perform tasks in the Microsoft 365 security center.
 
+   ![](Images/img243.png)
+   
+
 
 ### Task 2 : Microsoft Secure Score 
 
