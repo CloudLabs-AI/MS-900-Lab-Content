@@ -128,6 +128,8 @@
 
 ### Task 1 : Explore MS threat protection portal 
 
+1. 
+
 ### Task 2 : Microsoft Secure Score 
 
 1. Microsoft Secure Score is a measurement of an organization's security posture, with a higher number indicating more improvement actions taken. Following the Secure Score recommendations can protect your organization from threats. From a centralized dashboard in the Microsoft 365 security center, organizations can monitor and work on the security of their Microsoft 365 identities, data, apps, devices, and infrastructure.
