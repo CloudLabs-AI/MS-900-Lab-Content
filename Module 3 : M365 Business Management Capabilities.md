@@ -355,18 +355,4 @@
 ## Conclusion
 
 With the help of this module you learnt how to create M365 groups, forms, plans and assign tasks using Planner, also visualized a sample data using Power BI and explored through EndPoint Manager
-  
-
-     
-
-
-
-
-
-
-
-
-
-
-
 
