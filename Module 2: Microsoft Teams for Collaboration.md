@@ -114,10 +114,12 @@
 
 1. From here you can add new team by clicking on **Add**. In **Add a new team**  page fill the deatils and click on **Apply**.
 
-   ![](Images/img223.png)
+   ![](Images/img222.png)
 
 1. Click on your newly created team. From here you can add or remove **Members**, **channels** to the team and manage them.
 
+   ![](Images/img223.png)
+   
    ![](Images/img224.png)
 
 1. Now from the **Left navigation menu** select **Messagng policies**. Messaging policies are used to control which chat and channel messaging features are available to users in Microsoft Teams.
