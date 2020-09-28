@@ -44,6 +44,18 @@
 
 1. Now switch back to the teams user account and verify the message.
 
+1. To create a new team from left navigation menu select **Teams**, click on **Join or create a team** and Select **Create a new team**.
+
+1. Select **Create a new team**, and then select **Build a team from scratch**. You can select **Create from...** to build team from an existing group respectively.
+
+1. Select **Private** if you'd like people to request permission to join, or select **Public** if anyone in your organization can join.
+
+1. Give the team a name and  add description if needed. Select **Create**.
+
+1. To Add members click on more options and select **Add members** search and select the members. When you're done adding members, select **Add** and then Close.
+
+1. From here you can start a new conversation share files.
+
 ### Task 2 : Scheduling teams meeting
 
 1. Select **calendar** from the left hand menu of the teams pane. 
