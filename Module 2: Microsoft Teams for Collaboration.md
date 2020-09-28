@@ -12,7 +12,7 @@
 
 ## Exercise 1: End User Experience 
 
-   In this exercise, you'll learn various activities carried out in Teams such as having a Teams chat, scheduling Teams meetings.
+   In this exercise, you'll learn various activities carried out in Teams such as having a Teams chat and scheduling Teams meetings.
 
 ### Task 1 : Exploring through Teams
 
@@ -96,7 +96,7 @@
    
 # Exercise 2: Explore teams admin center 
 
-  In this exercise you will learn how to configure Teams policies.
+  In this exercise you will learn how to configure Teams policies and apply them.
 
 ### Task 1 :  Manage teams policies 
 
@@ -167,6 +167,8 @@
 1. To learn more about teams policies refer to https://docs.microsoft.com/en-us/microsoftteams/assign-policies.
 
 ## Conclusion
+
+  In this module you learnt how to work with Teams policies and use Teams for collabration.
    
 
 
