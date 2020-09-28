@@ -132,7 +132,25 @@
 
 ### Task 1 : Explore MS threat protection portal 
 
-1. 
+1. The Microsoft 365 security center provides security administrators and other risk management professionals with a centralized hub and specialized workspace that enables them to manage and take full advantage of Microsoft 365 intelligent security solutions for identity and access management, threat protection, information protection, and security management.
+
+1. From the **App launcher** click on All apps and in the search bar search for **Security**, from **Open context menu** click on Open in new tab. This will redirect you to the **Microsoft 365 security** web page.
+
+1.  The home page provides  at-a-glance view of the overall security health of your organization.
+
+1.  From the left navigation menu select **Alerts**. Alerts provides greater visibility on all Microsoft 365 environments, that includes alerts from Microsoft Cloud App Security, Office 365 ATP, Azure AD, Azure ATP, and Microsoft Defender ATP. 
+
+1. Select **Reports** from here you can view security trends and track the protection status of your identities, data, devices, apps, and infrastructure.
+
+1. Select **Secure Score** this page provides an all up summary of the different security features and capabilities you've enabled and includes recommendations for areas to improve.
+
+1. Now select **Classification**, from here you can set labels. When a label is applied (automatically or by the user), the content or site is protected based on the settings you choose.
+
+1. Select **Policies**  from here you can set up policies to manage devices, protect against threats, and receive alerts about various activities in your organization.
+
+1. Select **Permissions**. You can manage who in your organization has access to view content and perform tasks in the Microsoft 365 security center.
+
+
 
 ### Task 2 : Microsoft Secure Score 
 
@@ -166,8 +184,7 @@
    
        ![](Images/img115.png)
        
-  
-
+       
 # Exercise 3: Cloud App Security 
 
   In this exercise you will use the  Cloud App Security portal to identiify the senstivity and criticality of data and apps owned by an organization and address them.
