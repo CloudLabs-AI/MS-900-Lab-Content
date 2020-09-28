@@ -125,6 +125,8 @@
 1. Now select **Assignments** from here you can check **Eligible**, **Active** and **Expired** assignments. You can also add new assignments from here.
 
    ![](Images/img126.png)
+   
+ 1. You can learn more about Priviliged identity management by refering to https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure.
 
 # Exercise 2: Threat Protection 
 
@@ -163,6 +165,8 @@
    - **Share** : Select Share to copy the direct link to the improvement action. You can also choose the platform to share the link, such as email, Microsoft Teams, Microsoft Planner, or ServiceNow. 
    
        ![](Images/img115.png)
+       
+  
 
 # Exercise 3: Cloud App Security 
 
@@ -287,6 +291,8 @@
     ![](Images/img195.png)
  
  1. Alert will be triggered whenever an app with your specified conditions meet, notification will be sent to the email or number specified.
+ 
+ 1. To learn more about Cloud App Security refer https://docs.microsoft.com/en-us/cloud-app-security.
  
 ### Exercise 4 : Information Protection 
 
@@ -445,6 +451,8 @@
          ![](Images/img148.png)
 
 1. In the **Assessments** dashboard, select the assessment name to open it and view the Action Items and Controls Info.
+
+1.
 
 ### Task 2 : Customer Lockbox 
 
