@@ -132,6 +132,8 @@
 
 ### Task 1 : Explore MS threat protection portal 
 
+1. Microsoft Threat Protection is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
+
 1. The Microsoft 365 security center provides security administrators and other risk management professionals with a centralized hub and specialized workspace that enables them to manage and take full advantage of Microsoft 365 intelligent security solutions for identity and access management, threat protection, information protection, and security management.
 
 1. From the **App launcher** click on All apps and in the search bar search for **Security**, from **Open context menu** click on Open in new tab. This will redirect you to the **Microsoft 365 security** web page.
@@ -160,7 +162,7 @@
 
    ![](Images/img243.png)
    
-
+1. To learn more about Threat Protection refer to https://docs.microsoft.com/en-us/microsoft-365/security/mtp.
 
 ### Task 2 : Microsoft Secure Score 
 
