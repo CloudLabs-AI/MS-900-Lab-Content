@@ -87,7 +87,11 @@
 
 1. Search the name or email address of a person within your organization that you want to add to the plan and select the person's card when it appears.
 
-1. Now to assign task to people click on **Add task** 
+1. Now to create bucket click on **Add new bucket**. Buckets helps to organize tasks into things like workstreams, project phases, or topics. 
+
+1.  Type a name for the bucket, and then press Enter.
+
+1. Select **Add task** below the heading of the bucket to which you want to add a task.
     
     - Provide a task name
     
@@ -95,8 +99,23 @@
     
     - Click on **Assign** and choose a plan member from the list. If the right person isn't listed, type a name or email address in the search box to add someone new.
     
-       ![](Images/img64.png)
-      
+       ![](Images/img234.png)
+ 
+ 1. Click on the task to open the task window. 
+ 
+ 1. Select **Start anytime** below Start date, and then select the start date you want. Select **Due anytime** below Due date, and then select the due date you want.
+ 
+ 1. In task window select **Priority**  from here you can set priority of the task.
+ 
+ 1. Select **Add attachment**. Select **File** to attach a locally stored file, select **Link** to include a link, or select **SharePoint** to attach a file from a SharePoint site.
+ 
+ 1. Navigate to and select the file you want to attach, or enter the link information.
+
+1. You can also add comments in **Comment** section. When done click on dismiss button in the upper-right corner of the task window to save and close the task.
+
+1. Now select **Charts**. The charts show how your plan is progressing, with details about what’s done, in progress, not started, and late.
+
+1. To learn more about planner refer to https://support.microsoft.com/en-us/planner.
 
 # Exercise 4 : Setup Microsoft Forms 
 
