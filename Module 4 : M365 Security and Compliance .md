@@ -136,13 +136,21 @@
 
 1. From the **App launcher** click on All apps and in the search bar search for **Security**, from **Open context menu** click on Open in new tab. This will redirect you to the **Microsoft 365 security** web page.
 
-1.  The home page provides  at-a-glance view of the overall security health of your organization.
+1. The home page provides  at-a-glance view of the overall security health of your organization.
+
+   ![](Images/img238.png)
 
 1.  From the left navigation menu select **Alerts**. Alerts provides greater visibility on all Microsoft 365 environments, that includes alerts from Microsoft Cloud App Security, Office 365 ATP, Azure AD, Azure ATP, and Microsoft Defender ATP. 
 
+    ![](Images/img240.png)
+
 1. Select **Reports** from here you can view security trends and track the protection status of your identities, data, devices, apps, and infrastructure.
 
+   ![](Images/img241.png)
+
 1. Select **Secure Score** this page provides an all up summary of the different security features and capabilities you've enabled and includes recommendations for areas to improve.
+
+   ![](Images/img112.png)
 
 1. Now select **Classification**, from here you can set labels. When a label is applied (automatically or by the user), the content or site is protected based on the settings you choose.
 
