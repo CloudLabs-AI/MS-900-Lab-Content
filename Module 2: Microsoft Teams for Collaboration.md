@@ -105,6 +105,20 @@
 1. From the Navigation menu, under **Admin centers** select **Teams**. This will redirect you to **Microsoft Teams admin center**.
 
    ![](Images/img43.png)
+   
+1. From the **Left navigation menu** select **Teams** and under it select **Manage teams**. From here you can manage all the teams and channels, create new ones, and manage the existing ones.
+
+   ![](Images/img221.png)
+
+1. The Mangage teams page displays the list of your teams along with channels, users,  status of team.
+
+1. From here you can add new team by clicking on **Add**. In **Add a new team**  page fill the deatils and click on **Apply**.
+
+   ![](Images/img223.png)
+
+1. Click on your newly created team. From here you can add or remove **Members**, **channels** to the team and manage them.
+
+   ![](Images/img224.png)
 
 1. Now from the **Left navigation menu** select **Messagng policies**. Messaging policies are used to control which chat and channel messaging features are available to users in Microsoft Teams.
 
@@ -148,7 +162,7 @@
 
 1. To apply this policy to specific users select your newly created policy, click on **Manage users** in the search bar search and select the users or groups to whom you intend to apply this policy. Select **Apply**.
 
-1. 
+1. To learn more about teams policies refer to https://docs.microsoft.com/en-us/microsoftteams/assign-policies.
 
 ## Conclusion
    
