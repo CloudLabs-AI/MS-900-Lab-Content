@@ -41,3 +41,5 @@
 1. Now in the licenses page click on **Requests**. From here you can approve or deny the requests made from members of your organization for license assignments.
 
     ![](Images/img133.png)
+
+1. To learn more about licenses refer to  https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses
