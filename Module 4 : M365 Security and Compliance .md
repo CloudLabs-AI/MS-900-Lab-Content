@@ -195,7 +195,8 @@
    - **Share** : Select Share to copy the direct link to the improvement action. You can also choose the platform to share the link, such as email, Microsoft Teams, Microsoft Planner, or ServiceNow. 
    
        ![](Images/img115.png)
-       
+ 
+ 1. To learn more about secure score refer https://docs.microsoft.com/en-us/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide.
        
 # Exercise 3: Cloud App Security 
 
