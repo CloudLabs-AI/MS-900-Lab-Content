@@ -452,7 +452,7 @@
 
 1. In the **Assessments** dashboard, select the assessment name to open it and view the Action Items and Controls Info.
 
-1.
+1. To learn more about Compliance manager refer https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide.
 
 ### Task 2 : Customer Lockbox 
 
