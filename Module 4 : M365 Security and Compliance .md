@@ -472,6 +472,7 @@
 
    ![](Images/img87.png)
    
+1. To learn more about Customer LockBo refer https://docs.microsoft.com/en-us/microsoft-365/compliance/customer-lockbox-requests?view=o365-worldwide.
 
 ## Conclusion
 
