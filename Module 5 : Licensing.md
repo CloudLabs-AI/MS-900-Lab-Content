@@ -2,7 +2,7 @@
 
 # Module 5: Licensing 
 
-  In this module we will browse through licensing center and learn how to assign license to users.
+  In this module you will browse through licensing center and learn how to assign license to users from Microsoft 365 Admin center.
 
 # Exercise 1: Browse Licensing center in M365 Admin center 
 
@@ -45,3 +45,4 @@
     ![](Images/img133.png)
 
 1. To learn more about licenses refer to  https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses
+
