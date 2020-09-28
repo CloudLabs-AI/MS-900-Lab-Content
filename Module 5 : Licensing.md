@@ -2,6 +2,8 @@
 
 # Module 5: Licensing 
 
+  In this module we will browse through licensing center and learn how to assign license to users.
+
 # Exercise 1: Browse Licensing center in M365 Admin center 
 
 1. Open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
