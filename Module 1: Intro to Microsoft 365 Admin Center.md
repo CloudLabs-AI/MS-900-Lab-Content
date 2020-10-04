@@ -76,7 +76,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 1. Verify that the user has been created successfully. In the Microsoft 365 admin center, in the left navigation pane, select **Users** and select **Active users**. The new user should be listed, along with their assigned license.
    
-### Task 2: Verify Custom Domains in the tenant
+### Task 2: Verify Custom Domains in the tenant [Read-Only]
 
 1. To verify the custom domains, from navigation pane click on show all, select **Settings** and choose **Domains**.
 
