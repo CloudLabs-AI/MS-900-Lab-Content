@@ -21,6 +21,10 @@
 
 ### Task 1 : Create Office 365 Groups
 
+1. Open a new browser window and login to the admin center at https://admin.microsoft.com.
+
+1. When prompted, use the credentials provided in the **Environment Details** page to login to the admin center.
+
 1. From the navigation menu click on **Groups** icon and click on **Active groups**, now select **Add a group** icon.
 
    ![](Images/img53.png)
