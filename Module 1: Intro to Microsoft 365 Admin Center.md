@@ -122,7 +122,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img13.png)
    
-1. In the admin centers page select **Exchange**. This will redirect you to Exchange admin center page. 
+1. In the admin center page select **Exchange**. This will redirect you to Exchange admin center page. 
 
    ![](Images/img149.png)
 
