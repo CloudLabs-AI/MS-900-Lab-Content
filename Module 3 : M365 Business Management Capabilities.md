@@ -137,7 +137,7 @@
 
 1. From the top right corner click on **App launcher**
 
-1. Under **Apps** select **outlook** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft Forms  web page.
+1. Under **Apps** select **Forms** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft Forms  web page.
 
 1. Select **New Form** to begin creating your form.
 
