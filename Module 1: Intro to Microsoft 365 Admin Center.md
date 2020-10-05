@@ -317,7 +317,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. Microsoft SharePoint  helps organizations share and manage content, knowledge, and applications to Empower team work, Quickly find information and Seamlessly collaborate across the organization.
 
-1. Switch back to the admin portal, from the  **App launcher** click on **All apps**. In the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab**. This will redirect you  to the **SharePoint** web page. 
+1. Switch back to the office365 portal, from the  **App launcher** click on **All apps**. In the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab**. This will redirect you  to the **SharePoint** web page. 
 
 1. From the top of the SharePoint page, click **+ Create site**  option.
   
@@ -369,9 +369,11 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. To learn more about SharePoint refer to https://docs.microsoft.com/en-us/sharepoint/introduction.
 
-### Task 6 : Exlpore list
+### Task 6 : Exlpore List
 
 1. List helps to track information and organize your work. With list one can track issues, assets, routines, contacts, inventory and more using customizable views and smart rules and alerts to keep everyone in sync.
+
+1. In office365 portal from the  **App launcher** click on **All apps** and in the search bar search for **List**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **List** web page. 
 
 1. In the home page of **Lists** click on **New list**. 
 
