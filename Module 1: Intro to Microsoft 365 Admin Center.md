@@ -34,7 +34,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. Open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
-1. When prompted, use the credentials provided in the **Environment Details** page to log in to the admin center.
+1. When prompted, use the credentials provided in the **Environment Details** page to login to the admin center.
 
 1. From the navigation menu, click on the **Users** icon and click on **Active users**. Here you can see the users that are active.
 
