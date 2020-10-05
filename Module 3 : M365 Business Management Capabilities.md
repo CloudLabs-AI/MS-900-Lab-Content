@@ -61,9 +61,7 @@
 
 1. Microsoft Planner provides a hub for team members to create plans, organise and assign tasks to different users and to check updates on progress through dashboards. It also provides a centralised place where files can be shared and gives visibility to the whole team.
 
-1. From the top right corner of admin center click on **App launcher**.
-
-1. Under **Apps** select **Planner** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft Planner  web page.
+1. In office365 portal from the App launcher click on **All apps** and in the search bar search for **Planner**, from **Open context menu** click on Open in new tab, this will redirect you to the **Planner** web page.
 
 1. Select **New plan**  in the left pane.
  
@@ -135,9 +133,7 @@
 
 1. With Microsoft Forms, you can create surveys, quizzes, and polls, and easily see results as they come in.
 
-1. From the top right corner click on **App launcher**
-
-1. Under **Apps** select **Forms** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft Forms  web page.
+1. In office365 portal from the **App launcher** click on **All apps** and in the search bar search for **Forms**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Forms** web page.
 
 1. Select **New Form** to begin creating your form.
 
@@ -201,9 +197,7 @@
 
 ### Task 1: Import data to PowerBI
 
-1. From the top right corner of admin center click on **App launcher**
-
-1. Under **Apps**, select **Power BI** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft **Power BI** web page.
+1. In office365 portal from the **App launcher** click on **All apps** and in the search bar search for **Power BI**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Power BI** web page.
 
 1. Download sample data from https://docs.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
 
@@ -257,7 +251,7 @@
 
 1. Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to help employees and their managers gain insight into how workers spend their time, with the goal of optimizing tasks and making them more efficient. With this application you can track data such as time spent in meetings, Outlook emails, productivity and time spent working late.
 
-1. From the top right corner of admin center click on **App launcher**
+1. In office365 portal from the **App launcher** click on **All apps** and in the search bar search for **MyAnalytics**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **MyAnalytics** web page.
 
 1. Under **Apps**, select **MyAnalytics** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft **MyAnalytics** web page.
 
@@ -294,7 +288,7 @@
 
 1. Microsoft Endpoint Manager helps deliver the modern workplace and modern management to keep your data secure, in the cloud and on-premises. Endpoint Manager includes the services and tools you use to manage and monitor mobile devices, desktop computers, virtual machines, embedded devices, and servers. Endpoint Manager combines services like Microsoft Intune, Configuration Manager, Desktop Analytics, co-management, and Windows Autopilot.
 
-1. From the navigation menu scroll down to Admin centers and select **Endpoint Manager**. This will redirect you to Endpoint Manager admin center.
+1. Switch back to **Admin Center** portal, from the navigation menu scroll down to Admin centers and select **Endpoint Manager**. This will redirect you to Endpoint Manager admin center.
 
    ![](Images/img196.png)
 
