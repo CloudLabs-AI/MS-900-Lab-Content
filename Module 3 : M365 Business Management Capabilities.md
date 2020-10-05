@@ -65,6 +65,10 @@
 
 1. Microsoft Planner provides a hub for team members to create plans, organise and assign tasks to different users and to check updates on progress through dashboards. It also provides a centralised place where files can be shared and gives visibility to the whole team.
 
+1. Open a new browser window and login to the office365 center at https://www.office.com.
+
+1. When prompted enter the username and password of the user that you created in the previous exercise.
+
 1. In office365 portal from the App launcher click on **All apps** and in the search bar search for **Planner**, from **Open context menu** click on Open in new tab, this will redirect you to the **Planner** web page.
 
 1. Select **New plan**  in the left pane.
