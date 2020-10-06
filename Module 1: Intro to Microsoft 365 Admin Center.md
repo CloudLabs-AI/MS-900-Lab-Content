@@ -247,7 +247,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you  to the **Yammer** page. 
    ![](Images/img21.png)
 
-1. From the left hand pane click on **Create a group**, enter a name for your group. In **Group Members** search and select the user you want to add. Based on your requirement choose **Public** or **Private** access and click on **Create Group**.
+1. From the left hand pane click on **Create a Community**, enter a name for your community. In **Members** search and select the users you want to add. Based on your requirement choose **Public** or **Private** access and click on **Create**.
 
    ![](Images/img22.png)
    
@@ -259,15 +259,15 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    ![](Images/img24.png)
   
-1.  We can also send a private message to a specific person in Yammer.
+1.  We can also send private message in Yammer.
    
-1.  In the yammer dashboard click the **+** icon next to **Private Messages** from the left sidebar. When prompted select **Send Private Message**.
+1.  In the yammer dashboard click on **Inbox** icon and select  **New Private Messages**. 
    
     ![](Images/img25.png)
 
-1. In the Add Participants field, search or type the person's username. A drop-down menu of usernames that matches will appear.
+1. In the **Add People** field, search or type the person's username. A drop-down menu of usernames that matches will appear.
 
-1. Select the person's name that you want the message to be sent to, enter the message you want to send and then click on **Send Message**.
+1. Select the person's name that you want the message to be sent to, enter the message you want to send and then click on **Post**.
 
    ![](Images/img160.png)
 
