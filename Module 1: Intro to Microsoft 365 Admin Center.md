@@ -4,73 +4,73 @@
 
 The Microsoft 365 admin center is where you manage your business in the cloud. You can complete such tasks as adding and removing users, changing licenses, and resetting passwords. Here are the features and settings you'll find in the left-hand navigation of the admin center.
   
-   - Home : This is the landing page in the admin center. You'll see where to manage users, billing, service health, and reports.
+   - **Home**: This is the landing page in the admin center. You'll see where to manage users, billing, service health, and reports.
    
-   - Users : Create and manage users in your organization, like employees or students. You can also set their permission level or reset their passwords.
+   - **Users**: Create and manage users in your organization, like employees or students. You can also set their permission level or reset their passwords.
    
-   - Groups : Create and manage groups in your organization, such as a Microsoft 365 group, distribution group, security group, or shared mailbox.
+   - **Groups**: Create and manage groups in your organization, such as a Microsoft 365 group, distribution group, security group, or shared mailbox.
    
-   - Resources : Create and manage resources, like a SharePoint site collection. 
+   - **Resources**: Create and manage resources, like a SharePoint site collection. 
    
-   - Billing : View, purchase, or cancel subscriptions for your organization. View past billing statements or view the number of assigned licenses to individual users.
+   - **Billing**: View, purchase, or cancel subscriptions for your organization. View past billing statements or view the number of assigned licenses to individual users.
    
-   - Support : View existing service requests or create new ones.
+   - **Support**: View existing service requests or create new ones.
    
-   - Settings : Manage global settings for apps like email, sites, and the Office suite. Change your password policy and expiration date. Add and update domain names like contoso.com. Change your organization profile and release preferences. And choose whether partners can access your admin center.
+   - **Settings**: Manage global settings for apps like email, sites, and the Office suite. Change your password policy and expiration date. Add and update domain names like contoso.com. Change your organization profile and release preferences. And choose whether partners can access your admin center.
    
-   - Setup : Manage existing domains, turn on and manage multi-factor authentication, manage admin access, migrate user mailboxes to Office 365, manage feature updates, and help users install their Office apps
+   - **Setup**: Manage existing domains, turn on and manage multi-factor authentication, manage admin access, migrate user mailboxes to Office 365, manage feature updates, and help users install their Office apps
    
-   - Reports : See at a glance how your organization is using Microsoft 365 with detailed reports on email use, Office activations, and more.
+   - **Reports**: See at a glance how your organization is using Microsoft 365 with detailed reports on email use, Office activations, and more.
    
-   - Health : View the service health at a glance. You can also check out more details and the service health history.
+   - **Health**: View the service health at a glance. You can also check out more details and the service health history.
    
-   - Admin centers : Open separate admin centers for Exchange, Skype for Business, SharePoint, Yammer, and Azure AD. Each admin center includes all available settings for that service.
+   - **Admin centers**: Open separate admin centers for Exchange, Skype for Business, SharePoint, Yammer, and Azure AD. Each admin center includes all available settings for that service.
 
 # Exercise 1: Admin Experience for User Management
 
-  In this exercise, you will learn how to create users, assign license to the users, verify custom domains in the tenant and see how to access other admin centers.
+  In this exercise, you will learn how to create users, assign a license to the users, verify custom domains in the tenant, and see how to access other admin centers.
   
 ### Task 1: Admin Experience for User Management
 
-1. Open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+1. Open a new browser window and log in to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
 1. When prompted, use the credentials provided in the **Environment Details** page to login to the admin center.
 
-1. From the navigation menu, click on the **Users** icon and click on **Active users**. Here you can see the users that are active.
+1. From the navigation menu, click on the **Users** icon and click on **Active users**. This will display the list of users that are active.
 
    ![](Images/img1.png)
 
-1. From the navigation menu click on **Groups** icon and click on **Active groups**. This will display list of all the groups that are created.
+1. From the navigation menu, click on the **Groups** icon and click on **Active groups**. This will display a list of all the groups that are created.
 
    ![](Images/img2.png)
 
-1. Now to create a new user, from the navigation menu click on **Users icon** and click on **Active users** , Now select **Add a user** icon.
+1. Now to create a new user, from the navigation menu click on **Users icon** and click on **Active users**, and then select **Add a user** icon.
 
    ![](Images/img3.png)
 
-1. In the **Set up the basics pane** , fill in the basic user information, and then select Next.
+1. In the **Set up the basics pane**, fill the following details, and then select **Next**.
 
-   - **Display Name:** Enter a name for user.
+   - **Display Name:** Enter a display name for the user.
 
    - **Username:** Enter username.
 
      ![](Images/img4.png)
 
-   - **Password settings:** select let me create password and provide password.
+   - **Password settings:** select let me create password and provide a password.
 
-   - **Require this user to change their password when they first sign in** : selected.
+   - **Require this user to change their password when they first sign in**: selected.
 
      ![](Images/img5.png)
 
-1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, choose **Assign user a product license**  and   select **office 365 E5** license. Click **Next**.
+1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, choose **Assign user a product license** and   select **office 365 E5** license. Click **Next**.
 
    ![](Images/img6.png)
 
-1. In the  **Optional settings**  pane, leave everything as default and click on **Next**.
+1. In the **Optional settings**  pane, leave everything as default and click on **Next**.
 
    ![](Images/img7.png)
 
-1. In **Review and Finish** pane, review the new user&#39;s settings and click on **Finish adding**, then **Close**.
+1. In the **Review and Finish** pane, review the new user&#39;s settings and click on **Finish adding**, then **Close**.
 
    ![](Images/img8.png)
    
@@ -78,7 +78,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 ### Task 2: Verify Custom Domains in the tenant [Read-Only]
 
-1. To verify the custom domains, from navigation pane click on show all, select **Settings** and choose **Domains**.
+1. To verify the custom domains, from the navigation pane click on show all, select **Settings** and choose **Domains**.
 
    ![](Images/img12.png)
 
