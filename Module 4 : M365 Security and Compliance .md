@@ -10,7 +10,7 @@
   
 ### Task 1: Enable MFA in AAD using Conditional Access Policy 
 
-1. Open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+1. Open a new browser window and log in to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
 1. When prompted, use the credentials provided in the **Environment Details** page to log in to the admin center.
 
@@ -95,17 +95,17 @@
 
    ![](Images/img121.png)
 
-1. Select **Notification**, from here we can configure to receive notification when a member is assigned as eligible to role or when a role is activated.
+1. Select **Notification**, from here we can configure to receive notification when a member is assigned as eligible to the role or when a role is activated.
 
    ![](Images/img122.png)
 
-1. Now to assign a role, within **Azure AD Privileged Identity Management** page under manage, click on **Roles**. This displays a list of roles for Azure AD permissions.
+1. Now to assign a role, within the **Azure AD Privileged Identity Management** page under manage, click on **Roles**. This displays a list of roles for Azure AD permissions.
 
 1. Select **Add assignments** to open the Add assignments page.
 
    ![](Images/img123.png)
 
-1. From **Select role** drop-down select a role you want to assign, and under **Select members** select a member to whom you want to assign the role, and then select **Next**.
+1. From the **Select role** drop-down select a role you want to assign, and under **Select members** select a member to whom you want to assign the role, and then select **Next**.
    
    ![](Images/img124.png)
 
@@ -132,7 +132,7 @@
 
   In this exercise, you will explore through Microsoft threat protection portal and Microsoft Secure Score.
 
-### Task 1 : Explore MS threat protection portal 
+### Task 1: Explore MS threat protection portal 
 
 1. Microsoft Threat Protection is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
 
@@ -166,7 +166,7 @@
    
 1. To learn more about Threat Protection refer to https://docs.microsoft.com/en-us/microsoft-365/security/mtp.
 
-### Task 2 : Microsoft Secure Score 
+### Task 2: Microsoft Secure Score 
 
 1. Microsoft Secure Score is a measurement of an organization's security posture, with a higher number indicating more improvement actions taken. Following the Secure Score recommendations can protect your organization from threats. From a centralized dashboard in the Microsoft 365 security center, organizations can monitor and work on the security of their Microsoft 365 identities, data, apps, devices, and infrastructure.
 
@@ -178,23 +178,23 @@
 
 1. Additionally, if you select the Include button next to your score, you can choose different views of your score.
 
-    - **Planned score** : Shows projected score when planned actions are completed.
+    - **Planned score**: Shows projected score when planned actions are completed.
     
-    - **Current license score** : Shows score that can be achieved with your current Microsoft license.
+    - **Current license score**: Shows score that can be achieved with your current Microsoft license.
     
     - **Achievable score**: Shows score that can be achieved with your Microsoft licenses and current risk acceptance.
     
        ![](Images/img113.png)
     
-1. Now select **Improvement actions** tab, this lists the security recommendations that address possible attack surfaces. It also includes their status (to address, planned, risk accepted, resolved through third party, resolved through alternate mitigation, and completed).
+1. Now select **Improvement actions** tab, this lists the security recommendations that address possible attack surfaces. It also includes their status (to address, planned, risk accepted, resolved through the third party, resolved through alternate mitigation, and completed).
 
    ![](Images/img114.png)
 
 1. When you select a specific improvement action, a full-page flyout appears.
 
-   - **Manage** : Select Manage to go to the configuration screen and make the change. You'll then gain the points that the action is worth, visible in the flyout.
+   - **Manage**: Select Manage to go to the configuration screen and make the change. You'll then gain the points that the action is worth, visible in the flyout.
    
-   - **Share** : Select Share to copy the direct link to the improvement action. You can also choose the platform to share the link, such as email, Microsoft Teams, Microsoft Planner, or ServiceNow. 
+   - **Share**: Select Share to copy the direct link to the improvement action. You can also choose the platform to share the link, such as email, Microsoft Teams, Microsoft Planner, or ServiceNow. 
    
        ![](Images/img115.png)
  
@@ -204,7 +204,7 @@
 
   In this exercise, you will use the  Cloud App Security portal to identify the sensitivity and criticality of data and apps owned by an organization and address them.
 
-### Task 1 : Discover Apps with Cloud App Security  
+### Task 1: Discover Apps with Cloud App Security  
 
 1. Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB). It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyber threats across all your cloud services.
 
@@ -218,21 +218,21 @@
 
 1. From the left-hand menu select **Dashboard**. In the dashboard you can see details about:
 
-   - **Open alerts** : Shows the number of open alerts, a graph of the alert status distribution, and recent alerts
+   - **Open alerts**: Shows the number of open alerts, a graph of the alert status distribution, and recent alerts
 
-   - **Discovered apps** : Shows the number of discovered apps, a graph of the app risk distribution, and the top app categories by traffic.
+   - **Discovered apps**: Shows the number of discovered apps, a graph of the app risk distribution, and the top app categories by traffic.
 
-   - **Top users to investigate** : Shows the number of users to investigate and the users with the highest investigation priority.
+   - **Top users to investigate**: Shows the number of users to investigate and the users with the highest investigation priority.
 
-   - **Conditional Access App Control** : Shows the number of apps protected by Conditional Access App Control as well as the number of protected sessions and actions over the last 30 days.
+   - **Conditional Access App Control**: Shows the number of apps protected by Conditional Access App Control as well as the number of protected sessions and actions over the last 30 days.
    
-   - **App connectors status** : Shows the number of API connected app instances and their status.
+   - **App connectors status**: Shows the number of API connected app instances and their status.
 
-   - **Files infected with malware** : Shows the number of files infected with malware.
+   - **Files infected with malware**: Shows the number of files infected with malware.
 
-   - **Privileged Office 365 OAuth apps** : Shows the number of rarely used OAuth apps granted highly privileged permissions.
+   - **Privileged Office 365 OAuth apps**: Shows the number of rarely used OAuth apps granted highly privileged permissions.
 
-   - **Azure security configuration** : Shows the number and severity of Azure security configuration recommendations.
+   - **Azure security configuration**: Shows the number and severity of Azure security configuration recommendations.
    
      ![](Images/img180.png)
 
@@ -268,21 +268,21 @@
 
 1. Click on **Discovered apps** tab, from here you can review which apps are risky and which are commonly used by using filters like:
 
-    - **App tag** : Tags enable you to customize the Cloud App Catalog. You can select from either Sanctioned, Unsanctioned, or create custom tags for apps. These tags can then be used as filters.
+    - **App tag**: Tags enable you to customize the Cloud App Catalog. You can select from either Sanctioned, Unsanctioned, or create custom tags for apps. These tags can then be used as filters.
     
-    - **Risk score** : Lets you filter apps by risk score that you can focus on. For example, reviewing only risky apps.
+    - **Risk score**: Lets you filter apps by risk score that you can focus on. For example, reviewing only risky apps.
     
-    - **Compliance risk factor** : Lets you search for specific standards, certification, and compliance that the app may comply with.
+    - **Compliance risk factor**: Lets you search for specific standards, certification, and compliance that the app may comply with.
     
-    - **Security risk factor** : Enables you to filter based on specific security measures (such as Encryption at rest, multi-factor authentication, etc.).
+    - **Security risk factor**: Enables you to filter based on specific security measures (such as Encryption at rest, multi-factor authentication, etc.).
     
-    - **Apps and domains** : Enables you to search for specific apps or apps used in specific domains.
+    - **Apps and domains**: Enables you to search for specific apps or apps used in specific domains.
     
-    - **Categories** : The categories filter, located on the left of the page, enables you to search for types of apps according to app categories.
+    - **Categories**: The categories filter, located on the left of the page, enables you to search for types of apps according to app categories.
     
-    - **Usage** : Lets you filter based on the usage statistics of this app. Usage such as apps with less than or more than a specified number of data uploads, apps with more than or less than a specified number of Users.
+    - **Usage**: Lets you filter based on the usage statistics of this app. Usage such as apps with less than or more than a specified number of data uploads, apps with more than or less than a specified number of Users.
     
-    - **Legal risk factor** : Lets you filter based on all the regulations and policies that are in place to ensure data protection and privacy of the app's users.
+    - **Legal risk factor**: Lets you filter based on all the regulations and policies that are in place to ensure data protection and privacy of the app's users.
     
       ![](Images/img187.png)
     
@@ -330,7 +330,7 @@
 
   In this exercise, you will learn how to classify and protect your organization's data using a sensitivity label.
 
-### Task 1 : Setup Data sensitivity label and policy 
+### Task 1: Setup Data sensitivity label and policy 
 
 1. Sensitivity labels from the Microsoft Information Protection framework let you classify and protect your organization's data while making sure that user productivity and their ability to collaborate isn't hindered.
 
@@ -348,7 +348,7 @@
 
    ![](Images/img91.png)
 
-1. In **Encryption** page, choose when you want to assign permissions, whether you want your users' access to the content to expire, and whether you want to allow offline access. 
+1. In the **Encryption** page, choose when you want to assign permissions, whether you want your users' access to the content to expire, and whether you want to allow offline access. 
 
       - **Encryption** : select Apply.
       
@@ -364,7 +364,7 @@
       
 1. Under **Assign permissions to specific users or groups** click on **Assign permissions**. From here you can grant permissions to specific people so that only they can interact with the labeled content.
  
-1. In **Assign permissions** pane, add users or groups that will be assigned permissions to the labeled content. For now select **+ Add users or groups** and select the user or group for whom you want to assign the label. Select **Add**.
+1. In the **Assign permissions** pane, add users or groups that will be assigned permissions to the labeled content. For now select **+ Add users or groups** and select the user or group for whom you want to assign the label. Select **Add**.
 
    ![](Images/img93.png)
  
