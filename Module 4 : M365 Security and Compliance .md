@@ -132,7 +132,7 @@
 
   In this exercise, you will explore through Microsoft threat protection portal and Microsoft Secure Score.
 
-### Task 1: Explore MS threat protection portal 
+### Task 1: Explore MS threat protection portal [Read-Only]
 
 1. Microsoft Threat Protection is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
 
