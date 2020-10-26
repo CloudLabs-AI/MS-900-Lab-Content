@@ -65,6 +65,8 @@
 
 Microsoft Planner provides a hub for team members to create plans, organize, and assign tasks to different users, and to check updates on progress through dashboards. It also provides a centralized place where files can be shared and give visibility to the whole team.
 
+In this exercise, you will learn how to create a new plan in Microsoft Planner and add members to it, create buckets, add tasks to the bucket and assign the tasks to the user.
+
 1. Open a new browser window and log in to the office365 center at https://www.office.com.
 
 1. When prompted enter the username and password of the user that you created in the previous exercise.
@@ -137,9 +139,11 @@ Microsoft Planner provides a hub for team members to create plans, organize, and
 
 This exercise explains how to create and work with Microsoft Forms.
  
-### Task 1 : Creating a new form
+### Task 1 : Creating a new Form
 
 With Microsoft Forms, you can create surveys, quizzes, and polls, and easily see results as they come in.
+
+In this task, you will learn how to create a Form using Microsoft Forms.
 
 1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **Forms**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Forms** web page.
 
@@ -185,6 +189,8 @@ With Microsoft Forms, you can create surveys, quizzes, and polls, and easily see
 
 ### Task 2 : Change a form theme and Sharing forms
 
+In this task, you will learn how to customize the theme of your newly created form and the means to share it.
+
 1. Click on the **Theme** at the top right of the design window and pick the color or background you want.
 
    ![](Images/img74.png)
@@ -204,6 +210,8 @@ With Microsoft Forms, you can create surveys, quizzes, and polls, and easily see
 In this exercise, you will learn how to create a Power BI report from sample data and visualize it.
 
 ### Task 1: Import data to PowerBI
+
+In this task, you will import sample financial data to PowerBI. 
 
 1. In office365 portal from the **App launcher** click on **All apps** and in the search bar search for **Power BI**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Power BI** web page.
 
@@ -228,6 +236,8 @@ In this exercise, you will learn how to create a Power BI report from sample dat
    ![](Images/img80.png)
 
 ### Task 2 : Visualize data
+
+In this task, you will visualize the data which you had imported in the previous task by using various visualization options available in PowerBI.
 
 1. The report opens in the Editing view and displays the blank report canvas. On the right are the **Visualizations**, **Filters**, and **Fields** panes.
 
@@ -258,6 +268,8 @@ In this exercise, you will learn how to create a Power BI report from sample dat
 # Exercise 6 : Explore MyAnalytics
 
 Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to help employees and their managers gain insight into how workers spend their time, intending to optimize tasks and make them more efficient. With this application, you can track data such as time spent in meetings, Outlook emails, productivity, and time spent working late.
+
+In this exercise, you will explore MyAnalytics application.
 
 1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **MyAnalytics**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **MyAnalytics** web page.
 
@@ -295,6 +307,8 @@ Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to h
 # Exercise 7 : Explore Microsoft EndPoint Manager 
 
 Microsoft Endpoint Manager helps deliver the modern workplace and modern management to keep your data secure, in the cloud and on-premises. Endpoint Manager includes the services and tools you use to manage and monitor mobile devices, desktop computers, virtual machines, embedded devices, and servers. Endpoint Manager combines services like Microsoft Intune, Configuration Manager, Desktop Analytics, co-management, and Windows Autopilot.
+
+In this exercise, you will explore various available options in Microsoft EndPoint Manager.
 
 1. Switch back to **Admin Center** portal, from the navigation menu scroll down to Admin centers, and select **Endpoint Manager**. This will redirect you to the Endpoint Manager admin center.
 
