@@ -12,7 +12,7 @@
 
 # Exercise 1: End User Experience 
 
-   In this exercise, you'll learn various activities carried out in Teams such as having a Teams chat and scheduling Teams meetings.
+In this exercise, you'll learn various activities carried out in Teams such as having a Teams chat and scheduling Teams meetings.
 
 ### Task 1: Exploring through Teams
 
