@@ -10,6 +10,8 @@
   
 ### Task 1: Enable MFA in AAD using Conditional Access Policy 
 
+In this task, you will enable MFA in Azure Active Directory using Conditional Access Policy and verify the policy.
+
 1. Open a new browser window and log in to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
 1. When prompted, use the credentials provided in the **Environment Details** page to log in to the admin center.
@@ -132,9 +134,11 @@ Privileged Identity Management (PIM) is a service in Azure Active Directory (Azu
 
 In this exercise, you will explore through Microsoft threat protection portal and Microsoft Secure Score.
 
-### Task 1: Explore MS threat protection portal [Read-Only]
+### Task 1: Explore MS Threat Protection Portal [Read-Only]
 
 Microsoft Threat Protection is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
+
+In this task, you will explore Microsoft Threat Protection Portal.
 
 1. The Microsoft 365 security center provides security administrators and other risk management professionals with a centralized hub and specialized workspace that enables them to manage and take full advantage of Microsoft 365 intelligent security solutions for identity and access management, threat protection, information protection, and security management.
 
@@ -169,6 +173,8 @@ Microsoft Threat Protection is a unified pre- and post-breach enterprise defense
 ### Task 2: Microsoft Secure Score 
 
 Microsoft Secure Score is a measurement of an organization's security posture, with a higher number indicating more improvement actions taken. Following the Secure Score recommendations can protect your organization from threats. From a centralized dashboard in the Microsoft 365 security center, organizations can monitor and work on the security of their Microsoft 365 identities, data, apps, devices, and infrastructure.
+
+In this task, you will learn about Microsoft Secure Score.
 
 1. From the **App launcher** click on All apps and in the search bar search for **Security**, from **Open context menu** click on Open in new tab. This will redirect you to the **Microsoft 365 security** web page.
 
@@ -436,11 +442,13 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 
 ### Exercise 5 : Compliance Manager 
 
-  This exercise will let you explore the features of the Compliance Manager and Customer LockBox.
+This exercise will let you explore the features of the Compliance Manager and Customer LockBox.
 
 ### Task 1 : Explore Compliance Manager 
 
 Compliance Manager measures your progress in completing actions that help reduce risks around data protection and regulatory standards.
+
+In this task, you will explore Microsoft Compliance Manager.
 
 1. In the **admin center**, from the navigation menu, scroll down to  **Admin centers** and select **Compliance**, the Microsoft 365 Compliance center overview page will appear.
 
@@ -494,6 +502,8 @@ Compliance Manager measures your progress in completing actions that help reduce
 
 Customer Lockbox ensures that Microsoft cannot access your content to perform a service operation without your explicit approval. Customer Lockbox brings you into the approval workflow for requests to access your content.
 
+In this task, you will learn how to work with Customer Lockbox.
+
 1. In the **admin center**, from the navigation menu, scroll down to  **Settings** and select **Org settings**.
 
 1. Select **Services** in the search bar search and select  **Customer Lockbox**.
@@ -508,7 +518,7 @@ Customer Lockbox ensures that Microsoft cannot access your content to perform a 
 
    ![](Images/img87.png)
    
-1. To learn more about Customer LockBo refer to https://docs.microsoft.com/en-us/microsoft-365/compliance/customer-lockbox-requests?view=o365-worldwide.
+1. To learn more about Customer LockBox refer to https://docs.microsoft.com/en-us/microsoft-365/compliance/customer-lockbox-requests?view=o365-worldwide.
 
 ## Conclusion
 
