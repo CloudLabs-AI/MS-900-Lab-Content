@@ -1,6 +1,6 @@
 # MS-900
 
-## Module 2: Microsoft Teams for Collaboration  
+# Module 2: Microsoft Teams for Collaboration  
 
   Microsoft Teams is a collaboration app that helps your team stay organized and have conversations—all in one place. With Microsoft Teams on your PC, Mac, or mobile device, you  can :
   
@@ -10,7 +10,7 @@
    * See likes, @mentions, and replies with just a single tap.
    * Customize it by adding notes, web sites, and apps. 
 
-## Exercise 1: End User Experience 
+# Exercise 1: End User Experience 
 
    In this exercise, you'll learn various activities carried out in Teams such as having a Teams chat and scheduling Teams meetings.
 
@@ -103,7 +103,6 @@ In this task, we will learn how to schedule a meeting in Teams.
 In this exercise you will learn how to configure Teams policies and apply them.
 
 ### Task 1:  Manage teams policies 
-
 
 In this task, we will create and assign a messaging policy to the user from the admin center and verify the effect of the policy from the team's portal. Then we will learn how to create and assign App permission policies from the team's Admin center.
 
