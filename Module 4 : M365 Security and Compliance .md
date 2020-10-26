@@ -126,7 +126,7 @@ Privileged Identity Management (PIM) is a service in Azure Active Directory (Azu
 
    ![](Images/img126.png)
    
- 1. You can learn more about Privileged identity management by referring to https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure.
+1. You can learn more about Privileged identity management by referring to https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure.
 
 # Exercise 2: Threat Protection 
 
@@ -198,7 +198,7 @@ Microsoft Secure Score is a measurement of an organization's security posture, w
    
        ![](Images/img115.png)
  
- 1. To learn more about secure score refer to https://docs.microsoft.com/en-us/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide.
+1. To learn more about secure score refer to https://docs.microsoft.com/en-us/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide.
        
 # Exercise 3: Cloud App Security 
 
@@ -298,33 +298,33 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
     
       ![](Images/img189.png)
     
- 1. You can also customize alerts and actions by creating policies. In the alerts page click on **Create policy**. Select **App discovery policy**. Based on your requirement you can choose other **policies**.
+1. You can also customize alerts and actions by creating policies. In the alerts page click on **Create policy**. Select **App discovery policy**. Based on your requirement you can choose other **policies**.
  
     ![](Images/img190.png)
  
- 1. Give your policy a name and description. If you want, you can base it on a template. Set the severity of the policy.
+1. Give your policy a name and description. If you want, you can base it on a template. Set the severity of the policy.
  
     ![](Images/img191.png)
  
- 1. To set which discovered apps trigger this policy, click **+** add filters. From the dropdown select the filter based on your requirement.
+1. To set which discovered apps trigger this policy, click **+** add filters. From the dropdown select the filter based on your requirement.
  
     ![](Images/img192.png)
  
- 1. Enable **Trigger a policy match if all the following occur on the same day**. Select criteria from the drop-down based on your requirements.
+1. Enable **Trigger a policy match if all the following occur on the same day**. Select criteria from the drop-down based on your requirements.
  
     ![](Images/img193.png)
  
- 1. Set a **Daily alert limit** under Alerts. Select whether the alert is sent as an email, a text message, or both. 
+1. Set a **Daily alert limit** under Alerts. Select whether the alert is sent as an email, a text message, or both. 
  
     ![](Images/img194.png)
  
- 1. Select **Governance actions** to apply when an app matches this policy. It can tag policies as **Sanctioned**, **Unsanctioned**, or a custom tag. Click **Create**. 
+1. Select **Governance actions** to apply when an app matches this policy. It can tag policies as **Sanctioned**, **Unsanctioned**, or a custom tag. Click **Create**. 
  
     ![](Images/img195.png)
  
- 1. Alert will be triggered whenever an app with your specified conditions meet, notification will be sent to the email or number specified.
+1. Alert will be triggered whenever an app with your specified conditions meet, notification will be sent to the email or number specified.
  
- 1. To learn more about Cloud App Security refer to https://docs.microsoft.com/en-us/cloud-app-security.
+1. To learn more about Cloud App Security refer to https://docs.microsoft.com/en-us/cloud-app-security.
  
 ### Exercise 4 : Information Protection 
 
