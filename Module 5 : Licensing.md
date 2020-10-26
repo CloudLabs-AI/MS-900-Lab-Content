@@ -1,3 +1,4 @@
+
 # MS-900
 
 # Module 5: Licensing 
@@ -6,7 +7,7 @@
 
 # Exercise 1: Browse Licensing center in M365 Admin center 
 
-1. Open a new browser window and login to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
+1. Open a new browser window and log in to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
 1. When prompted, use the credentials provided in the **Environment Details** page to log in to the admin center.
 
