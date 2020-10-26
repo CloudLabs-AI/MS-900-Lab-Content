@@ -16,6 +16,8 @@
 
 ### Task 1: Exploring through Teams
 
+In this task, we will explore the options available in Teams, learn how to create a team and add members to it.
+
 1. Open a new browser window and log in to the admin center at https://admin.microsoft.com.
 
 1. When prompted, use the credentials provided in the **Environment Details** page to log in to the admin center.
@@ -68,7 +70,9 @@
 
     ![](Images/img216.png)
 
-### Task 2: Scheduling teams meeting
+### Task 2: Scheduling Teams meeting
+
+In this task, we will learn how to schedule a meeting in Teams.
 
 1. Select **calendar** from the left-hand menu of the team's pane. 
 
@@ -96,9 +100,12 @@
    
 # Exercise 2: Explore Teams admin center 
 
-  In this exercise you will learn how to configure Teams policies and apply them.
+In this exercise you will learn how to configure Teams policies and apply them.
 
 ### Task 1:  Manage teams policies 
+
+
+In this task, we will create and assign a messaging policy to the user from the admin center and verify the effect of the policy from the team's portal. Then we will learn how to create and assign App permission policies from the team's Admin center.
 
 1. Teams policies in Microsoft Teams can be used to control what users in your organization can do in teams and channels.
 
