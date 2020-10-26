@@ -63,7 +63,7 @@
 
 # Exercise 3: Explore Microsoft Planner 
 
-1. Microsoft Planner provides a hub for team members to create plans, organize, and assign tasks to different users, and to check updates on progress through dashboards. It also provides a centralized place where files can be shared and give visibility to the whole team.
+Microsoft Planner provides a hub for team members to create plans, organize, and assign tasks to different users, and to check updates on progress through dashboards. It also provides a centralized place where files can be shared and give visibility to the whole team.
 
 1. Open a new browser window and log in to the office365 center at https://www.office.com.
 
@@ -135,11 +135,11 @@
 
 # Exercise 4 : Setup Microsoft Forms 
 
-  This exercise explains how to create and work with Microsoft Forms.
+This exercise explains how to create and work with Microsoft Forms.
  
 ### Task 1 : Creating a new form
 
-1. With Microsoft Forms, you can create surveys, quizzes, and polls, and easily see results as they come in.
+With Microsoft Forms, you can create surveys, quizzes, and polls, and easily see results as they come in.
 
 1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **Forms**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Forms** web page.
 
@@ -201,7 +201,7 @@
 
 # Exercise 5 : Setup Basic PowerBI Report from a sample Excel 
 
-  In this exercise, you will learn how to create a Power BI report from sample data and visualize it.
+In this exercise, you will learn how to create a Power BI report from sample data and visualize it.
 
 ### Task 1: Import data to PowerBI
 
@@ -257,7 +257,7 @@
 
 # Exercise 6 : Explore MyAnalytics
 
-1. Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to help employees and their managers gain insight into how workers spend their time, intending to optimize tasks and make them more efficient. With this application, you can track data such as time spent in meetings, Outlook emails, productivity, and time spent working late.
+Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to help employees and their managers gain insight into how workers spend their time, intending to optimize tasks and make them more efficient. With this application, you can track data such as time spent in meetings, Outlook emails, productivity, and time spent working late.
 
 1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **MyAnalytics**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **MyAnalytics** web page.
 
@@ -294,7 +294,7 @@
 
 # Exercise 7 : Explore Microsoft EndPoint Manager 
 
-1. Microsoft Endpoint Manager helps deliver the modern workplace and modern management to keep your data secure, in the cloud and on-premises. Endpoint Manager includes the services and tools you use to manage and monitor mobile devices, desktop computers, virtual machines, embedded devices, and servers. Endpoint Manager combines services like Microsoft Intune, Configuration Manager, Desktop Analytics, co-management, and Windows Autopilot.
+Microsoft Endpoint Manager helps deliver the modern workplace and modern management to keep your data secure, in the cloud and on-premises. Endpoint Manager includes the services and tools you use to manage and monitor mobile devices, desktop computers, virtual machines, embedded devices, and servers. Endpoint Manager combines services like Microsoft Intune, Configuration Manager, Desktop Analytics, co-management, and Windows Autopilot.
 
 1. Switch back to **Admin Center** portal, from the navigation menu scroll down to Admin centers, and select **Endpoint Manager**. This will redirect you to the Endpoint Manager admin center.
 
