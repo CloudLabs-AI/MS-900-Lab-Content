@@ -36,7 +36,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. When prompted, use the credentials provided in the **Environment Details** page to login to the admin center.
 
-1. From the navigation menu, click on the **Users** icon and click on **Active users**. This will display the list of users that are active.
+1. From the navigation menu, click on the **Users** icon and click on **Active users**. This will display the list of active users.
 
    ![](Images/img1.png)
 
@@ -56,13 +56,13 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
      ![](Images/img4.png)
 
-   - **Password settings:** select let me create password and provide a password.
+   - **Password settings:** select let me create a password and provide a password.
 
    - **Require this user to change their password when they first sign in**: selected.
 
      ![](Images/img5.png)
 
-1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, choose **Assign user a product license** and   select **office 365 E5** license. Click **Next**.
+1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, choose **Assign user a product license** and select **office 365 E5** license. Click **Next**.
 
    ![](Images/img6.png)
 
@@ -82,13 +82,13 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img12.png)
 
-1. All the available domains can be found here. We can also purschase new domains or add any existing domain from the **Domains** page.
+1. All the available domains can be found here. We can also purchase new domains or add any existing domain from the **Domains** page.
 
-1. To add an domain Select **Add domain**. Enter the name of the **domain** you want to add, then select **Use this domain**.
+1. To add a domain Select **Add domain**. Enter the name of the **domain** you want to add, then select **Use this domain**.
 
     ![](Images/img225.png)
 
-1. In **Domain veriifcation** page choose how you want to verify that you own the domain. Select **Add a TXT record to the domain's DNS records** and  click on **Continue**.
+1. In **Domain verification** page choose how you want to verify that you own the domain. Select **Add a TXT record to the domain's DNS records** and click on **Continue**.
 
     ![](Images/img226.png)
 
@@ -96,21 +96,21 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
     ![](Images/img227.png)
 
-1. Go to your domain's registrar or DNS hosting provider, go to DNS management page of your domain and click on **+ Record set**. Under **Name**  paste the **TXT name** and under **Value** paste **TXT value** you copied earlier and in type select **TXT**. Once done click on **Ok**. 
+1. Go to your domain's registrar or DNS hosting provider, go to the DNS management page of your domain and click on **+ Record set**. Under **Name**  paste the **TXT name** and under **Value** paste **TXT value** you copied earlier and in type select **TXT**. Once done click on **Ok**. 
 
     ![](Images/img228.png)
 
-1. Wait for the record set to be created. Switch back to the admin center, click on **Verify** and select **Continue**.
+1. Wait for the recordset to be created. Switch back to the admin center, click on **Verify** and select **Continue**.
 
 1. In **Add DNS records** page follow the instructions and click on **Continue**.
 
    ![](Images/img229.png)
 
-1. Select **Ok** when domain setup is complete.
+1. Select **Ok** when the domain setup is complete.
 
    ![](Images/img230.png)
    
-1. In the domains page you can see the newly added domain.
+1. On the domains page you can see the newly added domain.
 
    ![](Images/img231.png)
 
@@ -118,15 +118,15 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ### Task 3 : Access other admin centers 
 
-1. To access other admin centers, from navigation pane select **Admin centers** and choose all **All Admin centers**. Opens a page with a full list of Office 365 admin centers, including admin centers for OneDrive, Yammer Enterprise, Dynamics 365, Power Apps, Skype for business, and other services.
+1. To access other admin centers, from the navigation pane select **Admin centers** and choose all **All Admin centers**. Opens a page with a full list of Office 365 admin centers, including admin centers for OneDrive, Yammer Enterprise, Dynamics 365, Power Apps, Skype for business, and other services.
 
    ![](Images/img13.png)
    
-1. In the admin center page select **Exchange**. This will redirect you to Exchange admin center page. 
+1. In the admin center page select **Exchange**. This will redirect you to the Exchange admin center page. 
 
    ![](Images/img149.png)
 
-1. From here you can manage email settings for your organization. In .the left hand menu explore through the options available
+1. From here you can manage email settings for your organization. In .the left-hand menu explore through the options available
 
      - **Recipients**  - View and manage your mailboxes (both user and shared mailboxes), groups, resource mailboxes, and contacts.
 
@@ -140,7 +140,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
      
        ![](Images/img150.png)
 
-1. Switch back to the admin centers page, select **SharePoint**. This will redirect you to Sharepoint admin center page.
+1. Switch back to the admin centers page, select **SharePoint**. This will redirect you to the Sharepoint admin center page.
 
    ![](Images/img151.png)
 
@@ -152,7 +152,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 ### Exercise 2 : Explore Microsoft 365 Apps
 
- In the previous exercise you created a user and assigned office 365 E5 license. In this exercise you will login with the newly created user and explore through office365 apps.
+ In the previous exercise, you created a user and assigned an office 365 E5 license. In this exercise you will login with the newly created user and explore through office365 apps.
 
 ### Task 1 : Explore Outlook
 
@@ -172,37 +172,37 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    ![](Images/img9.png)
    
-1. In the outlook page, choose **New message**  to send a new mail. Enter a name or email address in the To, Cc, or Bcc field. In Subject, type the subject of the email message.  Place the cursor in the body of the email message, and then start typing.  After typing your message, choose Send.
+1. On the outlook page, choose **New message**  to send a new mail. Enter a name or email address in the To, Cc, or Bcc field. In Subject, type the subject of the email message.  Place the cursor in the body of the email message, and then start typing.  After typing your message, choose Send.
 
    ![](Images/img153.png)
    
-1. From the left hand menu select **Calendar**. From here you can create appointments, events, organize meetings and view group schedules.
+1. From the left-hand menu select **Calendar**. From here you can create appointments, events, organize meetings and view group schedules.
 
    ![](Images/img154.png)
    
-1. Now Select **People**, you can use the People page to view, create, edit, find, and delete contacts. You can use your contacts for your own reference, and can automatically add them as recipients when you compose an email message.
+1. Now Select **People**, you can use the People page to view, create, edit, find, and delete contacts. You can use your contacts for your reference, and can automatically add them as recipients when you compose an email message.
 
    ![](Images/img155.png)
 
-1. From the left hand menu you can explore through all other options available. 
+1. From the left-hand menu you can explore all other options available. 
    
 ### Task 2 : Explore OneDrive
 
 1. OneDrive gives you one place to store, share, and sync your work or school files. As part of your organization's Microsoft 365 subscription, you can save your files in OneDrive and then work with them from almost any device, share files with others, give others permission to edit files and work on them at the same time.
 
-1. Switch back to the user account and from  **App launcher** under **Apps**, select **OneDrive**. From **Open context menu** click on **Open in new tab**. This will redirect you  to the **OneDrive** page, from here you can manage all your **files**.
+1. Switch back to the user account and from  **App launcher** under **Apps**, select **OneDrive**. From **Open context menu** click on **Open in new tab**. This will redirect you to the **OneDrive** page, from here you can manage all your **files**.
    
    ![](Images/img10.png)
    
    ![](Images/img16.png)
 
-1. Now we will try to create a folder and upload files to it. In the OneDrive page click on **New** and select **Folder** option, when prompted provide a name for your folder and click on **Create**.
+1. Now we will try to create a folder and upload files to it. On the OneDrive page click on **New** and select **Folder** option, when prompted provide a name for your folder and click on **Create**.
   
    ![](Images/img17.png)
    
    ![](Images/img18.png)
    
-1. Now select the newly created folder. From the top navigation bar select **Upload** and select **Files**, when prompted choose the file(s) that you want to upload.
+1. Now select the newly created folder. From the top navigation bar select, **Upload** and select **Files**, when prompted choose the file(s) that you want to upload.
 
    ![](Images/img19.png)
    
@@ -210,7 +210,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img20.png)
    
-1. In the **OneDrive** page select the file or folder you want to share by selecting the circle in the upper corner of the item. Select Share at the top of the page.
+1. On the **OneDrive** page select the file or folder you want to share by selecting the circle in the upper corner of the item. Select Share at the top of the page.
 
    ![](Images/img156.png)
 
@@ -234,7 +234,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
      
        ![](Images/img158.png)
        
-1. Once you're back at the main **Share** box enter a name or email of user's with whom you intend to share the file, click on **Send**. You can also select **Copy Link** to copy the link to your clipboard and share.
+1. Once you're back at the main **Share** box enter a name or email of users with whom you intend to share the file, click on **Send**. You can also select **Copy Link** to copy the link to your clipboard and share it.
 
    ![](Images/img159.png)
   
@@ -244,10 +244,10 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
 
-1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you  to the **Yammer** page. 
+1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page. 
    ![](Images/img21.png)
 
-1. From the left hand pane click on **Create a Community**, enter a name for your community. In **Members** search and select the users you want to add. Based on your requirement choose **Public** or **Private** access and click on **Create**.
+1. From the left-hand pane click on **Create a Community**, enter a name for your community. In **Members** search and select the users you want to add. Based on your requirement choose **Public** or **Private** access and click on **Create**.
 
    ![](Images/img22.png)
    
@@ -255,11 +255,11 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
   
    ![](Images/img23.png)
    
-1. Switch back to the yammer account of the user whom you added to the group and verify if the user is added to newly created group and if the posts are visible.
+1. Switch back to the yammer account of the user whom you added to the group and verify if the user is added to the newly created group and if the posts are visible.
    
    ![](Images/img24.png)
   
-1.  We can also send private message in Yammer.
+1.  We can also send a private message to Yammer.
    
 1.  In the yammer dashboard click on **Inbox** icon and select  **New Private Messages**. 
    
@@ -271,7 +271,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img160.png)
 
-1. The recipient of the message will recieve a notification about the recieved private message.
+1. The recipient of the message will receive a notification about the received private message.
 
 1. Explore through other options available in yammer.
 
@@ -279,7 +279,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely. You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration.
 
-1. In office365 portal from the  **App launcher** click on **All apps** and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Stream** web page. 
+1. In the office365 portal from the  **App launcher** click on **All apps** and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Stream** web page. 
 
 1. In the Stream navigation bar, click on **Invite** button.
    
@@ -289,11 +289,11 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    ![](Images/img28.png)
 
-1. Now, from the top navigation bar of the **Stream** dashboard, click on **Create** button and select **Upload video** option from the drop down.
+1. Now, from the top navigation bar of the **Stream** dashboard, click on **Create** button and select **Upload video** option from the drop-down.
 
    ![](Images/img29.png)
 
-1. Drag and drop or select files which needs to be uploaded from your device. In the Details tab, you can rename  the video, add a description, and choose a thumbnail for the video. 
+1. Drag and drop or select files that need to be uploaded from your device. In the Details tab, you can rename the video, add a description, and choose a thumbnail for the video. 
 
 1. Under the "Permissions" tab, you can configure access to the video inside of the organization. 
 
@@ -307,7 +307,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    ![](Images/img33.png)
 
-1. From  the Stream navigation bar, click on **Discover**. You can browse for videos, channels, people in your organization, and groups from here.
+1. From the Stream navigation bar, click on **Discover**. You can browse for videos, channels, people in your organization, and groups from here.
 
    ![](Images/img161.png)
 
@@ -315,21 +315,21 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ### Task 5 : Explore SharePoint
 
-1. Microsoft SharePoint  helps organizations share and manage content, knowledge, and applications to Empower team work, Quickly find information and Seamlessly collaborate across the organization.
+1. Microsoft SharePoint helps organizations share and manage content, knowledge, and applications to Empower teamwork, Quickly find information and seamlessly collaborate across the organization.
 
-1. Switch back to the office365 portal, from the  **App launcher** click on **All apps**. In the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab**. This will redirect you  to the **SharePoint** web page. 
+1. Switch back to the office365 portal, from the  **App launcher** click on **All apps**. In the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab**. This will redirect you to the **SharePoint** web page. 
 
 1. From the top of the SharePoint page, click **+ Create site**  option.
   
    ![](Images/img35.png)
 
-1. A site creation wizard will appear on the right-hand side of the screen. Based on your requirement you  can select **Team site** or **Communication site**. For now select **Team site**.
+1. A site creation wizard will appear on the right-hand side of the screen. Based on your requirement you can select **Team site** or **Communication site**. For now, select **Team site**.
    
    ![](Images/img36.png)
    
     - Provide a name for your site
     
-    - In Privacy settings section, choose either **Public - anyone in the organization can access this site** or **Private - only members can access this site** to control who has access to your site.
+    - In the Privacy settings section, choose either **Public - anyone in the organization can access this site** or **Private - only members can access this site** to control who has access to your site.
 
     -  Select a language for your site and click on **Next**
     
@@ -337,13 +337,13 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
     
     -  In **Add group members** pane, under **Add additional owners box** add the names or email addresses of others whom you would want to allow to manage this site. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**.  
     
-1. Now  let us add and publish a page in the newly created site.
+1. Now let us add and publish a page on the newly created site.
 
-1. In the home page of the site click on **New**, and then select **Page**.
+1. On the home page of the site click on **New**, and then select **Page**.
 
    ![](Images/img48.png)
 
-1. Choose a page template to start with. For now you can select **Blank** template and click on **Create page**.
+1. Choose a page template to start with. For now, you can select **Blank** template and click on **Create page**.
 
    ![](Images/img49.png)
 
@@ -365,23 +365,23 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
     ![](Images/img162.png)
 
-1. When done, click **Publish**. This will publish a page in your site.
+1. When done, click **Publish**. This will publish a page on your site.
 
 1. To learn more about SharePoint refer to https://docs.microsoft.com/en-us/sharepoint/introduction.
 
-### Task 6 : Exlpore List
+### Task 6 : Explore List
 
-1. List helps to track information and organize your work. With list one can track issues, assets, routines, contacts, inventory and more using customizable views and smart rules and alerts to keep everyone in sync.
+1. List helps to track information and organize your work. With a list, one can track issues, assets, routines, contacts, inventory and more using customizable views and smart rules and alerts to keep everyone in sync.
 
 1. In office365 portal from the  **App launcher** click on **All apps** and in the search bar search for **List**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **List** web page. 
 
-1. In the home page of **Lists** click on **New list**. 
+1. On the home page of **Lists** click on **New list**. 
 
    ![](Images/img38.png)
 
 1. From the Create a list page, select **Blank list**. 
  
-    - Provide a name for your list and if needed  provide description.
+    - Provide a name for your list and if needed provide a description.
     
     - Choose a color and icon for your list.
     
@@ -393,37 +393,37 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
   
     ![](Images/img167.png)
  
- 1. Under **Title** provide a name for your new item, if needed you can also add attachements. Once done click on **Save**.
+ 1. Under **Title** provide a name for your new item, if needed you can also add attachments. Once done click on **Save**.
  
- 1. To add  column, select **+ Add column**. In the dropdown, select the type of column you want.
+ 1. To add column, select **+ Add column**. In the dropdown, select the type of column you want.
  
     ![](Images/img165.png)
  
- 1. In the Create a column panel, in the **Name** field, enter a title or column heading. Enter any other required information. The number of fields will vary with column type you choose. The above example is for a **Multiple lines of tes** field.
+ 1. In the Create a column panel, in the **Name** field, enter a title or column heading. Enter any other required information. The number of fields will vary with the column type you choose. The above example is for a **Multiple lines of text** field.
  
      ![](Images/img166.png)
 
-1. Select **Save**. In this way you can add multiple items and columns to your list.
+1. Select **Save**. In this way, you can add multiple items and columns to your list.
 
-1. To rename a column, select the column which you wnat to rename select **Coloumn settings** and select **Rename**. When prompted provide column name and select **Save**.
+1. To rename a column, select the column which you want to rename select **Column settings** and select **Rename**. When prompted provide column name and select **Save**.
 
    ![](Images/img164.png)
 
-1. Now select the item which you have added click on **Show actions** and select **Edit**  from here you can add value against newly created column.
+1. Now select the item which you have added click on **Show actions** and select **Edit**  from here you can add value against the newly created column.
 
     ![](Images/img169.png)
     
     ![](Images/img168.png)
 
-1. To share your list  select **Share** near the top of the page.
+1. To share your list select **Share** near the top of the page.
 
    ![](Images/img170.png)
     
-1. Enter a name or email address. To change the access permissions you are granting to people, select **Can edit** and then select a option based on requirement. 
+1. Enter a name or email address. To change the access permissions you are granting to people, select **Can edit** and then select an option based on requirement. 
 
    ![](Images/img171.png)
 
-1. Check **Notify people** check box if you want user to get notified when a list is shared. Select Grant access.
+1. Check **Notify people** check box if you want the user to get notified when a list is shared. Select Grant access.
 
    ![](Images/img172.png)
 
@@ -431,7 +431,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img173.png)
 
-1. In the Alert Title section, change the title for the alert if you want. With in the **Send Alerts To section**, enter the user names or email addresses of people you want alerts to be sent to.
+1. In the Alert Title section, change the title for the alert if you want. Within the **Send Alerts To section**, enter the user names or email addresses of people you want alerts to be sent to.
 
 1. Select a delivery method, choose the types of changes that you want to be notified about, how frequently you want to receive the alert. Once done select **Ok**.
 
@@ -439,20 +439,12 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. Depending on how your site and servers are set up, whenever changes are made the person you created an alert for will be notified.
 
-1. You can explore through other options available.
+1. You can explore other options available.
 
 
 ## Conclusion
 
-This module helps you to understand how to create users and assign license to the users from the Microsoft 365 admin center. The module also explains the way to add domains and the process to access other admin centers. It also explores through various office365 apps.
+This module helps you to understand how to create users and assign licenses to the users from the Microsoft 365 admin center. The module also explains the way to add domains and the process to access other admin centers. It also explores various office365 apps.
  
 
     
-
-       
-
-
-
-
-
-
