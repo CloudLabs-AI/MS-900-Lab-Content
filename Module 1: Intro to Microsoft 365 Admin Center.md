@@ -152,13 +152,13 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 ### Exercise 2 : Explore Microsoft 365 Apps
 
- In the previous exercise, you created a user and assigned an office 365 E5 license. In this exercise you will login with the newly created user and explore through office365 apps.
+ In the previous exercise, you created a user and assigned an office 365 E5 license. In this exercise, you will log in with the newly created user and explore through office365 apps.
 
 ### Task 1 : Explore Outlook
 
 1. Microsoft Outlook is an application that is used mainly to send and receive emails. It can also be used to manage various types of personal data including calendar appointments and similar entries, tasks, contacts, and notes.
 
-1. Now login with the newly created user. Open a new browser window and login to the office365 center at https://www.office.com.
+1. Now login with the newly created user. Open a new browser window and log in to the office365 center at https://www.office.com.
 
 1. When prompted enter the username and password of the user that you created in the previous step.
 
@@ -448,3 +448,10 @@ This module helps you to understand how to create users and assign licenses to t
  
 
     
+
+       
+
+
+
+
+
