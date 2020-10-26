@@ -2,19 +2,19 @@
 
 # Module 1: Introduction to Microsoft 365 Admin Center
 
-The Microsoft 365 admin center is where you manage your business in the cloud. You can complete such tasks as adding and removing users, changing licenses, and resetting passwords. Here are the features and settings you'll find in the left-hand navigation of the admin center.
+The Microsoft 365 admin center is where you manage your business in the cloud. You can complete tasks such as adding and removing users, changing licenses, and resetting passwords. Here are the features and settings you'll find in the left-hand navigation of the admin center.
   
-   - **Home**: This is the landing page in the admin center. You'll see where to manage users, billing, service health, and reports.
+   - **Home**: This is the landing page in the admin center. Here you'll see where to manage users, billing, service health, and reports.
    
-   - **Users**: Create and manage users in your organization, like employees or students. You can also set their permission level or reset their passwords.
+   - **Users**: From here you can create and manage users in your organization, like employees or students. You can also set their permission level or reset their passwords.
    
    - **Groups**: Create and manage groups in your organization, such as a Microsoft 365 group, distribution group, security group, or shared mailbox.
    
    - **Resources**: Create and manage resources, like a SharePoint site collection. 
    
-   - **Billing**: View, purchase, or cancel subscriptions for your organization. View past billing statements or view the number of assigned licenses to individual users.
+   - **Billing**: View purchase, or cancel subscriptions for your organization. View past billing statements or view the number of assigned licenses to individual users.
    
-   - **Support**: View existing service requests or create new ones.
+   - **Support**: You can view existing service requests or create new ones.
    
    - **Settings**: Manage global settings for apps like email, sites, and the Office suite. Change your password policy and expiration date. Add and update domain names like contoso.com. Change your organization profile and release preferences. And choose whether partners can access your admin center.
    
