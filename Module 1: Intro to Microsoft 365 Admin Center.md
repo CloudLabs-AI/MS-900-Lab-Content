@@ -156,7 +156,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ### Task 1: Explore Outlook
 
-1. Microsoft Outlook is an application that is used mainly to send and receive emails. It can also be used to manage various types of personal data including calendar appointments and similar entries, tasks, contacts, and notes.
+Microsoft Outlook is an application that is used mainly to send and receive emails. It can also be used to manage various types of personal data including calendar appointments and similar entries, tasks, contacts, and notes.
 
 1. Now login with the newly created user. Open a new browser window and log in to the office365 center at https://www.office.com.
 
@@ -188,7 +188,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
 ### Task 2: Explore OneDrive
 
-1. OneDrive gives you one place to store, share, and sync your work or school files. As part of your organization's Microsoft 365 subscription, you can save your files in OneDrive and then work with them from almost any device, share files with others, give others permission to edit files and work on them at the same time.
+OneDrive gives you one place to store, share, and sync your work or school files. As part of your organization's Microsoft 365 subscription, you can save your files in OneDrive and then work with them from almost any device, share files with others, give others permission to edit files and work on them at the same time.
 
 1. Switch back to the user account and from  **App launcher** under **Apps**, select **OneDrive**. From **Open context menu** click on **Open in new tab**. This will redirect you to the **OneDrive** page, from here you can manage all your **files**.
    
@@ -242,7 +242,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ### Task 3: Explore yammer
 
-1. With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
+ With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
 
 1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page. 
    ![](Images/img21.png)
@@ -277,7 +277,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ### Task 4: Explore Microsoft Stream
 
-1. Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely. You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration.
+Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely. You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration.
 
 1. In the office365 portal from the  **App launcher** click on **All apps** and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Stream** web page. 
 
@@ -315,7 +315,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ### Task 5: Explore SharePoint
 
-1. Microsoft SharePoint helps organizations share and manage content, knowledge, and applications to Empower teamwork, Quickly find information and seamlessly collaborate across the organization.
+Microsoft SharePoint helps organizations share and manage content, knowledge, and applications to Empower teamwork, Quickly find information and seamlessly collaborate across the organization.
 
 1. Switch back to the office365 portal, from the  **App launcher** click on **All apps**. In the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab**. This will redirect you to the **SharePoint** web page. 
 
@@ -371,7 +371,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ### Task 6: Explore List
 
-1. List helps to track information and organize your work. With a list, one can track issues, assets, routines, contacts, inventory and more using customizable views and smart rules and alerts to keep everyone in sync.
+List helps to track information and organize your work. With a list, one can track issues, assets, routines, contacts, inventory and more using customizable views and smart rules and alerts to keep everyone in sync.
 
 1. In office365 portal from the  **App launcher** click on **All apps** and in the search bar search for **List**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **List** web page. 
 
