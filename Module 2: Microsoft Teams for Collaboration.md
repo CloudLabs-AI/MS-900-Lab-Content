@@ -164,6 +164,8 @@
 
 1. To apply this policy to specific users select your newly created policy, click on **Manage users** in the search bar search and select the users or groups to whom you intend to apply this policy. Select **Apply**.
 
+1. This policy will enable users to access only the apps that you have allowed.
+
 1. To learn more about teams policies refer to https://docs.microsoft.com/en-us/microsoftteams/assign-policies.
 
 ## Conclusion
