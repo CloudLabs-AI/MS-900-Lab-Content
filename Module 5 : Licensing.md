@@ -2,7 +2,7 @@
 
 # Module 5: Licensing 
 
-  In this module you will browse through licensing center and learn how to assign license to users from Microsoft 365 Admin center.
+  In this module, you will browse through the licensing center and learn how to assign licenses to users from Microsoft 365 Admin center.
 
 # Exercise 1: Browse Licensing center in M365 Admin center 
 
@@ -10,9 +10,9 @@
 
 1. When prompted, use the credentials provided in the **Environment Details** page to log in to the admin center.
 
-1. From  the navigation menu scroll down to  **Billing** and select **Licenses**.
+1. From the navigation menu scroll down to  **Billing** and select **Licenses**.
    
-1. In the Subscriptions page you can see all Available licenses, Assigned licenses. Click on any of the product to get detailed information.
+1. In the Subscriptions page you can see all Available licenses, Assigned licenses. Click on any of the products to get detailed information.
 
    ![](Images/img129.png)
 
@@ -45,4 +45,3 @@
     ![](Images/img133.png)
 
 1. To learn more about licenses refer to  https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses
-
