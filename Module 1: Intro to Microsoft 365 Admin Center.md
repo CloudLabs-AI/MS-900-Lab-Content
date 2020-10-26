@@ -28,7 +28,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 ## Exercise 1: Admin Experience for User Management
 
-In this exercise, you will learn how to create users, assign a license to the users, verify custom domains in the tenant, and see how to access other admin centers.
+   In this exercise, you will learn how to create users, assign a license to the users, verify custom domains in the tenant, and see how to access other admin centers.
   
 ### Task 1: Admin Experience for User Management
 
