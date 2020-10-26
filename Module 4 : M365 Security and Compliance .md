@@ -52,7 +52,7 @@
 
 1. Now to test the policy login to the user admin account for whom you enabled MFA. From **App launcher** under Apps, select the app for which you enabled MFA.
 
-1. You're required to register for and use Azure Multi-Factor Authentication. In more information required page click **Next**.
+1. You're required to register for and use Azure Multi-Factor Authentication. For more information required page click **Next**.
 
 1. Follow the prompts to complete the process and verify you successfully sign in to the portal.
 
