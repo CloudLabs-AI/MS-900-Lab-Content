@@ -14,19 +14,19 @@
 
    In this exercise, you'll learn various activities carried out in Teams such as having a Teams chat and scheduling Teams meetings.
 
-### Task 1 : Exploring through Teams
+### Task 1: Exploring through Teams
 
-1. Open a new browser window and login to the admin center at https://admin.microsoft.com.
+1. Open a new browser window and log in to the admin center at https://admin.microsoft.com.
 
 1. When prompted, use the credentials provided in the **Environment Details** page to log in to the admin center.
 
 1. From the top right corner click on **App launcher**.
 
-1. Under **Apps** select **Teams** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Teams web app page. In the Teams page click on **Use the web app instead**.
+1. Under **Apps** select **Teams** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Teams web app page. On the Teams page click on **Use the web app instead**.
 
 1. On the left side of **Teams** you can find: 
 
-      - **Teams** - Find channels to belong to or create your own. Inside channels you can hold on-the-spot meetings, have conversations, and share files.
+      - **Teams** - Find channels to belong to or create your own. Inside channels, you can hold on-the-spot meetings, have conversations, and share files.
 
       - **Calendar** - See everything you’ve got lined up for the day or week. Or, schedule a meeting. This calendar syncs with your Outlook calendar.
 
@@ -34,21 +34,21 @@
 
       - **Activity** - Catch up on all your unread messages, @mentions, replies, and more.
 
-1. Now open a new browser window and login to the teams at https://teams.microsoft.com.
+1. Now open a new browser window and log in to the teams at https://teams.microsoft.com.
 
 1. When prompted enter the username and password of the user that you created in the previous exercise.
 
-1. In the admin teams account, search and select the newly created user from the search bar and initiate a conversation.
+1. In the admin team's account, search and select the newly created user from the search bar and initiate a conversation.
 
    ![](Images/img40.png)
 
-1. Now switch back to the teams user account and verify the message.
+1. Now switch back to the team's user account and verify the message.
 
-1. To create a new team from left navigation menu select **Teams**, click on **Join or create a team** and Select **Create a new team**.
+1. To create a new team from the left navigation menu select **Teams**, click on **Join or create a team** and Select **Create a new team**.
 
    ![](Images/img211.png)
 
-1. Select **Create a new team**, and then select **Build a team from scratch**. You can select **Create from...** to build team from an existing group respectively.
+1. Select **Create a new team**, and then select **Build a team from scratch**. You can select **Create from...** to build a team from an existing group respectively.
    
    ![](Images/img212.png)
 
@@ -56,7 +56,7 @@
 
     ![](Images/img213.png)
 
-1. Give the team a name and  add description if needed. Select **Create**.
+1. Give the team a name and add a description if needed. Select **Create**.
 
     ![](Images/img214.png)
 
@@ -68,11 +68,11 @@
 
     ![](Images/img216.png)
 
-### Task 2 : Scheduling teams meeting
+### Task 2: Scheduling teams meeting
 
-1. Select **calendar** from the left hand menu of the teams pane. 
+1. Select **calendar** from the left-hand menu of the team's pane. 
 
-1. Now click on  **New Meeting** and from the drop down select **Schedule meeting**. 
+1. Now click on  **New Meeting** and from the drop-down select **Schedule meeting**. 
   
    ![](Images/img41.png)
    
@@ -80,11 +80,11 @@
    
    - **Add required attendees:** Search and select the user you created in the previous exercise.
    
-   - Select date and time as per the requirements.
+   - Select the date and time as per the requirements.
    
    - If it's a recurring meeting, open the dropdown menu next to **Does not repeat** (just below the date). Choose how often you want it to occur from the default options, or select Custom to create your own cadence.
    
-   - If you want to have your meeting in a channel, select the appropriate channel. If you’d rather not, skip it. When you have a meeting in a channel, everyone in the team will be able to see it and join it in that channel.
+   - If you want to have your meeting in a channel, select the appropriate channel. If you’d rather not, skip it. When you have a meeting in a channel, everyone in the team will be able to see it and join in on that channel.
    
        ![](Images/img42.png)
    
@@ -94,11 +94,11 @@
 
 1. To learn more about teams refer to https://docs.microsoft.com/en-us/MicrosoftTeams/get-started-with-teams-quick-start.
    
-# Exercise 2: Explore teams admin center 
+# Exercise 2: Explore Teams admin center 
 
   In this exercise you will learn how to configure Teams policies and apply them.
 
-### Task 1 :  Manage teams policies 
+### Task 1:  Manage teams policies 
 
 1. Teams policies in Microsoft Teams can be used to control what users in your organization can do in teams and channels.
 
@@ -110,9 +110,9 @@
 
    ![](Images/img221.png)
 
-1. The Mangage teams page displays the list of your teams along with channels, users,  status of team.
+1. The Manage teams page displays the list of your teams along with channels, users, and the status of the team.
 
-1. From here you can add new team by clicking on **Add**. In **Add a new team**  page fill the deatils and click on **Apply**.
+1. From here you can add a new team by clicking on **Add**. In the **Add a new team**  page fill in the deatils and click on **Apply**.
 
    ![](Images/img222.png)
 
@@ -122,7 +122,7 @@
    
    ![](Images/img224.png)
 
-1. Now from the **Left navigation menu** select **Messagng policies**. Messaging policies are used to control which chat and channel messaging features are available to users in Microsoft Teams.
+1. Now from the **Left navigation menu** select **Messaging policies**. Messaging policies are used to control which chat and channel messaging features are available to users in Microsoft Teams.
 
    ![](Images/img44.png)
 
@@ -130,7 +130,7 @@
 
    - Provide a name and description for the policy.
    
-   - Disable **Use Giphys in conversations** and **Delete sent messages**. You can exlpore through all the **Messaging policies** settings and select changes that you want.
+   - Disable **Use Giphys in conversations** and **Delete sent messages**. You can explore through all the **Messaging policies** settings and select changes that you want.
    
    - Click on **Save**.
     
@@ -142,7 +142,7 @@
    
    ![](Images/img47.png)
 
-1. Switch back to user's teams portal and in the chat notice **Delete** option is not available.
+1. Switch back to the user's teams portal and in the chat notice **Delete** option is not available.
 
 1. In the left navigation of the Microsoft Teams admin center, select **Teams apps**  and select **Permission policies**. From here you can configure App permission policies. App permission policies control what apps you want to make available to Teams users in your organization.
 
@@ -168,7 +168,7 @@
 
 ## Conclusion
 
-  In this module you learnt how to work with Teams policies and use Teams for collabration.
+  In this module, you learned how to work with Teams policies and use Teams for collaboration.
    
 
 
