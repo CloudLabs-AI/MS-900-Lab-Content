@@ -126,7 +126,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img149.png)
 
-1. From here you can manage email settings for your organization. In .the left-hand menu explore through the options available
+1. From here you can manage email settings for your organization. In the left-hand menu explore through the options available
 
      - **Recipients**  - View and manage your mailboxes (both user and shared mailboxes), groups, resource mailboxes, and contacts.
 
