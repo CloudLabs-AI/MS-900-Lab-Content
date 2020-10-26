@@ -116,7 +116,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. To learn more about managing domains from Microsoft admin center refer to  https://docs.microsoft.com/en-us/microsoft-365/admin/get-help-with-domains/what-is-a-domain?view=o365-worldwide
 
-### Task 3 : Access other admin centers 
+### Task 3: Access other admin centers 
 
 1. To access other admin centers, from the navigation pane select **Admin centers** and choose all **All Admin centers**. Opens a page with a full list of Office 365 admin centers, including admin centers for OneDrive, Yammer Enterprise, Dynamics 365, Power Apps, Skype for business, and other services.
 
@@ -150,11 +150,11 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. In the same way you can access and explore through all other admin centers available.
    
-### Exercise 2 : Explore Microsoft 365 Apps
+### Exercise 2: Explore Microsoft 365 Apps
 
  In the previous exercise, you created a user and assigned an office 365 E5 license. In this exercise, you will log in with the newly created user and explore through office365 apps.
 
-### Task 1 : Explore Outlook
+### Task 1: Explore Outlook
 
 1. Microsoft Outlook is an application that is used mainly to send and receive emails. It can also be used to manage various types of personal data including calendar appointments and similar entries, tasks, contacts, and notes.
 
@@ -186,7 +186,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. From the left-hand menu you can explore all other options available. 
    
-### Task 2 : Explore OneDrive
+### Task 2: Explore OneDrive
 
 1. OneDrive gives you one place to store, share, and sync your work or school files. As part of your organization's Microsoft 365 subscription, you can save your files in OneDrive and then work with them from almost any device, share files with others, give others permission to edit files and work on them at the same time.
 
@@ -240,7 +240,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
   
 1. You can explore through other options available in the **OneDrive**. 
 
-### Task 3  : Explore yammer
+### Task 3: Explore yammer
 
 1. With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
 
@@ -313,7 +313,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. To learn more about Microsoft Stream refer to https://docs.microsoft.com/en-us/stream/overview.
 
-### Task 5 : Explore SharePoint
+### Task 5: Explore SharePoint
 
 1. Microsoft SharePoint helps organizations share and manage content, knowledge, and applications to Empower teamwork, Quickly find information and seamlessly collaborate across the organization.
 
@@ -369,7 +369,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. To learn more about SharePoint refer to https://docs.microsoft.com/en-us/sharepoint/introduction.
 
-### Task 6 : Explore List
+### Task 6: Explore List
 
 1. List helps to track information and organize your work. With a list, one can track issues, assets, routines, contacts, inventory and more using customizable views and smart rules and alerts to keep everyone in sync.
 
@@ -395,7 +395,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
  
  1. Under **Title** provide a name for your new item, if needed you can also add attachments. Once done click on **Save**.
  
- 1. To add column, select **+ Add column**. In the dropdown, select the type of column you want.
+ 1. To add a column, select **+ Add column**. In the dropdown, select the type of column you want.
  
     ![](Images/img165.png)
  
