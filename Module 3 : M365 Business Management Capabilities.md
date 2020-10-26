@@ -109,21 +109,21 @@ Microsoft Planner provides a hub for team members to create plans, organize, and
     
        ![](Images/img233.png)
  
- 1. Click on the task to open the task window. 
+1. Click on the task to open the task window. 
  
- 1. Select **Start anytime** below Start date, and then select the start date you want. Select **Due anytime** below Due date, and then select the due date you want.
+1. Select **Start anytime** below Start date, and then select the start date you want. Select **Due anytime** below Due date, and then select the due date you want.
  
     ![](Images/img234.png)
      
- 1. In the task window select **Priority**  from here you can set the priority of the task.
+1. In the task window select **Priority**  from here you can set the priority of the task.
  
     ![](Images/img235.png)
  
- 1. Select **Add attachment**. Select **File** to attach a locally stored file, select **Link** to include a link, or select **SharePoint** to attach a file from a SharePoint site.
+1. Select **Add attachment**. Select **File** to attach a locally stored file, select **Link** to include a link, or select **SharePoint** to attach a file from a SharePoint site.
  
     ![](Images/img236.png)
  
- 1. Navigate to and select the file you want to attach or enter the link information.
+1. Navigate to and select the file you want to attach or enter the link information.
 
 1. You can also add comments in **Comment** section. When done click on the dismiss button in the upper-right corner of the task window to save and close the task.
 
