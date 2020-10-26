@@ -11,7 +11,7 @@
    - **Distribution**: Distribution groups are used for sending notifications to a group of people. They can receive an external email if enabled by the administrator.
    Distribution groups are best for situations where you need to broadcast information to a set group of people.
    
-   - **Mail-enabled security**: These groups are used for granting access to resources such as SharePoint, and emailing notifications to those users.
+   - **mail-enabled security**: These groups are used for granting access to resources such as SharePoint, and emailing notifications to those users.
    
    - **Security groups**: They can be used for granting access to resources such as SharePoint sites. They can make administration easier because you need to only administer the group rather than adding users to each resource individually.
    
@@ -65,7 +65,7 @@
 
 1. Microsoft Planner provides a hub for team members to create plans, organize, and assign tasks to different users, and to check updates on progress through dashboards. It also provides a centralized place where files can be shared and give visibility to the whole team.
 
-1. Open a new browser window and login to the office365 center at https://www.office.com.
+1. Open a new browser window and log in to the office365 center at https://www.office.com.
 
 1. When prompted enter the username and password of the user that you created in the previous exercise.
 
@@ -330,7 +330,7 @@
 
    ![](Images/img200.png)
 
-1. From the navigation pane, select Devices  and select **Configuration profiles** to display details about device profiles in Intune. 
+1. From the navigation pane, select Devices and select **Configuration profiles** to display details about device profiles in Intune. 
 
    ![](Images/img201.png)
 
