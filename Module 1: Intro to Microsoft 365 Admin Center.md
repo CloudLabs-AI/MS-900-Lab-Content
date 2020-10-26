@@ -152,7 +152,7 @@ In this exercise, you will learn how to create users, assign a license to the us
    
 ### Exercise 2: Explore Microsoft 365 Apps
 
- In the previous exercise, you created a user and assigned an office 365 E5 license. In this exercise, you will log in with the newly created user and explore through office365 apps.
+In the previous exercise, you created a user and assigned an office 365 E5 license. In this exercise, you will log in with the newly created user and explore through office365 apps.
 
 ### Task 1: Explore Outlook
 
@@ -242,7 +242,7 @@ OneDrive gives you one place to store, share, and sync your work or school files
 
 ### Task 3: Explore yammer
 
- With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
+With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
 
 1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page. 
    ![](Images/img21.png)
