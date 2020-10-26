@@ -64,7 +64,7 @@
 
     ![](Images/img215.png)
 
-1. From here you can start a new conversation share files.
+1. From here you can start a new conversation and share files.
 
     ![](Images/img216.png)
 
