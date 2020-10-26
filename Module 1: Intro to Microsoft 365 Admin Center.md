@@ -87,14 +87,14 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 1. To add a domain Select **Add domain**. Enter the name of the **domain** you want to add, then select **Use this domain**.
 
     ![](Images/img225.png)
+    
+    ![](Images/img226.png)
 
 1. On **Domain verification** page choose how you want to verify that you own the domain. Select **Add a TXT record to the domain's DNS records** and click on **Continue**.
 
-    ![](Images/img226.png)
+    ![](Images/img227.png)
 
 1. Now in **Verify your domain** page copy the **TXT name** and **TXT value**. 
-
-    ![](Images/img227.png)
 
 1. Go to your domain's registrar or DNS hosting provider, go to the DNS management page of your domain and click on **+ Record set**. Under **Name**  paste the **TXT name** and under **Value** paste **TXT value** you copied earlier and in type select **TXT**. Once done click on **Ok**. 
 
