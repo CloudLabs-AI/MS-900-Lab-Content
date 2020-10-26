@@ -316,6 +316,8 @@ Microsoft Stream is an Enterprise Video service where people in your organizatio
 1. From the Stream navigation bar, click on **Discover**. You can browse for videos, channels, people in your organization, and groups from here.
 
    ![](Images/img161.png)
+   
+1. You can explore other options available in Microsoft Stream.
 
 1. To learn more about Microsoft Stream refer to https://docs.microsoft.com/en-us/stream/overview.
 
@@ -445,7 +447,7 @@ List helps to track information and organize your work. With a list, one can tra
 
 1. Depending on how your site and servers are set up, whenever changes are made the person you created an alert for will be notified.
 
-1. You can explore other options available.
+1. You can explore other options available in Microsoft List.
 
 
 ## Conclusion
