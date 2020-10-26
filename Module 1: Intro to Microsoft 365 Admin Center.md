@@ -88,7 +88,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
     ![](Images/img225.png)
 
-1. In **Domain verification** page choose how you want to verify that you own the domain. Select **Add a TXT record to the domain's DNS records** and click on **Continue**.
+1. On **Domain verification** page choose how you want to verify that you own the domain. Select **Add a TXT record to the domain's DNS records** and click on **Continue**.
 
     ![](Images/img226.png)
 
@@ -102,7 +102,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. Wait for the recordset to be created. Switch back to the admin center, click on **Verify** and select **Continue**.
 
-1. In **Add DNS records** page follow the instructions and click on **Continue**.
+1. On **Add DNS records** page follow the instructions and click on **Continue**.
 
    ![](Images/img229.png)
 
@@ -196,7 +196,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    ![](Images/img16.png)
 
-1. Now we will try to create a folder and upload files to it. On the OneDrive page click on **New** and select **Folder** option, when prompted provide a name for your folder and click on **Create**.
+1. Now we will try to create a folder and upload files to it. On the OneDrive page click on **New** and select the **Folder** option, when prompted provide a name for your folder and click on **Create**.
   
    ![](Images/img17.png)
    
@@ -206,7 +206,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
    ![](Images/img19.png)
    
-1. Select the new file that you have uploaded, click on **Show actions** icon. This will display the list of actions that can be performed.
+1. Select the new file that you have uploaded, click on the **Show actions** icon. This will display the list of actions that can be performed.
 
    ![](Images/img20.png)
    
@@ -218,19 +218,19 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
       ![](Images/img157.png)
 
-      - **Anyone** : Gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.
+      - **Anyone**: Gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.
       
-      - **People in (Your Organization)** : Gives access to anyone in your organization who has the link access to the file.
+      - **People in (Your Organization)**: Gives access to anyone in your organization who has the link access to the file.
       
-      - **People with existing access** : Provides a link that can be used by people who already have access to the file or folder. It does not change the permissions on the item. Use this if you just want to send a link to somebody who already has access.
+      - **People with existing access**: Provides a link that can be used by people who already have access to the file or folder. It does not change the permissions on the item. Use this if you just want to send a link to somebody who already has access.
       
-      - **Specific people** : Gives access only to the people you specify, although other people may already have access. 
+      - **Specific people**: Gives access only to the people you specify, although other people may already have access. 
       
-      - **Allow editing** :  select if you want others to be able to edit the file. Uncheck it if you only want others to be able to view the file.
+      - **Allow editing**:  select if you want others to be able to edit the file. Uncheck it if you only want others to be able to view the file.
       
-      - **Set expiration date**  : The link will only work until the date you set. After that, the link will be invalid, and you will need to create a new link for users requiring access to your file or folder.
+      - **Set expiration date**: The link will only work until the date you set. After that, the link will be invalid, and you will need to create a new link for users requiring access to your file or folder.
 
-     - **Set password**  : When a user clicks the link, they will be prompted to enter a password before they can access the file. You'll need to provide this password separately to users.
+     - **Set password**: When a user clicks the link, they will be prompted to enter a password before they can access the file. You'll need to provide this password separately to users.
      
        ![](Images/img158.png)
        
@@ -261,7 +261,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
   
 1.  We can also send a private message to Yammer.
    
-1.  In the yammer dashboard click on **Inbox** icon and select  **New Private Messages**. 
+1.  In the yammer dashboard click on the **Inbox** icon and select  **New Private Messages**. 
    
     ![](Images/img25.png)
 
@@ -281,7 +281,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
 
 1. In the office365 portal from the  **App launcher** click on **All apps** and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Stream** web page. 
 
-1. In the Stream navigation bar, click on **Invite** button.
+1. In the Stream navigation bar, click on the **Invite** button.
    
    ![](Images/img27.png)
    
@@ -289,7 +289,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    ![](Images/img28.png)
 
-1. Now, from the top navigation bar of the **Stream** dashboard, click on **Create** button and select **Upload video** option from the drop-down.
+1. Now, from the top navigation bar of the **Stream** dashboard, click on **Create** button and then select **Upload video** option from the drop-down.
 
    ![](Images/img29.png)
 
