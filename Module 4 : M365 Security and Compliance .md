@@ -63,7 +63,7 @@
 1. To learn more about conditional access and policies refer to https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview.
 
 ### Task 2 : Azure AD PIM                                                                                                                                                                               
-1. Privileged Identity Management (PIM) is a service in Azure Active Directory (Azure AD) that enables you to manage, control, and monitor access to important resources in your organization. These resources include resources in Azure AD, Azure, and other Microsoft Online Services such as Microsoft 365 or Microsoft Intune.
+Privileged Identity Management (PIM) is a service in Azure Active Directory (Azure AD) that enables you to manage, control, and monitor access to important resources in your organization. These resources include resources in Azure AD, Azure, and other Microsoft Online Services such as Microsoft 365 or Microsoft Intune.
 
 1. From the navigation menu scroll down to  **Admin centers** and select **Azure Active Directory**, the Azure Active Directory overview page will appear.
 
@@ -130,11 +130,11 @@
 
 # Exercise 2: Threat Protection 
 
-  In this exercise, you will explore through Microsoft threat protection portal and Microsoft Secure Score.
+In this exercise, you will explore through Microsoft threat protection portal and Microsoft Secure Score.
 
 ### Task 1: Explore MS threat protection portal [Read-Only]
 
-1. Microsoft Threat Protection is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
+Microsoft Threat Protection is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
 
 1. The Microsoft 365 security center provides security administrators and other risk management professionals with a centralized hub and specialized workspace that enables them to manage and take full advantage of Microsoft 365 intelligent security solutions for identity and access management, threat protection, information protection, and security management.
 
@@ -168,7 +168,7 @@
 
 ### Task 2: Microsoft Secure Score 
 
-1. Microsoft Secure Score is a measurement of an organization's security posture, with a higher number indicating more improvement actions taken. Following the Secure Score recommendations can protect your organization from threats. From a centralized dashboard in the Microsoft 365 security center, organizations can monitor and work on the security of their Microsoft 365 identities, data, apps, devices, and infrastructure.
+Microsoft Secure Score is a measurement of an organization's security posture, with a higher number indicating more improvement actions taken. Following the Secure Score recommendations can protect your organization from threats. From a centralized dashboard in the Microsoft 365 security center, organizations can monitor and work on the security of their Microsoft 365 identities, data, apps, devices, and infrastructure.
 
 1. From the **App launcher** click on All apps and in the search bar search for **Security**, from **Open context menu** click on Open in new tab. This will redirect you to the **Microsoft 365 security** web page.
 
@@ -202,11 +202,11 @@
        
 # Exercise 3: Cloud App Security 
 
-  In this exercise, you will use the  Cloud App Security portal to identify the sensitivity and criticality of data and apps owned by an organization and address them.
+In this exercise, you will use the  Cloud App Security portal to identify the sensitivity and criticality of data and apps owned by an organization and address them.
 
 ### Task 1: Discover Apps with Cloud App Security  
 
-1. Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB). It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyber threats across all your cloud services.
+Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB). It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyber threats across all your cloud services.
 
 1. In the **admin center**, from the **App launcher** click on **All apps** and in the search bar search for **Security**, from Open context menu click on **Open in new tab**.
 
@@ -328,11 +328,11 @@
  
 ### Exercise 4 : Information Protection 
 
-  In this exercise, you will learn how to classify and protect your organization's data using a sensitivity label.
+In this exercise, you will learn how to classify and protect your organization's data using a sensitivity label.
 
 ### Task 1: Setup Data sensitivity label and policy 
 
-1. Sensitivity labels from the Microsoft Information Protection framework let you classify and protect your organization's data while making sure that user productivity and their ability to collaborate isn't hindered.
+Sensitivity labels from the Microsoft Information Protection framework let you classify and protect your organization's data while making sure that user productivity and their ability to collaborate isn't hindered.
 
 1. In the **admin center**, from the navigation menu, scroll down to  **Admin centers** and select **Compliance**, the Microsoft 365 Compliance center overview page will appear.
 
@@ -440,7 +440,7 @@
 
 ### Task 1 : Explore Compliance Manager 
 
-1. Compliance Manager measures your progress in completing actions that help reduce risks around data protection and regulatory standards.
+Compliance Manager measures your progress in completing actions that help reduce risks around data protection and regulatory standards.
 
 1. In the **admin center**, from the navigation menu, scroll down to  **Admin centers** and select **Compliance**, the Microsoft 365 Compliance center overview page will appear.
 
@@ -492,7 +492,7 @@
 
 ### Task 2 : Customer Lockbox 
 
-1. Customer Lockbox ensures that Microsoft cannot access your content to perform a service operation without your explicit approval. Customer Lockbox brings you into the approval workflow for requests to access your content.
+Customer Lockbox ensures that Microsoft cannot access your content to perform a service operation without your explicit approval. Customer Lockbox brings you into the approval workflow for requests to access your content.
 
 1. In the **admin center**, from the navigation menu, scroll down to  **Settings** and select **Org settings**.
 
