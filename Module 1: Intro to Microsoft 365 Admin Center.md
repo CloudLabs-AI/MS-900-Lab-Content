@@ -1,6 +1,6 @@
 # MS-900
 
-# Module 1: Introduction to Microsoft 365 Admin Center
+## Module 1: Introduction to Microsoft 365 Admin Center
 
 The Microsoft 365 admin center is where you manage your business in the cloud. You can complete tasks such as adding and removing users, changing licenses, and resetting passwords. Here are the features and settings you'll find in the left-hand navigation of the admin center.
   
@@ -26,7 +26,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    - **Admin centers**: Open separate admin centers for Exchange, Skype for Business, SharePoint, Yammer, and Azure AD. Each admin center includes all available settings for that service.
 
-# Exercise 1: Admin Experience for User Management
+## Exercise 1: Admin Experience for User Management
 
 In this exercise, you will learn how to create users, assign a license to the users, verify custom domains in the tenant, and see how to access other admin centers.
   
