@@ -12,11 +12,11 @@
 
 1. From the navigation menu scroll down to  **Billing** and select **Licenses**.
    
-1. In the Subscriptions page you can see all Available licenses, Assigned licenses. Click on any of the products to get detailed information.
+1. On the Subscriptions page you can see all Available licenses, Assigned licenses. Click on any of the products to get detailed information.
 
    ![](Images/img129.png)
 
-1. This displays the list of users to whom the selected license is assigned. From here you can assign license to users.
+1. This displays the list of users to whom the selected license is assigned. From here you can assign the license to users.
 
 1. Click on **Assign licenses**.
 
@@ -40,7 +40,7 @@
 
    ![](Images/img132.png)
 
-1. Now in the licenses page click on **Requests**. From here you can approve or deny the requests made from members of your organization for license assignments.
+1. Now on the licenses page click on **Requests**. From here you can approve or deny the requests made from members of your organization for license assignments.
 
     ![](Images/img133.png)
 
