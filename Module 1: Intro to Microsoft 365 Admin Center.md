@@ -32,6 +32,8 @@ In this exercise, you will learn how to create users, assign a license to the us
   
 ### Task 1: Admin Experience for User Management
 
+In this task, you will learn how to create and manage users from Microsoft Admin Center.
+
 1. Open a new browser window and log in to the admin center at [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339).
 
 1. When prompted, use the credentials provided in the **Environment Details** page to login to the admin center.
@@ -78,6 +80,8 @@ In this exercise, you will learn how to create users, assign a license to the us
    
 ### Task 2: Verify Custom Domains in the tenant [Read-Only]
 
+In this task, you will verify Custom Domains in the tenant and add a new domain to the tenant.
+
 1. To verify the custom domains, from the navigation pane click on show all, select **Settings** and choose **Domains**.
 
    ![](Images/img12.png)
@@ -117,6 +121,8 @@ In this exercise, you will learn how to create users, assign a license to the us
 1. To learn more about managing domains from Microsoft admin center refer to  https://docs.microsoft.com/en-us/microsoft-365/admin/get-help-with-domains/what-is-a-domain?view=o365-worldwide
 
 ### Task 3: Access other admin centers 
+
+In this task, you will learn how to access other admin centers from Microsoft Admin Center.
 
 1. To access other admin centers, from the navigation pane select **Admin centers** and choose all **All Admin centers**. Opens a page with a full list of Office 365 admin centers, including admin centers for OneDrive, Yammer Enterprise, Dynamics 365, Power Apps, Skype for business, and other services.
 
