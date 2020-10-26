@@ -1,31 +1,31 @@
 # Module 3 : M365 Business Management Capabilities 
 
- In this module you will learn to work with M365 groups, Microsoft Planner, Forms, Power BI. You will also explore through Microsoft Endpoint Manager.
+ In this module, you will learn to work with M365 groups, Microsoft Planner, Forms, Power BI. You will also explore through Microsoft Endpoint Manager.
 
 # Exercise 1: Types of Groups in M365 
 
-1. In the Groups section of the Microsoft 365 admin center, you can create and manage diffrent types of groups:
+1. In the Groups section of the Microsoft 365 admin center, you can create and manage different types of groups:
 
-   - **Microsoft 365 group** :  Microsoft 365 groups are used for collaboration between users, both inside and outside your company. With each Microsoft 365 group, members get a group email and shared workspace for conversations, files, and calendar events, and a Planner.
+   - **Microsoft 365 group**:  Microsoft 365 groups are used for collaboration between users, both inside and outside your company. With each Microsoft 365 group, members get a group email and shared workspace for conversations, files, and calendar events, and a Planner.
    
-   - **Distribution** : Distribution groups are used for sending notifications to a group of people. They can receive external email if enabled by the administrator.
+   - **Distribution**: Distribution groups are used for sending notifications to a group of people. They can receive an external email if enabled by the administrator.
    Distribution groups are best for situations where you need to broadcast information to a set group of people.
    
-   - **Mail-enabled security** : These groups are used for granting access to resources such as SharePoint, and emailing notifications to those users.
+   - **Mail-enabled security**: These groups are used for granting access to resources such as SharePoint, and emailing notifications to those users.
    
-   - **Security groups** : They can be used for granting access to resources such as SharePoint sites. They can make administration easier because you need to only administer the group rather than adding users to each resource individually.
+   - **Security groups**: They can be used for granting access to resources such as SharePoint sites. They can make administration easier because you need to only administer the group rather than adding users to each resource individually.
    
 # Exercise 2: Create M365 Groups
 
-  In this exercise you will learn how to create groups and add members to it from admin center.
+  In this exercise, you will learn how to create groups and add members to it from the admin center.
 
-### Task 1 : Create Office 365 Groups
+### Task 1: Create Office 365 Groups
 
-1. Open a new browser window and login to the admin center at https://admin.microsoft.com.
+1. Open a new browser window and log in to the admin center at https://admin.microsoft.com.
 
 1. When prompted, use the credentials provided in the **Environment Details** page to login to the admin center.
 
-1. From the navigation menu click on **Groups** icon and click on **Active groups**, now select **Add a group** icon.
+1. From the navigation menu click on the **Groups** icon and click on **Active groups**, now select **Add a group** icon.
 
    ![](Images/img53.png)
     
@@ -37,19 +37,19 @@
 
    ![](Images/img55.png)
 
-1. In the **Owners** page, choose the name of one or more people who will be designated to manage the group. Anyone who is a group owner can add or remove members and have unique permissions like the ability to delete conversations from the shared inbox or change different settings about the group. Click **Next**.
+1. On the **Owners** page, choose the name of one or more people who will be designated to manage the group. Anyone who is a group owner can add or remove members and have unique permissions like the ability to delete conversations from the shared inbox or change different settings about the group. Click **Next**.
  
    ![](Images/img56.png)
    
-1. Now in the **Settings** page, type a unique email address for the group, choose a privacy option based on your requirement and whether you want to add Microsoft Teams for group, and then click **Next**.
+1. Now in the **Settings** page, type a unique email address for the group, choose a privacy option based on your requirement, and whether you want to add Microsoft Teams for the group, and then click **Next**.
 
    ![](Images/img57.png)
 
-1. Review your settings and make any changes if needed, select **Create group** and then **close**.
+1. Review your settings and make any changes if needed, select **Create group**, and then **close**.
 
    ![](Images/img58.png)
 
-1. In the admin center, select the name of the group that you want to add members to. Refresh the page if your not able to see newly created group.
+1. In the admin center, select the name of the group that you want to add members to. Refresh the page if you are not able to see the newly created group.
 
 1. To add members to the group, navigate to the **Members tab** and select **View all and manage members**.
 
@@ -61,9 +61,9 @@
    
 1. To learn more about groups refer to https://docs.microsoft.com/en-us/microsoft-365/admin/create-groups.
 
-# Exercise 3 : Explore Microsoft Planner 
+# Exercise 3: Explore Microsoft Planner 
 
-1. Microsoft Planner provides a hub for team members to create plans, organise and assign tasks to different users and to check updates on progress through dashboards. It also provides a centralised place where files can be shared and gives visibility to the whole team.
+1. Microsoft Planner provides a hub for team members to create plans, organize, and assign tasks to different users, and to check updates on progress through dashboards. It also provides a centralised place where files can be shared and gives visibility to the whole team.
 
 1. Open a new browser window and login to the office365 center at https://www.office.com.
 
