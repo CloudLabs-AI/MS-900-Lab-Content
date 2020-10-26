@@ -26,7 +26,7 @@ The Microsoft 365 admin center is where you manage your business in the cloud. Y
    
    - **Admin centers**: Open separate admin centers for Exchange, Skype for Business, SharePoint, Yammer, and Azure AD. Each admin center includes all available settings for that service.
 
-# Exercise 1: Admin Experience for User Management
+## Exercise 1: Admin Experience for User Management
 
 In this exercise, you will learn how to create users, assign a license to the users, verify custom domains in the tenant, and see how to access other admin centers.
   
@@ -150,7 +150,7 @@ In this exercise, you will learn how to create users, assign a license to the us
 
 1. In the same way you can access and explore through all other admin centers available.
    
-### Exercise 2: Explore Microsoft 365 Apps
+## Exercise 2: Explore Microsoft 365 Apps
 
 In the previous exercise, you created a user and assigned an office 365 E5 license. In this exercise, you will log in with the newly created user and explore through office365 apps.
 
@@ -446,12 +446,3 @@ List helps to track information and organize your work. With a list, one can tra
 
 This module helps you to understand how to create users and assign licenses to the users from the Microsoft 365 admin center. The module also explains the way to add domains and the process to access other admin centers. It also explores various office365 apps.
  
-
-    
-
-       
-
-
-
-
-
