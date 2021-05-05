@@ -148,7 +148,7 @@ In this task, you will explore Microsoft Threat Protection Portal.
 
    ![](Images/img238.png)
 
-1.  From the left navigation menu select **Alerts**. Alerts provides greater visibility on all Microsoft 365 environments, that includes alerts from Microsoft Cloud App Security, Office 365 ATP, Azure AD, Azure ATP, and Microsoft Defender ATP. 
+1.  From the left navigation menu select **incident & Alerts**, from the drop down menu click **Alerts**. Alerts provides greater visibility on all Microsoft 365 environments, that includes alerts from Microsoft Cloud App Security, Office 365 ATP, Azure AD, Azure ATP, and Microsoft Defender ATP. 
 
     ![](Images/img240.png)
 
@@ -160,11 +160,9 @@ In this task, you will explore Microsoft Threat Protection Portal.
 
    ![](Images/img112.png)
 
-1. Now select **Classification**, from here you can set labels. When a label is applied (automatically or by the user), the content or site is protected based on the settings you choose.
+1. Select **Policies & rules**  from here you can set up policies to manage devices, protect against threats, and receive alerts about various activities in your organization.
 
-1. Select **Policies**  from here you can set up policies to manage devices, protect against threats, and receive alerts about various activities in your organization.
-
-1. Select **Permissions**. You can manage who in your organization has access to view content and perform tasks in the Microsoft 365 security center.
+1. Select **Permissions & roles**. You can manage who in your organization has access to view content and perform tasks in the Microsoft 365 security center.
 
    ![](Images/img243.png)
    
@@ -245,6 +243,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 1. Now from the left navigation menu select **Discover**. Cloud Discovery uses your traffic logs to dynamically discover and analyze the cloud apps that your organization is using.
 
 1. Under **Discover** select **Create snapshot report**. 
+    **Note**: if could not found under **Discover** then select **Settings** in the 
    
    ![](Images/img181.png)
 
