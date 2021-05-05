@@ -229,7 +229,7 @@ In this task, you will import sample financial data to PowerBI.
 
 1. On the **Local File page**, select **Import**.
 
-1. Now to create a report. Within **My workspace** select **Datasets+Dataflows** ,go to the 3-dots menu in the Financial Sample tab and it shows all available options in a drop-down menu and select **create report**.
+1. Now to create a report. Within **My workspace** select **Datasets+Dataflows**,and in the **Financial Sample** ,from more options, select **create report**.
 
    ![](Images/img80.png)
 
