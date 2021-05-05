@@ -243,7 +243,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 1. Now from the left navigation menu select **Discover**. Cloud Discovery uses your traffic logs to dynamically discover and analyze the cloud apps that your organization is using.
 
 1. Under **Discover** select **Create snapshot report**. 
-    **Note**: if could not found under **Discover** then select **Settings** in the top right corner and click **settings**, Under **Cloud Discovery** select **Snapsnot Reports** , and click **+Create Snapsnot Report**.
+  1.  **Note**: if could not found under **Discover** then select **Settings** in the top right corner and click **settings**, Under **Cloud Discovery** select **Snapsnot Reports** , and click **+Create Snapsnot Report**.
    
    ![](Images/img181.png)
 
@@ -359,7 +359,7 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 
       -**Azure Purview assets (preview)**: Automatically label your content in Azure Purview
 
-   **Note**: if the scope for files and emails is not selected, you can't select the options on the next page.
+  1. **Note**: if the scope for files and emails is not selected, you can't select the options on the next page.
   
 1. In the **File & Emails** page, select **Encryption** and **Content Marking**, Click **Next**. 
 
