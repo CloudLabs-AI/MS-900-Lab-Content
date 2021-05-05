@@ -50,7 +50,7 @@ In this task, we will explore the options available in Teams, learn how to creat
 
    ![](Images/img211.png)
 
-1. Select **Create a new team**, and then select **Build a team from scratch**. You can select **Create from...** to build a team from an existing group respectively.
+1. Select **Create a new team**, and then select **from scratch**. You can select **Create from...** to build a team from an existing group respectively.
    
    ![](Images/img212.png)
 
