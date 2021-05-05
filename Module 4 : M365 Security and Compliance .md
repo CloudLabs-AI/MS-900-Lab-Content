@@ -243,7 +243,8 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 1. Now from the left navigation menu select **Discover**. Cloud Discovery uses your traffic logs to dynamically discover and analyze the cloud apps that your organization is using.
 
 1. Under **Discover** select **Create snapshot report**. 
-  1.  **Note**: if could not found under **Discover** then select **Settings** in the top right corner and click **settings**, Under **Cloud Discovery** select **Snapsnot Reports** , and click **+Create Snapsnot Report**.
+  
+  **Note**: if could not found under **Discover** then select **Settings** in the top right corner and click **settings**, Under **Cloud Discovery** select **Snapsnot Reports** , and click **+Create Snapsnot Report**.
    
    ![](Images/img181.png)
 
