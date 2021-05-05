@@ -243,7 +243,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 1. Now from the left navigation menu select **Discover**. Cloud Discovery uses your traffic logs to dynamically discover and analyze the cloud apps that your organization is using.
 
 1. Under **Discover** select **Create snapshot report**. 
-    **Note**: if could not found under **Discover** then select **Settings** in the 
+    **Note**: if could not found under **Discover** then select **Settings** in the top right corner and click **settings**, Under **Cloud Discovery** select **Snapsnot Reports** , and click **+Create Snapsnot Report**.
    
    ![](Images/img181.png)
 
@@ -251,7 +251,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
 1. If you don't have a log file follow the below steps to download a sample log file.
 
-1. Enter a **Report name** and a **Description**. Select the **Data source** from which you want to upload the log files. Click **View and verify** then Download sample.
+1. Enter a **Report name** and a **Description**. Select the **source** from which you want to upload the log files. Click **View and verify** then Download sample.
 
    ![](Images/img182.png)
    
@@ -261,7 +261,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
 1. After the upload completes, the status message will appear at the top right corner of your screen letting you know that your log was successfully uploaded.
 
-1. After you upload your log files, it will take some time for them to be parsed and analyzed. Wait till the status of your log files turns **Ready**.
+1. After you upload your log files, it will take some hours for them to be parsed and analyzed. Wait till the status of your log files turns **Ready**.
 
    ![](Images/img184.png)
 
@@ -352,10 +352,18 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 1. Enter a **Label name**  and **Description**. Select **Next**.
 
    ![](Images/img91.png)
+   
+1. In the **Scope** Page, By default, the Files & emails scope is always selected. The other scopes are selected by default when the features are enabled for your tenant and click **Next**.
 
-1. In the **Encryption** page, choose when you want to assign permissions, whether you want your users' access to the content to expire, and whether you want to allow offline access. 
+      -**Groups & sites**: Enable sensitivity labels for containers and synchronize labels
 
-      - **Encryption** : select Apply.
+      -**Azure Purview assets (preview)**: Automatically label your content in Azure Purview
+
+   **Note**: if the scope for files and emails is not selected, you can't select the options on the next page.
+  
+1. In the **File & Emails** page, select **Encryption** and **Content Marking**, Click **Next**. 
+
+1. In the **Encryption** page, choose when you want to assign permissions, whether you want your users access to the content to expire, and whether you want to allow offline access. 
       
       - **Assign permissions now or let users decide?** : select Assign permissions now.
       
@@ -391,13 +399,18 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
    
    ![](Images/img99.png)
 
-1. In **Auto-labeling for Office apps**, turn on **Auto labeling**. Add a condition, under **Detect content that matches these conditions**, select Add a condition. 
+1. In **Auto-labeling for Files & Emails**, turn on **Auto labeling**. Add a condition, under **Detect content that matches these conditions**, select Add a condition. 
 
    ![](Images/img100.png)
    
    ![](Images/img101.png)
 
-1. Select **Next**. Review your settings and select **Create**. Your label will be created. Repeat this process for any additional labels you want.
+1. Select **Next**. In the **Group & Sites** page. you will get option to select only when you select **Group & Sites** in the **Scope** page. click **Next**
+
+1. Turn off **Auto labeling** and click **Next**.
+
+ 
+1. Review your settings and select **Create**. Your label will be created. Repeat this process for any additional labels you want.
 
    ![](Images/img102.png)
 
