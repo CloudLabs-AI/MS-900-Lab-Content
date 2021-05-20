@@ -432,10 +432,6 @@ List helps to track information and organize your work. With a list, one can tra
 
    ![](Images/M1E2T6Step12.png)
 
-1. Check **Notify people** check box if you want the user to get notified when a list is shared. Select Grant access.
-
-   ![](Images/img172.png)
-
 1. In the Alert Title section, change the title for the alert if you want. Within the **Send Alerts To section**, enter the user names or email addresses of people you want alerts to be sent to.
 
 1. Select a delivery method, choose the types of changes that you want to be notified about, how frequently you want to receive the alert. Once done select **Ok**.
