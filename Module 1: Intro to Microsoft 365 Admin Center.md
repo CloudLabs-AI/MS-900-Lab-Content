@@ -436,10 +436,6 @@ List helps to track information and organize your work. With a list, one can tra
 
    ![](Images/img172.png)
 
-1. To create an alert for a list or list item. Select the list that you want to create an alert for. On the command bar, click the ellipses, and then select **Alert me** this display the **Alert me when items change dialog box**.
-
-   ![](Images/img173.png)
-
 1. In the Alert Title section, change the title for the alert if you want. Within the **Send Alerts To section**, enter the user names or email addresses of people you want alerts to be sent to.
 
 1. Select a delivery method, choose the types of changes that you want to be notified about, how frequently you want to receive the alert. Once done select **Ok**.
