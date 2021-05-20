@@ -58,11 +58,11 @@ In this task, you will learn how to create and manage users from Microsoft Admin
 
      ![](Images/img4.png)
 
-   - **Password settings:** select let me create a password and provide a password.
+   - **Password settings:** create a password.
 
    - **Require this user to change their password when they first sign in**: selected.
 
-     ![](Images/img5.png)
+     ![](Images/M1E1T1Step6.4.png)
 
 1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, choose **Assign user a product license** and select **office 365 E5** license. Click **Next**.
 
@@ -130,7 +130,7 @@ In this task, you will learn how to access other admin centers from Microsoft Ad
    
 1. In the admin center page select **Exchange**. This will redirect you to the Exchange admin center page. 
 
-   ![](Images/img149.png)
+   ![](Images/M1E1T3Step2.png)
 
 1. From here you can manage email settings for your organization. In the left-hand menu explore through the options available
 
@@ -184,11 +184,11 @@ Microsoft Outlook is an application that is used mainly to send and receive emai
    
 1. From the left-hand menu select **Calendar**. From here you can create appointments, events, organize meetings and view group schedules.
 
-   ![](Images/img154.png)
+   ![](Images/M1E2T1Step7.png)
    
 1. Now Select **People**, you can use the People page to view, create, edit, find, and delete contacts. You can use your contacts for your reference, and can automatically add them as recipients when you compose an email message.
 
-   ![](Images/img155.png)
+   ![](Images/M1E2T1Step8.png)
 
 1. From the left-hand menu you can explore all other options available. 
    
@@ -253,13 +253,14 @@ With yammer people can openly connect and engage across the organization, from h
 1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page. 
    ![](Images/img21.png)
 
-1. From the left-hand pane click on **Create a Community**, enter a name for your community. In **Members** search and select the users you want to add. Based on your requirement choose **Public** or **Private** access and click on **Create**.
+1. From the left-hand pane click on **Create a Community**, enter a name for your community. In **Members** search and select the users you want to add. Based on your requirement choose **Public** or **Private** access and click on **Edit**.
 
-   ![](Images/img22.png)
+   ![](Images/M1E2T3Step2.1.png)  ![](Images/M1E2T3Step2.2.png)
    
-1. Now select the group that you newly created, click on **Update**. Type the content that you like to post (you can include gifs, files or any website links based on the requirement). Click on **post**.
+   
+1. Now select the group that you newly created, click on **Start a discussion**. Type the content that you like to post (you can include gifs, files or any website links based on the requirement). Click on **post**.
   
-   ![](Images/img23.png)
+   ![](Images/M1E2T3Step3.png)
    
 1. Switch back to the yammer account of the user whom you added to the group and verify if the user is added to the newly created group and if the posts are visible.
    
@@ -429,7 +430,7 @@ List helps to track information and organize your work. With a list, one can tra
     
 1. Enter a name or email address. To change the access permissions you are granting to people, select **Can edit** and then select an option based on requirement. 
 
-   ![](Images/img171.png)
+   ![](Images/M1E2T6Step12.png)
 
 1. Check **Notify people** check box if you want the user to get notified when a list is shared. Select Grant access.
 
