@@ -253,7 +253,7 @@ With yammer people can openly connect and engage across the organization, from h
 1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page. 
    ![](Images/img21.png)
 
-1. From the left-hand pane click on **Create a Community**, enter a name for your community. In **Members** search and select the users you want to add. Based on your requirement choose **Public** or **Private** access and click on **Edit**.
+1. From the left-hand pane click on **Create a Community**, enter a name for your community. In **Members** search and select the users you want to add. Based on your requirement choose **Public** or **Private** access by click on **Edit**.
 
    ![](Images/M1E2T3Step2.1.png)  ![](Images/M1E2T3Step2.2.png)
    
