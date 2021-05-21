@@ -29,25 +29,29 @@
 
    ![](Images/img53.png)
     
-1. On the Choose a group type page, select **Office 365**, and click on **Next**.
+1. On the Choose a group type page, select **Microsoft 365**, and click on **Next**.
 
-   ![](Images/img54.png)
+   ![](Images/M3E2T1Step4.png)
 
 1. On the Basics page, type a name for the group and a description(optional). Click **Next**.
 
-   ![](Images/img55.png)
+   ![](Images/M3E2T1Step5.png)   
 
 1. On the **Owners** page, choose the name of one or more people who will be designated to manage the group. Anyone who is a group owner can add or remove members and have unique permissions like the ability to delete conversations from the shared inbox or change different settings about the group. Click **Next**.
  
-   ![](Images/img56.png)
+  ![](Images/M3E2T1Step6.png) ![](Images/M3E2T1Step6.1.png)  ![](Images/M3E2T1Step6.2.png)
    
+1. Now in the **Members** page, you can join 20 member including owner, and then click **Next**.
+
+   ![](Images/M3E2T1Step7.png) ![](Images/M3E2T1Step7.1.png) ![](Images/M3E2T1Step7.2.png)
+
 1. Now in the **Settings** page, type a unique email address for the group, choose a privacy option based on your requirement, and whether you want to add Microsoft Teams for the group, and then click **Next**.
 
-   ![](Images/img57.png)
+   ![](Images/M3E2T1Step8.png)
 
 1. Review your settings and make any changes if needed, select **Create group**, and then **close**.
 
-   ![](Images/img58.png)
+   ![](Images/M3E2T1Step9.png)
 
 1. In the admin center, select the name of the group that you want to add members to. Refresh the page if you are not able to see the newly created group.
 
@@ -149,7 +153,7 @@ In this task, you will learn how to create a Form using Microsoft Forms.
 
 1. Select **New Form** to begin creating your form.
 
-   ![](Images/img65.png)
+   ![](Images/M3E4T1Step2.png)
 
 1. Enter a name for your form, you can also enter a description if needed.
 
@@ -229,11 +233,9 @@ In this task, you will import sample financial data to PowerBI.
 
 1. On the **Local File page**, select **Import**.
 
-1. Now to create a report. Within **My workspace** select **New** and from the drop-down select **Report**.
+1. Now to create a report. Within **My workspace** click on more option of **Financial Sample dataset** and select **Create report**
 
-1. In the **Select a dataset to create a report** dialog box, select your **Financial Sample dataset** and click on **Create**.
-
-   ![](Images/img80.png)
+   ![](Images/M3E5T1Step7.png)
 
 ### Task 2 : Visualize data
 
@@ -270,6 +272,8 @@ In this task, you will visualize the data which you had imported in the previous
 Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to help employees and their managers gain insight into how workers spend their time, intending to optimize tasks and make them more efficient. With this application, you can track data such as time spent in meetings, Outlook emails, productivity, and time spent working late.
 
 In this exercise, you will explore MyAnalytics application.
+
+**Note**: The Data may not appear in **MyAnalytics** of your lab environment as there are no activity performed yet.
 
 1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **MyAnalytics**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **MyAnalytics** web page.
 
