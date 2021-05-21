@@ -466,6 +466,9 @@ This exercise will let you explore the features of the Compliance Manager and Cu
 
 Compliance Manager measures your progress in completing actions that help reduce risks around data protection and regulatory standards.
 
+*New users won’t have enough data to view compliance in compliance center. 
+Once you have enough data, you can view these compliance in compliance center. Let us now explore these features.*
+
 In this task, you will explore Microsoft Compliance Manager.
 
 1. In the **admin center**, from the navigation menu, scroll down to  **Admin centers** and select **Compliance**, the Microsoft 365 Compliance center overview page will appear.
