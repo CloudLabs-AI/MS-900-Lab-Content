@@ -32,35 +32,41 @@ In this task, you will enable MFA in Azure Active Directory using Conditional Ac
 
    ![](Images/img142.png)
 
-1. Provide a name for your policy. Under Assignments, select **Users and groups**. In the Include tab, select **Users and groups**. In the search bar search and select the user's you intend to enable MFA and click on **Select**.
+1. Provide a name for your policy. Under Assignments, select **Users and groups**. In the Include tab, **select users and groups**. In the search bar search and select the user's you intend to enable MFA and click on **Select**.
 
-   ![](Images/img135.png)
+   ![](Images/M4E1T1Step7.png)
 
-1. Under **Cloud apps**, click on **Select Apps** and select the apps for which you intend to apply policy.
+1. Under **Cloud apps or actions**, click on **Select Apps** and select the apps for which you intend to apply policy.
 
-   ![](Images/img136.png)
+   ![](Images/M4E1T1Step8.png)
 
+1. Now under **Conditions** tab select **Client apps** and in **Client apps** page under **Configure** select **Yes** and then select **Done**. You can also make use of other conditions like risk, device platform, or location based on your requirement
+
+   ![](Images/M4E1T1Step9.png)
+   
 1. Now under **Access controls** select **Grant**, and then select **Grant access**, check the **Require multi-factor authentication** checkbox, and click on **select**.
 
-   ![](Images/img137.png)
-
-1. Now in Conditions tab select **Client apps** and in **Client apps** page under **Configure** select **Yes** and then select **Done**. You can also make use of other conditions like risk, device platform, or location based on your requirement.
-
-   ![](Images/img138.png)
-
+   ![](Images/M4E1T1Step10.png)
+   
 1. Confirm your settings and set Enable policy to **On**. Click on **Create** to create and enable your policy.
 
    ![](Images/img139.png)
+   
+ **Note :** You may see the error that default secutiy need to disabled, then follow the below steps :
 
-1. Now to test the policy login to the user admin account for whom you enabled MFA. From **App launcher** under Apps, select the app for which you enabled MFA.
+   Select the **Azure Active Directory** from the dashboard Select **Properties** then Click on **Manage Security Default** and Disabled it by selecting **My Organization is Using Conditional Access** and click on **save**.
+   
+   ![](Images/M4E1T1Step11.png)
+       
+1. Now to test the policy open the admin center account in incognito/private window and login to the user for whom you enabled MFA. From **App launcher** under Apps, select the app for which you enabled MFA.
 
 1. You're required to register for and use Azure Multi-Factor Authentication. For more information required page click **Next**.
 
 1. Follow the prompts to complete the process and verify you successfully sign in to the portal.
 
-   ![](Images/img140.png)
+   ![](Images/M4E1T1Step14.png)
    
-   ![](Images/img141.png)
+   ![](Images/M4E1T1Step15.png)
    
 1. To learn more about conditional access and policies refer to https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview.
 
@@ -75,7 +81,7 @@ Privileged Identity Management (PIM) is a service in Azure Active Directory (Azu
 
 1. Under **Manage** select **Azure AD roles**. 
 
-   ![](Images/img117.png)
+   ![](Images/M4E1T2Step3.png)
 
 1. Now select **Settings**, from here you can configure role settings. Explore through the roles and select the role which you want to configure.
 
@@ -148,25 +154,25 @@ In this task, you will explore Microsoft Threat Protection Portal.
 
    ![](Images/img238.png)
 
-1.  From the left navigation menu select **Alerts**. Alerts provides greater visibility on all Microsoft 365 environments, that includes alerts from Microsoft Cloud App Security, Office 365 ATP, Azure AD, Azure ATP, and Microsoft Defender ATP. 
+1.  From the left navigation menu select **Incidents & Alerts** and from the drop-down select **Alerts**. Alerts provides greater visibility on all Microsoft 365 environments, that includes alerts from Microsoft Cloud App Security, Office 365 ATP, Azure AD, Azure ATP, and Microsoft Defender ATP. 
 
-    ![](Images/img240.png)
+    ![](Images/M4E2T1Step3.png)
 
-1. Select **Reports** from here you can view security trends and track the protection status of your identities, data, devices, apps, and infrastructure.
+1. Select **Reports** from the menu and then slect **Security Report** from here you can view security trends and track the protection status of your identities, data, devices, apps, and infrastructure.
 
-   ![](Images/img241.png)
+**Note:** New users won’t have enough data to view various **Alerts** breakdowns within the application. Please check back later for your Security Reports: 
+
+   ![](Images/M4E2T1Step5.png)
 
 1. Select **Secure Score** this page provides an all-up summary of the different security features and capabilities you've enabled and includes recommendations for areas to improve.
 
    ![](Images/img112.png)
 
-1. Now select **Classification**, from here you can set labels. When a label is applied (automatically or by the user), the content or site is protected based on the settings you choose.
-
 1. Select **Policies**  from here you can set up policies to manage devices, protect against threats, and receive alerts about various activities in your organization.
 
-1. Select **Permissions**. You can manage who in your organization has access to view content and perform tasks in the Microsoft 365 security center.
+1. Select **Permissions & Roles** from the navigation and Select **Roles** from the drop-down of Azure AD. You can manage who in your organization has access to view content and perform tasks in the Microsoft 365 security center.
 
-   ![](Images/img243.png)
+   ![](Images/M4E2T1Step9.png)
    
 1. To learn more about Threat Protection refer to https://docs.microsoft.com/en-us/microsoft-365/security/mtp.
 
@@ -221,7 +227,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 1. In the Microsoft 365 security page, click **More resources**, and then select **Cloud App Security**.
 
    ![](Images/img179.png)
-
+  
 1. From the left-hand menu select **Dashboard**. In the dashboard you can see details about:
 
    - **Open alerts**: Shows the number of open alerts, a graph of the alert status distribution, and recent alerts
@@ -296,7 +302,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
 1. From the left-hand pane select **Alerts**. Alerts are the entry points to understanding your cloud environment more deeply.
 
-1. On the Alerts page, select Open for the **Resolution Status**. This section of the dashboard provides full visibility into any suspicious activity or violation of your established policies. It can help you safeguard the security posture you defined for your cloud environment.
+1. On the Alerts page, select Open for the **Filters**. This section of the dashboard provides full visibility into any suspicious activity or violation of your established policies. It can help you safeguard the security posture you defined for your cloud environment.
 
    ![](Images/img188.png)
 
@@ -352,7 +358,15 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 
 1. Enter a **Label name**  and **Description**. Select **Next**.
 
-   ![](Images/img91.png)
+   ![](Images/M4E4T1Step4.png)
+   
+1. On the **Scope** page, select **Files & emails** to encrypt the office files and emails.
+
+   ![](Images/M4E4T1Step5.png)
+   
+1. On **Files & emails** pages configure the setting of encrypted files of emails by selecting the given options.
+
+   ![](Images/M4E4T1Step6.png)
 
 1. In the **Encryption** page, choose when you want to assign permissions, whether you want your users' access to the content to expire, and whether you want to allow offline access. 
 
@@ -365,8 +379,6 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
       - **Acess expires** : Select a date. After this time, users won't be able to open the labeled item.
       
       - **Allow offline access** :  Never, always, or for a specific number of days after the label is applied. If you restrict offline access to never or a number of days, when that threshold is reached, users must be reauthenticated and their access is logged. 
-      
-         ![](Images/img92.png)
       
 1. Under **Assign permissions to specific users or groups** click on **Assign permissions**. From here you can grant permissions to specific people so that only they can interact with the labeled content.
  
@@ -384,24 +396,30 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
    
 1. On the **Assign Permissions** pane, select **Save**. Click on **Next**.
 
-   ![](Images/img97.png)
+   ![](Images/M4E4T1Step10.png)
 
 1. On the **Content Marking** page, you can configure the Header, Footer, and the Water Marking for this label. Click Next.
 
-   ![](Images/img98.png)
+   ![](Images/1.png)
    
-   ![](Images/img99.png)
+   ![](Images/2.png)
 
 1. In **Auto-labeling for Office apps**, turn on **Auto labeling**. Add a condition, under **Detect content that matches these conditions**, select Add a condition. 
 
-   ![](Images/img100.png)
+   ![](Images/3.png)
    
-   ![](Images/img101.png)
+   ![](Images/4.png)
 
-1. Select **Next**. Review your settings and select **Create**. Your label will be created. Repeat this process for any additional labels you want.
+1. Now select **Groups & Sites** to configure priacy, access control and other settings to protect label, leave the setting as default
 
-   ![](Images/img102.png)
+1. Under the **Azure Purview assets (preview)** check the below option, click on **Next** then review the settings and click **Create**.
 
+     1. Select the Auto-labeling for database columns slider.
+
+     2. Select Check sensitive info types to choose the sensitive info types you want to apply to your label.
+
+   ![](Images/M4E4T1Step13.png)
+   
 1. Click on your newly created label from here you can edit, publish, or delete it.
 
    ![](Images/img103.png)
@@ -418,7 +436,7 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 
 1. In **Publish to users and groups** pane select the **Users and Groups** and click on **Add**. Now select users or groups in which you are going to publish this label and Click **Next** to continue.
    
-   ![](Images/img108.png)
+   ![](Images/M4E4T1Step17.png)
 
 1. Under the **Policy Setting**, select the way you prefer and click **Next**.
 
@@ -447,6 +465,9 @@ This exercise will let you explore the features of the Compliance Manager and Cu
 ### Task 1 : Explore Compliance Manager 
 
 Compliance Manager measures your progress in completing actions that help reduce risks around data protection and regulatory standards.
+
+*New users won’t have enough data to view compliance in compliance center. 
+Once you have enough data, you can view these compliance in compliance center. Let us now explore these features.*
 
 In this task, you will explore Microsoft Compliance Manager.
 
