@@ -160,13 +160,13 @@ In this task, you will explore Microsoft Threat Protection Portal.
 
 1. Select **Reports** from the menu and then slect **Security Report** from here you can view security trends and track the protection status of your identities, data, devices, apps, and infrastructure.
 
+**Note:** New users won’t have enough data to view various **Alerts** breakdowns within the application. Please check back later for your Security Reports: 
+
    ![](Images/M4E2T1Step5.png)
 
 1. Select **Secure Score** this page provides an all-up summary of the different security features and capabilities you've enabled and includes recommendations for areas to improve.
 
    ![](Images/img112.png)
-
-1. Now select **Classification**, from here you can set labels. When a label is applied (automatically or by the user), the content or site is protected based on the settings you choose.
 
 1. Select **Policies**  from here you can set up policies to manage devices, protect against threats, and receive alerts about various activities in your organization.
 
@@ -227,7 +227,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 1. In the Microsoft 365 security page, click **More resources**, and then select **Cloud App Security**.
 
    ![](Images/img179.png)
-
+  
 1. From the left-hand menu select **Dashboard**. In the dashboard you can see details about:
 
    - **Open alerts**: Shows the number of open alerts, a graph of the alert status distribution, and recent alerts
@@ -302,7 +302,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
 1. From the left-hand pane select **Alerts**. Alerts are the entry points to understanding your cloud environment more deeply.
 
-1. On the Alerts page, select Open for the **Resolution Status**. This section of the dashboard provides full visibility into any suspicious activity or violation of your established policies. It can help you safeguard the security posture you defined for your cloud environment.
+1. On the Alerts page, select Open for the **Filters**. This section of the dashboard provides full visibility into any suspicious activity or violation of your established policies. It can help you safeguard the security posture you defined for your cloud environment.
 
    ![](Images/img188.png)
 
@@ -410,7 +410,7 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
    
    ![](Images/4.png)
 
-1. Now select **Groups & Sites** to configure priacy, access control and other settings to protect label.
+1. Now select **Groups & Sites** to configure priacy, access control and other settings to protect label, leave the setting as default
 
 1. Under the **Azure Purview assets (preview)** check the below option, click on **Next** then review the settings and click **Create**.
 
