@@ -400,15 +400,15 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 
 1. On the **Content Marking** page, you can configure the Header, Footer, and the Water Marking for this label. Click Next.
 
-   ![](Images/img98.png)
+   ![](Images/1.png)
    
-   ![](Images/img99.png)
+   ![](Images/2.png)
 
 1. In **Auto-labeling for Office apps**, turn on **Auto labeling**. Add a condition, under **Detect content that matches these conditions**, select Add a condition. 
 
-   ![](Images/img100.png)
+   ![](Images/3.png)
    
-   ![](Images/img101.png)
+   ![](Images/4.png)
 
 1. Now select **Groups & Sites** to configure priacy, access control and other settings to protect label.
 
