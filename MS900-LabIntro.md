@@ -6,7 +6,7 @@
 
 # Sign up for Office 365 E5 free trial
 
-1. Open this [URL](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fgo.microsoft.com.mcas.ms%2Ffwlink%2Fp%2F%3FLinkID%3D698279%26clcid%3D0x4009%26culture%3Den-in%26country%3DIN) and click on Free trial.
+1. Open this [URL](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fgo.microsoft.com.mcas.ms%2Ffwlink%2Fp%2F%3FLinkID%3D698279%26clcid%3D0x4009%26culture%3Den-in%26country%3DIN) and click on **Free trial**.
 
    ![](Images/Ms900-01.png)
 
