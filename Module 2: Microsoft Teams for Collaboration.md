@@ -49,14 +49,12 @@ In this task, we will explore the options available in Teams, learn how to creat
 1. To create a new team from the left navigation menu select **Teams**, click on **Join or create a team** and Select **Create a new team**.
 
    ![](Images/img211.png)
-
-1. Select **Create a new team**, and then select **from scratch**. You can select **Create from...** to build a team from an existing group respectively.
    
-   ![](Images/img212.png)
+   ![](Images/M2E1T1Step11.png)
 
 1. Select **Private** if you'd like people to request permission to join, or select **Public** if anyone in your organization can join.
 
-    ![](Images/img213.png)
+    ![](Images/M2E1T1Step12.png)
 
 1. Give the team a name and add a description if needed. Select **Create**.
 
@@ -76,9 +74,9 @@ In this task, we will learn how to schedule a meeting in Teams.
 
 1. Select **calendar** from the left-hand menu of the team's pane. 
 
-1. Now click on  **New Meeting** and from the drop-down select **Schedule meeting**. 
+1. Now click on  **New Meeting**. 
   
-   ![](Images/img41.png)
+   ![](Images/M2E1T2Step2.png)
    
    - **Add Title:** Provide a name for the meeting.
    
@@ -114,7 +112,7 @@ In this task, we will create and assign a messaging policy to the user from the 
    
 1. From the **Left navigation menu** select **Teams** and under it select **Manage teams**. From here you can manage all the teams and channels, create new ones, and manage the existing ones.
 
-   ![](Images/img221.png)
+   ![](Images/M2E1T2Step3.png)
 
 1. The Manage teams page displays the list of your teams along with channels, users, and the status of the team.
 
@@ -146,7 +144,7 @@ In this task, we will create and assign a messaging policy to the user from the 
  
    ![](Images/img46.png)
    
-   ![](Images/img47.png)
+   ![](Images/M3E2T1Step10.png)
 
 1. Switch back to the user's teams portal and in the chat notice **Delete** option is not available.
 
