@@ -27,7 +27,7 @@
    ![](Images/Ms900-05.png)
 
 1. Enter the **Phone Number**, then it will ask you to enter a **verification code** and **verify**.
-  >**Note**: Make sure to provide a valid mobile number and choose the country code properly.
+   >**Note**: Make sure to provide a valid mobile number and choose the country code properly.
 
    ![](Images/Ms900-06.png)
 
@@ -39,7 +39,7 @@
 
    ![](Images/Ms900-08.png)
    
-1. 
+1. On the Next Page, Learn about how to create users, assign a license to the users, verify custom domains in the tenant, and see how to access other admin centers.    
 
    
 
