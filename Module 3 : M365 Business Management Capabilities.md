@@ -233,9 +233,6 @@ In this task, you will import sample financial data to PowerBI.
 
 1. On the **Local File page**, select **Import**.
 
-1. Now to create a report. Within **My workspace** click on more option of **Financial Sample dataset** and select **Create report**
-
-   ![](Images/M3E5T1Step7.png)
 
 ### Task 2 : Visualize data
 
@@ -351,11 +348,11 @@ In this exercise, you will explore various available options in Microsoft EndPoi
 
    ![](Images/img199.png)
 
-1. From the Devices Overview pane, select **Conditional Access** this displays details about access policies. Conditional Access refers to ways you can control the devices and apps that are allowed to connect to your email and company resources.
+1. From the Devices Overview pane, select **Conditional Access**, and select **New Policy** to create policy. Conditional Access refers to ways you can control the devices and apps that are allowed to connect to your email and company resources.
 
    ![](Images/img200.png)
 
-1. From the navigation pane, select Devices and select **Configuration profiles** to display details about device profiles in Intune. 
+1. From the navigation pane, select Devices and select **Configuration profiles** to display details about device profiles in Intune(**Reference**). 
 
    ![](Images/img201.png)
 

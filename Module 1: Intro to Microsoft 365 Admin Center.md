@@ -58,9 +58,7 @@ In this task, you will learn how to create and manage users from Microsoft Admin
 
      ![](Images/img4.png)
 
-   - **Password settings:** create a password.
-
-   - **Require this user to change their password when they first sign in**: selected.
+   - **Require this user to change their password when they first sign in**: selected. click on **Next**
 
      ![](Images/M1E1T1Step6.4.png)
 

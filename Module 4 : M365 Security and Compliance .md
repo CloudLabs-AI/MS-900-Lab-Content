@@ -154,7 +154,6 @@ In this task, you will explore Microsoft Threat Protection Portal.
 
    ![](Images/img238.png)
 
-1.  From the left navigation menu select **Incidents & Alerts** and from the drop-down select **Alerts**. Alerts provides greater visibility on all Microsoft 365 environments, that includes alerts from Microsoft Cloud App Security, Office 365 ATP, Azure AD, Azure ATP, and Microsoft Defender ATP. 
 
     ![](Images/M4E2T1Step3.png)
 
@@ -167,10 +166,6 @@ In this task, you will explore Microsoft Threat Protection Portal.
 1. Select **Secure Score** this page provides an all-up summary of the different security features and capabilities you've enabled and includes recommendations for areas to improve.
 
    ![](Images/img112.png)
-
-1. Select **Policies**  from here you can set up policies to manage devices, protect against threats, and receive alerts about various activities in your organization.
-
-1. Select **Permissions & Roles** from the navigation and Select **Roles** from the drop-down of Azure AD. You can manage who in your organization has access to view content and perform tasks in the Microsoft 365 security center.
 
    ![](Images/M4E2T1Step9.png)
    
@@ -251,6 +246,8 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 1. Now from the left navigation menu select **Discover**. Cloud Discovery uses your traffic logs to dynamically discover and analyze the cloud apps that your organization is using.
 
 1. Under **Discover** select **Create snapshot report**. 
+  
+  **Note**: if could not found under **Discover** then select **Settings** in the top right corner and click **settings**, Under **Cloud Discovery** select **Snapsnot Reports** , and click **+Create Snapsnot Report**.
    
    ![](Images/img181.png)
 
@@ -258,7 +255,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
 1. If you don't have a log file follow the below steps to download a sample log file.
 
-1. Enter a **Report name** and a **Description**. Select the **Data source** from which you want to upload the log files. Click **View and verify** then Download sample.
+1. Enter a **Report name** and a **Description**. Select the **source** from which you want to upload the log files. Click **View and verify** then Download sample.
 
    ![](Images/img182.png)
    
@@ -268,7 +265,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
 1. After the upload completes, the status message will appear at the top right corner of your screen letting you know that your log was successfully uploaded.
 
-1. After you upload your log files, it will take some time for them to be parsed and analyzed. Wait till the status of your log files turns **Ready**.
+1. After you upload your log files, it will take some hours for them to be parsed and analyzed. Wait till the status of your log files turns **Ready**.
 
    ![](Images/img184.png)
 
@@ -358,19 +355,16 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 
 1. Enter a **Label name**  and **Description**. Select **Next**.
 
-   ![](Images/M4E4T1Step4.png)
-   
-1. On the **Scope** page, select **Files & emails** to encrypt the office files and emails.
 
-   ![](Images/M4E4T1Step5.png)
-   
-1. On **Files & emails** pages configure the setting of encrypted files of emails by selecting the given options.
+      -**Groups & sites**: Enable sensitivity labels for containers and synchronize labels
 
-   ![](Images/M4E4T1Step6.png)
+      -**Azure Purview assets (preview)**: Automatically label your content in Azure Purview
 
-1. In the **Encryption** page, choose when you want to assign permissions, whether you want your users' access to the content to expire, and whether you want to allow offline access. 
+  1. **Note**: if the scope for files and emails is not selected, you can't select the options on the next page.
+  
+1. In the **File & Emails** page, select **Encryption** and **Content Marking**, Click **Next**. 
 
-      - **Encryption** : select Apply.
+1. In the **Encryption** page, choose when you want to assign permissions, whether you want your users access to the content to expire, and whether you want to allow offline access. 
       
       - **Assign permissions now or let users decide?** : select Assign permissions now.
       
@@ -404,7 +398,7 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
    
    ![](Images/2.png)
 
-1. In **Auto-labeling for Office apps**, turn on **Auto labeling**. Add a condition, under **Detect content that matches these conditions**, select Add a condition. 
+1. In **Auto-labeling for Files & Emails**, turn on **Auto labeling**. Add a condition, under **Detect content that matches these conditions**, select Add a condition. 
 
    ![](Images/3.png)
    
@@ -413,9 +407,6 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 1. Now select **Groups & Sites** to configure priacy, access control and other settings to protect label, leave the setting as default
 
 1. Under the **Azure Purview assets (preview)** check the below option, click on **Next** then review the settings and click **Create**.
-
-     1. Select the Auto-labeling for database columns slider.
-
      2. Select Check sensitive info types to choose the sensitive info types you want to apply to your label.
 
    ![](Images/M4E4T1Step13.png)

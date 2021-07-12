@@ -49,8 +49,6 @@ In this task, we will explore the options available in Teams, learn how to creat
 1. To create a new team from the left navigation menu select **Teams**, click on **Join or create a team** and Select **Create a new team**.
 
    ![](Images/img211.png)
-
-1. Select **Create a new team**, and then select **From scratch**. You can select **Create from...** to build a team from an existing group respectively.
    
    ![](Images/M2E1T1Step11.png)
 
