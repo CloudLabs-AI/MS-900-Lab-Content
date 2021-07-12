@@ -10,7 +10,7 @@
 
    ![](Images/Ms900-01.png)
 
-1. Then on the next screen, Enter the work email address as we provided in the **Environment Details** and click on **Next**.
+1. Then on the next screen, Enter the work email address as provided in the **Environment Details** and click on **Next**.
 
    ![](Images/Ms900-03.png)
 
@@ -22,7 +22,7 @@
 
    ![](Images/Ms900-04.png)
 
-1. Click on the **Account** as you signed in. 
+1. Click on the **Account**, you just signed in. 
 
    ![](Images/Ms900-05.png)
 
@@ -39,8 +39,7 @@
 
    ![](Images/Ms900-08.png)
    
-   
-   
+1. 
 
    
 
