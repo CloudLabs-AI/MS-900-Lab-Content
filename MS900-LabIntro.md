@@ -39,7 +39,7 @@
 
    ![](Images/Ms900-08.png)
    
-1. On the Next Page, Learn about how to create users, assign a license to the users, verify custom domains in the tenant, and see how to access other admin center.    
+1. On the Next Page, Learn about how to create users, assign a license to the users, verify custom domains in the tenant, and see how to access other admin centers.    
 
    
 
