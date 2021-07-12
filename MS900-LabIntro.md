@@ -6,11 +6,11 @@
 
 # Sign up for Office 365 E5 free trial
 
-1. Open this [URL](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fgo.microsoft.com.mcas.ms%2Ffwlink%2Fp%2F%3FLinkID%3D698279%26clcid%3D0x4009%26culture%3Den-in%26country%3DIN) and click on **Free trial**.
+1. Open a new browser window, click on the [Sign up for Office 365 E5 free trial](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fgo.microsoft.com.mcas.ms%2Ffwlink%2Fp%2F%3FLinkID%3D698279%26clcid%3D0x4009%26culture%3Den-in%26country%3DIN) and click on **Free trial**.
 
    ![](Images/Ms900-01.png)
 
-1. Then on the next screen, Provide a **username** like below and click on **Next**.
+1. Then on the next screen, Enter the work email address as we provided in the **Environment Details** and click on **Next**.
 
    ![](Images/Ms900-03.png)
 
@@ -22,11 +22,12 @@
 
    ![](Images/Ms900-04.png)
 
-1. Select the **Username**.
+1. Click on the **Account** as you signed in. 
 
    ![](Images/Ms900-05.png)
 
-1. Then provide the details like below and then it will ask you to enter a **verification code** (Make sure to provide a valid mobile number and choose the country code properly), enter it and **verify**.
+1. Enter the **Phone Number**, then it will ask you to enter a **verification code** and **verify**.
+  >**Note**: Make sure to provide a valid mobile number and choose the country code properly.
 
    ![](Images/Ms900-06.png)
 
@@ -37,4 +38,9 @@
 1. Will receive the order Receipt.
 
    ![](Images/Ms900-08.png)
+   
+   
+   
+
+   
 
