@@ -155,7 +155,7 @@ In this task, you will explore Microsoft Threat Protection Portal.
    ![](Images/img238.png)
 
 
-    ![](Images/M4E2T1Step3.png)
+   ![](Images/M4E2T1Step3.png)
 
 1. Select **Reports** from the menu and then slect **Security Report** from here you can view security trends and track the protection status of your identities, data, devices, apps, and infrastructure.
 
@@ -247,7 +247,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
 1. Under **Discover** select **Create snapshot report**. 
   
-  **Note**: if could not found under **Discover** then select **Settings** in the top right corner and click **settings**, Under **Cloud Discovery** select **Snapsnot Reports** , and click **+Create Snapsnot Report**.
+  **Note**: if could not found under **Discover** then select **Settings(1)** in the top right corner and click **settings(2)**, Under **Cloud Discovery(3)** select **Snapsnot Reports(4)** , and click **+Create Snapsnot Report(5)**.
    
    ![](Images/img181.png)
 
@@ -349,18 +349,25 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 
 1. Now under **Solutions** select **Information protection**. If you don't immediately see this option, first select **Show all**.
 
-1. On the **Labels** page, select **+ Create a label** to start the New sensitivity, label wizard.
+1. On the **Labels** page, select **Turn on** under **Extend labeling to assests in Azure Purview**.
+
+   ![](Images/img-turn-on.png)
+
+1. On **Turn on labeling for Azure Purview** Select **yes**.
+
+   ![](Images/img-turn-on-2.png)
+
+1. Now on the **Labels** page, select **+ Create a label** to start the New sensitivity, label wizard.
 
    ![](Images/img90.png)
 
 1. Enter a **Label name**  and **Description**. Select **Next**.
 
+      **Groups & sites**: Enable sensitivity labels for containers and synchronize labels
 
-      -**Groups & sites**: Enable sensitivity labels for containers and synchronize labels
+      **Azure Purview assets (preview)**: Enable to Automatically label your content in Azure Purview
 
-      -**Azure Purview assets (preview)**: Automatically label your content in Azure Purview
-
-  1. **Note**: if the scope for files and emails is not selected, you can't select the options on the next page.
+1. **Note**: if the scope for files and emails is not selected, you can't select the options on the next page.
   
 1. In the **File & Emails** page, select **Encryption** and **Content Marking**, Click **Next**. 
 
