@@ -318,7 +318,37 @@ Microsoft Endpoint Manager helps deliver the modern workplace and modern managem
 
 In this exercise, you will explore various available options in Microsoft EndPoint Manager.
 
-1. Switch back to **Admin Center** portal, from the navigation menu scroll down to Admin centers, and select **Endpoint Manager**. This will redirect you to the Endpoint Manager admin center.
+Before we explore the Microsoft EndPoint Manager, we need to activate the **Enterprise Mobility + Security e5** license in order to view the **Endpoint Manager**.
+
+1. Open a new browser window and log in to the admin center at https://admin.microsoft.com.
+
+1. When prompted, use the credentials provided in the Environment Details page to log in to the admin center.
+
+1. From the navigation menu scroll down to Admin centers and select Azure Active Directory, the Azure Active Directory overview page will appear.
+
+   ![](Images/img116.png)
+
+1. On the left side of the page scroll down to the **Security**.
+
+   ![](Images/img127.png)
+
+1. In the **Security** page select **Conditional access**.
+
+   ![](Images/img128.png)
+   
+1. Now select **Create your own policies and target specific conditions like Cloud apps, Sign-in risk, and Device Platforms with Azure AD Premium.**
+
+   ![](Images/p5license.png)
+   
+1. Select the **Enterprise Mobility + Security e5** license and click on the **Free Trial** and select **Activate**. 
+
+   ![](Images/p5activate.png)
+
+1. Refresh your browser window once you see a notification that you have **Successfully activated Enterprise Mobility + Security e5**
+
+   ![](Images/p5activated.png)
+
+1. Switch back to **Admin Center** portal. Refresh your browser window. Now from the navigation menu scroll down to Admin centers, and select **Endpoint Manager**. This will redirect you to the Endpoint Manager admin center.
 
    ![](Images/img196.png)
 
