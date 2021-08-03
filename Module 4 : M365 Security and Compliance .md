@@ -179,7 +179,9 @@ Microsoft Secure Score is a measurement of an organization's security posture, w
 
 In this task, you will learn about Microsoft Secure Score.
 
-1. From the **App launcher** click on All apps and in the search bar search for **Security**, from **Open context menu** click on Open in new tab. This will redirect you to the **Microsoft 365 security** web page.
+1. From the **App launcher** click on All apps and in the search bar search for **Security**, from **Open context menu** click on Open in new tab. This will redirect you to the **Microsoft 365 Defender** web page.
+
+**Note**: If the microsoft 365 defender page is not opening. Navigate to the link given [Microsoft 365 Defender](https://security.microsoft.com/homepage)
 
 1. Select **Secure Score** from the left-hand menu. On the **Overview** page your score will be shown as a percentage, along with the number of points you've achieved out of total possible points.
 
