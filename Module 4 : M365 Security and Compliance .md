@@ -152,7 +152,7 @@ In this task, you will explore Microsoft Threat Protection Portal.
 
 1. The home page provides an at-a-glance view of the overall security health of your organization.
 
-   ![](Images/img238.png)
+   ![](Images/img05.png)
 
 
    ![](Images/M4E2T1Step3.png)
