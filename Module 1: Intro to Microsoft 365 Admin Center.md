@@ -432,6 +432,14 @@ List helps to track information and organize your work. With a list, one can tra
 
 1. In the Alert Title section, change the title for the alert if you want. Within the **Send Alerts To section**, enter the user names or email addresses of people you want alerts to be sent to.
 
+   ![](Images/img01.png)
+   
+   ![](Images/img02.png)
+   
+   ![](Images/img03.png)
+   
+   ![](Images/img04.png)
+
 1. Select a delivery method, choose the types of changes that you want to be notified about, how frequently you want to receive the alert. Once done select **Ok**.
 
     ![](Images/img174.png)
