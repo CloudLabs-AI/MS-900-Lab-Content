@@ -246,9 +246,9 @@ In this task, you will visualize the data which you had imported in the previous
 
 1. Click on **Financial Sample** dataset. From the dropdown of **+Create a report**, click on **From scratch**.
 
-   ![](Images/image10.png)
-   
    ![](Images/image11.png)
+   
+   ![](Images/image12.png)
 
 1. The report opens in the Editing view and displays the blank report canvas. On the right are the **Visualizations**, **Filters**, and **Fields** panes.
 
