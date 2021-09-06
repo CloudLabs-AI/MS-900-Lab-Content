@@ -79,9 +79,9 @@ Privileged Identity Management (PIM) is a service in Azure Active Directory (Azu
    
 1. On the Azure Active Directory page click on **All services**  and select **Azure AD Privileged Identity Management**.
 
-1. Under **Manage** select **Azure AD roles**. 
+   ![](Images/M4E1T2Step301.png)
 
-   ![](Images/M4E1T2Step3.png)
+1. Under **Manage** select **Azure AD roles**.
 
 1. Now select **Settings**, from here you can configure role settings. Explore through the roles and select the role which you want to configure.
 
@@ -168,8 +168,6 @@ In this task, you will explore Microsoft Threat Protection Portal.
 1. Select **Secure Score** this page provides an all-up summary of the different security features and capabilities you've enabled and includes recommendations for areas to improve.
 
    ![](Images/img112.png)
-
-   ![](Images/M4E2T1Step901.png)
    
 1. To learn more about Threat Protection refer to https://docs.microsoft.com/en-us/microsoft-365/security/mtp.
 
@@ -181,7 +179,7 @@ In this task, you will learn about Microsoft Secure Score.
 
 1. From the **App launcher** click on All apps and in the search bar search for **Security**, from **Open context menu** click on Open in new tab. This will redirect you to the **Microsoft 365 Defender** web page.
 
-**Note**: If the microsoft 365 defender page is not opening. Navigate to the link given [Microsoft 365 Defender](https://security.microsoft.com/homepage)
+    **Note**: If the microsoft 365 defender page is not opening. Navigate to the link given [Microsoft 365 Defender](https://security.microsoft.com/homepage)
 
 1. Select **Secure Score** from the left-hand menu. On the **Overview** page your score will be shown as a percentage, along with the number of points you've achieved out of total possible points.
 
@@ -261,7 +259,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
 1. Under overview tab, click **Next**.
 
-  ![](Images/image015.png)
+   ![](Images/image015.png)
   
 1. Under **Report Details** tab, Enter a **Report name** and a **Description**. Select the **source** from which you want to upload the log files. Click **View and verify** then Download sample.
    
@@ -299,7 +297,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
     
     - **Legal risk factor**: Lets you filter based on all the regulations and policies that are in place to ensure data protection and privacy of the app's users.
     
-      ![](Images/img187.png)
+    ![](Images/img187.png)
     
 1. Explore through other **IP address** and **Users** tab.
 
@@ -369,11 +367,11 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 
 1. Enter a **Label name**  and **Description**. Select **Next**.
 
-      **Groups & sites**: Enable sensitivity labels for containers and synchronize labels
+      -**Groups & sites**: Enable sensitivity labels for containers and synchronize labels
 
-      **Azure Purview assets (preview)**: Enable to Automatically label your content in Azure Purview
+      -**Azure Purview assets (preview)**: Enable to Automatically label your content in Azure Purview
 
-1. **Note**: if the scope for files and emails is not selected, you can't select the options on the next page.
+    **Note**: if the scope for files and emails is not selected, you can't select the options on the next page.
   
 1. In the **File & Emails** page, select **Encryption** and **Content Marking**, Click **Next**. 
 
@@ -403,26 +401,26 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
    
 1. On the **Assign Permissions** pane, select **Save**. Click on **Next**.
 
-   ![](Images/M4E4T1Step10.png)
+   ![](Images/M4E4T1Step1001.png)
 
 1. On the **Content Marking** page, you can configure the Header, Footer, and the Water Marking for this label. Click Next.
 
-   ![](Images/1.png)
+   ![](Images/001.png)
    
-   ![](Images/2.png)
+   ![](Images/002.png)
 
 1. In **Auto-labeling for Files & Emails**, turn on **Auto labeling**. Add a condition, under **Detect content that matches these conditions**, select Add a condition. 
 
-   ![](Images/3.png)
+   ![](Images/003.png)
    
-   ![](Images/4.png)
+   ![](Images/004.png)
 
 1. Now select **Groups & Sites** to configure priacy, access control and other settings to protect label, leave the setting as default
 
 1. Under the **Azure Purview assets (preview)** check the below option, click on **Next** then review the settings and click **Create**.
      2. Select Check sensitive info types to choose the sensitive info types you want to apply to your label.
 
-   ![](Images/M4E4T1Step13.png)
+   ![](Images/M4E4T1Step1301.png)
    
 1. Click on your newly created label from here you can edit, publish, or delete it.
 
