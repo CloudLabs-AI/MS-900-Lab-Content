@@ -162,7 +162,7 @@ In this task, we will create and assign a messaging policy to the user from the 
 
     ![](Images/img219.png)
 
-1. Similarly, repeat the above steps for **Third-party apps**, **Custom apps**. When done click **Save**.
+1. Similarly, repeat the above steps for **Third-party apps**, **Custom apps** as per required. When done click **Save**.
 
     ![](Images/img220.png)
 
