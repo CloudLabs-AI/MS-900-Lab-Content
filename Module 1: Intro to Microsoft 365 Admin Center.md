@@ -134,7 +134,7 @@ In this task, you will learn how to access other admin centers from Microsoft Ad
 
 1. If below image page occur, click on **New Exchange admin center**. This will redirect you to the new Exchange admin center page.
   
-    ![](Images/image106.png)
+    ![](Images/image06.png)
 
 1. From here you can manage email settings for your organization. In the left-hand menu explore through the options available
 
