@@ -42,19 +42,19 @@ In this task, we will explore the options available in Teams, learn how to creat
 
 1. In the admin team's account, search and select the newly created user from the search bar and initiate a conversation.
 
-   ![](Images/img40.png)
+    ![](Images/img40.png)
 
 1. Now switch back to the team's user account and verify the message.
 
 1. To create a new team from the left navigation menu select **Teams**, click on **Join or create a team** and Select **Create a new team**.
 
-   ![](Images/img211.png)
+    ![](Images/img211.png)
    
-   ![](Images/M2E1T1Step11.png)
+    ![](Images/M2E1T1Step1101.png)
 
 1. Select **Private** if you'd like people to request permission to join, or select **Public** if anyone in your organization can join.
 
-    ![](Images/M2E1T1Step12.png)
+    ![](Images/M2E1T1Step1201.png)
 
 1. Give the team a name and add a description if needed. Select **Create**.
 
@@ -76,7 +76,7 @@ In this task, we will learn how to schedule a meeting in Teams.
 
 1. Now click on  **New Meeting**. 
   
-   ![](Images/M2E1T2Step2.png)
+    ![](Images/M2E1T2Step201.png)
    
    - **Add Title:** Provide a name for the meeting.
    
@@ -88,7 +88,7 @@ In this task, we will learn how to schedule a meeting in Teams.
    
    - If you want to have your meeting in a channel, select the appropriate channel. If you’d rather not, skip it. When you have a meeting in a channel, everyone in the team will be able to see it and join in on that channel.
    
-       ![](Images/img42.png)
+    ![](Images/img42.png)
    
 1. Microsoft Teams also has a **Scheduling Assistant** which you can use to find a time that works for everyone. 
 
@@ -108,27 +108,27 @@ In this task, we will create and assign a messaging policy to the user from the 
 
 1. From the Navigation menu, under **Admin centers** select **Teams**. This will redirect you to **Microsoft Teams admin center**.
 
-   ![](Images/img43.png)
+    ![](Images/img43.png)
    
 1. From the **Left navigation menu** select **Teams** and under it select **Manage teams**. From here you can manage all the teams and channels, create new ones, and manage the existing ones.
 
-   ![](Images/M2E1T2Step3.png)
+    ![](Images/M2E1T2Step301.png)
 
 1. The Manage teams page displays the list of your teams along with channels, users, and the status of the team.
 
 1. From here you can add a new team by clicking on **Add**. In the **Add a new team**  page fill in the deatils and click on **Apply**.
 
-   ![](Images/img222.png)
+    ![](Images/img222.png)
 
 1. Click on your newly created team. From here you can add or remove **Members**, **channels** to the team and manage them.
 
-   ![](Images/img223.png)
+    ![](Images/img223.png)
    
-   ![](Images/img224.png)
+    ![](Images/img224.png)
 
 1. Now from the **Left navigation menu** select **Messaging policies**. Messaging policies are used to control which chat and channel messaging features are available to users in Microsoft Teams.
 
-   ![](Images/img44.png)
+    ![](Images/img44.png)
 
 1. In the **Messaging policies** page click on **Add**. 
 
@@ -138,19 +138,19 @@ In this task, we will create and assign a messaging policy to the user from the 
    
    - Click on **Save**.
     
-     ![](Images/img45.png)
+    ![](Images/img45.png)
    
 1. To assign a policy to the user, select the policy that you have created and click on **Manage Users**. In the search bar, search and select the user that you created previously and click on **Apply**.
  
-   ![](Images/img46.png)
+    ![](Images/img46.png)
    
-   ![](Images/M3E2T1Step10.png)
+    ![](Images/M3E2T1Step1001.png)
 
 1. Switch back to the user's teams portal and in the chat notice **Delete** option is not available.
 
 1. In the left navigation of the Microsoft Teams admin center, select **Teams apps**  and select **Permission policies**. From here you can configure App permission policies. App permission policies control what apps you want to make available to Teams users in your organization.
 
-   ![](Images/img217.png)
+    ![](Images/img217.png)
 
 1. Click on **Add**. Enter a name and description for the policy.
 
