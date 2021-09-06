@@ -133,10 +133,10 @@ In this exercise, you will learn how to create a new plan in Microsoft Planner a
  
    ![](Images/img235.png)
  
-1. Select **Add attachment**. Select **File** to attach a locally stored file, select **Link** to include a link, or select **SharePoint** to attach a file from a SharePoint site.
- 
-   ![](Images/img236.png)
- 
+1. Select **Add attachment**. Select **computer** to attach a locally stored file, select **Link** to include a link, or select **SharePoint** to attach a file from a SharePoint site.
+
+   ![](Images/image10.png)
+
 1. Navigate to and select the file you want to attach or enter the link information.
 
 1. You can also add comments in **Comment** section. When done click on the dismiss button in the upper-right corner of the task window to save and close the task.
@@ -244,6 +244,12 @@ In this task, you will import sample financial data to PowerBI.
 
 In this task, you will visualize the data which you had imported in the previous task by using various visualization options available in PowerBI.
 
+1. Click on **Financial Sample** dataset. From the dropdown of **+Create a report**, click on **From scratch**.
+
+   ![](Images/image10.png)
+   
+   ![](Images/image11.png)
+
 1. The report opens in the Editing view and displays the blank report canvas. On the right are the **Visualizations**, **Filters**, and **Fields** panes.
 
    ![](Images/img81.png)
@@ -276,14 +282,13 @@ Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to h
 
 *New users won’t have enough data to view various analytical breakdowns within the application. You will see a message stating that “MyAnalytics works best with at least 4 weeks of data. Please check back later for your insights”. Your screen would look like this*: 
 
- ![](Images/M3E6T1Step3.png) 
+   ![](Images/M3E6T1Step3.png) 
 
-Once you have enough data, you can view various insights in MyAnalytics. Let us now explore these features. 
-
+   **Note**: Once you have enough data, you can view various insights in MyAnalytics. Let us now explore these features. 
  
 In this exercise, you will explore MyAnalytics application.
 
-**Note**: The Data may not appear in **MyAnalytics** of your lab environment as there are no activity performed yet.
+   **Note**: The Data may not appear in **MyAnalytics** of your lab environment as there are no activity performed yet.
 
 1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **MyAnalytics**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **MyAnalytics** web page.
 
@@ -313,7 +318,7 @@ In this exercise, you will explore MyAnalytics application.
    
    - **Communication habits** : The Communication habits section shows the total number of chats (instant messages) and emails sent and read during each hour of the day in the past four weeks.
    
-     ![](Images/img210.png)
+   ![](Images/img210.png)
 
 1. To learn more about **MyAnalytics** refer to https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/mya-landing-page.
 
@@ -342,7 +347,7 @@ Before we explore the Microsoft EndPoint Manager, we need to activate the **Ente
 
    ![](Images/img128.png)
    
-1. Now select **Create your own policies and target specific conditions like Cloud apps, Sign-in risk, and Device Platforms with Azure AD Premium.**
+1. if you see **Create your own policies and target specific conditions like Cloud apps, Sign-in risk, and Device Platforms with Azure AD Premium.**, then select it. else ignore **7&8**.
 
    ![](Images/p5license.png)
    
