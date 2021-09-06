@@ -297,7 +297,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
     
     - **Legal risk factor**: Lets you filter based on all the regulations and policies that are in place to ensure data protection and privacy of the app's users.
     
-    ![](Images/img187.png)
+   ![](Images/img187.png)
     
 1. Explore through other **IP address** and **Users** tab.
 
@@ -309,31 +309,31 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
 1. For each alert, you need to investigate and determine the nature of the violation and the required response. You can filter the alerts by **Alert type**, by **Severity**, by **App** or by **User Name** to process the most important ones first.
     
-      ![](Images/img189.png)
+   ![](Images/img189.png)
     
 1. You can also customize alerts and actions by creating policies. In the alerts page click on **Create policy**. Select **App discovery policy**. Based on your requirement you can choose other **policies**.
  
-    ![](Images/img190.png)
+   ![](Images/img190.png)
  
 1. Give your policy a name and description. If you want, you can base it on a template. Set the severity of the policy.
  
-    ![](Images/img191.png)
+   ![](Images/img191.png)
  
 1. To set which discovered apps trigger this policy, click **+** add filters. From the dropdown select the filter based on your requirement.
  
-    ![](Images/img192.png)
+   ![](Images/img192.png)
  
 1. Enable **Trigger a policy match if all the following occur on the same day**. Select criteria from the drop-down based on your requirements.
  
-    ![](Images/img193.png)
+   ![](Images/img193.png)
  
 1. Set a **Daily alert limit** under Alerts. Select whether the alert is sent as an email, a text message, or both. 
  
-    ![](Images/img194.png)
+   ![](Images/img194.png)
  
 1. Select **Governance actions** to apply when an app matches this policy. It can tag policies as **Sanctioned**, **Unsanctioned**, or a custom tag. Click **Create**. 
  
-    ![](Images/img195.png)
+   ![](Images/img195.png)
  
 1. Alert will be triggered whenever an app with your specified conditions meet, notification will be sent to the email or number specified.
  
@@ -515,7 +515,7 @@ In this task, you will explore Microsoft Compliance Manager.
       
       - **Regulation**: the regulatory standard, policy, or law that applies to the assessment.
       
-         ![](Images/img148.png)
+   ![](Images/img148.png)
 
 1. In the **Assessments** dashboard, select the assessment name to open it, and view the Action Items and Controls Info.
 
