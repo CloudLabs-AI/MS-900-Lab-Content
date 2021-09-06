@@ -282,7 +282,7 @@ Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to h
 
 *New users won’t have enough data to view various analytical breakdowns within the application. You will see a message stating that “MyAnalytics works best with at least 4 weeks of data. Please check back later for your insights”. Your screen would look like this*: 
 
-   ![](Images/M3E6T1Step3.png) 
+   ![](Images/M3E6T1Step301.png) 
 
    **Note**: Once you have enough data, you can view various insights in MyAnalytics. Let us now explore these features. 
  
