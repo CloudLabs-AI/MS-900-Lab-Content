@@ -40,15 +40,15 @@ In this task, you will learn how to create and manage users from Microsoft Admin
 
 1. From the navigation menu, click on the **Users** icon and click on **Active users**. This will display the list of active users.
 
-   ![](Images/img1.png)
+    ![](Images/img1.png)
 
 1. From the navigation menu, click on the **Teams & Groups** icon and click on **Active teams & groups**. This will display a list of all the groups that are created.
 
-   ![](Images/image02.png)
+    ![](Images/image02.png)
 
 1. Now to create a new user, from the navigation menu click on **Users icon** and click on **Active users**, and then select **Add a user** icon.
 
-   ![](Images/img3.png)
+    ![](Images/img3.png)
 
 1. In the **Set up the basics pane**, fill the following details, and then select **Next**.
 
@@ -56,25 +56,25 @@ In this task, you will learn how to create and manage users from Microsoft Admin
 
    - **Username:** Enter username.
 
-     ![](Images/img4.png)
+    ![](Images/img4.png)
      
    - **Automatically create a password**: unselected, provide the password.
 
    - **Require this user to change their password when they first sign in**: selected. click on **Next**
 
-     ![](Images/image05.png)
+    ![](Images/image05.png)
 
 1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, choose **Assign user a product license** and select **office 365 E5** license. Click **Next**.
 
-   ![](Images/img6.png)
+    ![](Images/img6.png)
 
 1. In the **Optional settings**  pane, leave everything as default and click on **Next**.
 
-   ![](Images/img7.png)
+    ![](Images/img7.png)
 
 1. In the **Review and Finish** pane, review the new user&#39;s settings and click on **Finish adding**, then **Close**.
 
-   ![](Images/img8.png)
+    ![](Images/img8.png)
    
 1. Verify that the user has been created successfully. In the Microsoft 365 admin center, in the left navigation pane, select **Users** and select **Active users**. The new user should be listed, along with their assigned license.
    
@@ -84,7 +84,7 @@ In this task, you will verify Custom Domains in the tenant and add a new domain 
 
 1. To verify the custom domains, from the navigation pane click on show all, select **Settings** and choose **Domains**.
 
-   ![](Images/img12.png)
+    ![](Images/img12.png)
 
 1. All the available domains can be found here. We can also purchase new domains or add any existing domain from the **Domains** page.
 
@@ -108,15 +108,15 @@ In this task, you will verify Custom Domains in the tenant and add a new domain 
 
 1. On **Add DNS records** page follow the instructions and click on **Continue**.
 
-   ![](Images/img229.png)
+    ![](Images/img229.png)
 
 1. Select **Ok** when the domain setup is complete.
 
-   ![](Images/img230.png)
+    ![](Images/img230.png)
    
 1. On the domains page you can see the newly added domain.
 
-   ![](Images/img231.png)
+    ![](Images/img231.png)
 
 1. To learn more about managing domains from Microsoft admin center refer to  https://docs.microsoft.com/en-us/microsoft-365/admin/get-help-with-domains/what-is-a-domain?view=o365-worldwide
 
@@ -126,15 +126,15 @@ In this task, you will learn how to access other admin centers from Microsoft Ad
 
 1. To access other admin centers, from the navigation pane select **Admin centers** and choose all **All Admin centers**. Opens a page with a full list of Office 365 admin centers, including admin centers for OneDrive, Yammer Enterprise, Dynamics 365, Power Apps, Skype for business, and other services.
 
-   ![](Images/img13.png)
+    ![](Images/img13.png)
    
-   ![](Images/M1E1T3Step201.png)
+    ![](Images/M1E1T3Step201.png)
    
 1. In the admin center page select **Exchange**. This will redirect you to the Exchange admin center page. 
 
 1. If below image page occur, click on **New Exchange admin center**. This will redirect you to the new Exchange admin center page.
   
-   ![](Images/image106.png)
+    ![](Images/image106.png)
 
 1. From here you can manage email settings for your organization. In the left-hand menu explore through the options available
 
@@ -152,11 +152,11 @@ In this task, you will learn how to access other admin centers from Microsoft Ad
 
 1. Switch back to the admin centers page, select **SharePoint**. This will redirect you to the Sharepoint admin center page.
 
-   ![](Images/img151.png)
+    ![](Images/img151.png)
 
 1. From here you can manage site collections, list and library permissions, file storage and sharing. Explore through the options available in **SharePoint** admin center.
 
-   ![](Images/img152.png)
+    ![](Images/img152.png)
 
 1. In the same way you can access and explore through all other admin centers available.
    
@@ -180,19 +180,19 @@ Microsoft Outlook is an application that is used mainly to send and receive emai
 
 1. Under **Apps**, select **Outlook** and from **Open context menu** click on **Open in new tab**. This will redirect you to the outlook mail.
    
-   ![](Images/img9.png)
+    ![](Images/img9.png)
    
 1. On the outlook page, choose **New message**  to send a new mail. Enter a name or email address in the To, Cc, or Bcc field. In Subject, type the subject of the email message.  Place the cursor in the body of the email message, and then start typing.  After typing your message, choose Send.
 
-   ![](Images/img153.png)
+    ![](Images/img153.png)
    
 1. From the left-hand menu select **Calendar**. From here you can create appointments, events, organize meetings and view group schedules.
 
-   ![](Images/M1E2T1Step7.png)
+    ![](Images/M1E2T1Step7.png)
    
 1. Now Select **People**, you can use the People page to view, create, edit, find, and delete contacts. You can use your contacts for your reference, and can automatically add them as recipients when you compose an email message.
 
-   ![](Images/M1E2T1Step8.png)
+    ![](Images/M1E2T1Step8.png)
 
 1. From the left-hand menu you can explore all other options available. 
    
@@ -202,31 +202,31 @@ OneDrive gives you one place to store, share, and sync your work or school files
 
 1. Switch back to the user account and from  **App launcher** under **Apps**, select **OneDrive**. From **Open context menu** click on **Open in new tab**. This will redirect you to the **OneDrive** page, from here you can manage all your **files**.
    
-   ![](Images/img10.png)
+    ![](Images/img10.png)
    
-   ![](Images/img16.png)
+    ![](Images/img16.png)
 
 1. Now we will try to create a folder and upload files to it. On the OneDrive page click on **New** and select the **Folder** option, when prompted provide a name for your folder and click on **Create**.
   
-   ![](Images/img17.png)
+    ![](Images/img17.png)
    
-   ![](Images/img18.png)
+    ![](Images/img18.png)
    
 1. Now select the newly created folder. From the top navigation bar select, **Upload** and select **Files**, when prompted choose the file(s) that you want to upload.
 
-   ![](Images/img19.png)
+    ![](Images/img19.png)
    
 1. Select the new file that you have uploaded, click on the **Show actions** icon. This will display the list of actions that can be performed.
 
-   ![](Images/img20.png)
+    ![](Images/img20.png)
    
 1. On the **OneDrive** page select the file or folder you want to share by selecting the circle in the upper corner of the item. Select Share at the top of the page.
 
-   ![](Images/img156.png)
+    ![](Images/img156.png)
 
 1. Select **Anyone with the link can edit to customize the link** option. Set the options you want on your link, then select Apply when you're done.
 
-      ![](Images/img157.png)
+    ![](Images/img157.png)
 
       - **Anyone**: Gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else. This may include people outside of your organization.
       
@@ -242,11 +242,11 @@ OneDrive gives you one place to store, share, and sync your work or school files
 
      - **Set password**: When a user clicks the link, they will be prompted to enter a password before they can access the file. You'll need to provide this password separately to users.
      
-       ![](Images/img158.png)
+    ![](Images/img158.png)
        
 1. Once you're back at the main **Share** box enter a name or email of users with whom you intend to share the file, click on **Send**. You can also select **Copy Link** to copy the link to your clipboard and share it.
 
-   ![](Images/img159.png)
+    ![](Images/img159.png)
   
 1. You can explore through other options available in the **OneDrive**. 
 
@@ -256,22 +256,22 @@ With yammer people can openly connect and engage across the organization, from h
 
 1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page.
  
-   ![](Images/img21.png)
+    ![](Images/img21.png)
 
 1. From the left-hand pane click on **Create a Community**, enter a name for your community. In **Members** search and select the users you want to add. Based on your requirement choose **Public** or **Private** access by click on **Edit**.
 
-   ![](Images/M1E2T3Step2.101.png)  
+    ![](Images/M1E2T3Step2.101.png)  
    
-   ![](Images/M1E2T3Step2.202.png)
+    ![](Images/M1E2T3Step2.202.png)
    
    
 1. Now select the group that you newly created, click on **Start a discussion**. Type the content that you like to post (you can include gifs, files or any website links based on the requirement). Click on **post**.
   
-   ![](Images/M1E2T3Step303.png)
+    ![](Images/M1E2T3Step303.png)
    
 1. Switch back to the yammer account of the user whom you added to the group and verify if the user is added to the newly created group and if the posts are visible.
    
-   ![](Images/img24.png)
+    ![](Images/img24.png)
   
 1.  We can also send a private message to Yammer.
    
@@ -283,7 +283,7 @@ With yammer people can openly connect and engage across the organization, from h
 
 1. Select the person's name that you want the message to be sent to, enter the message you want to send and then click on **Post**.
 
-   ![](Images/img160.png)
+    ![](Images/img160.png)
 
 1. The recipient of the message will receive a notification about the received private message.
 
@@ -297,33 +297,33 @@ Microsoft Stream is an Enterprise Video service where people in your organizatio
 
 1. In the Stream navigation bar, click on the **Invite** button.
    
-   ![](Images/img27.png)
+    ![](Images/img27.png)
    
 1. In the search bar, search and select the users or groups that you would like to invite. Click on **Add** and then select **Invite**.
    
-   ![](Images/img28.png)
+    ![](Images/img28.png)
 
 1. Now, from the top navigation bar of the **Stream** dashboard, click on **Create** button and then select **Upload video** option from the drop-down.
 
-   ![](Images/img29.png)
+    ![](Images/img29.png)
 
 1. Drag and drop or select files that need to be uploaded from your device. In the Details tab, you can rename the video, add a description, and choose a thumbnail for the video. 
 
 1. Under the "Permissions" tab, you can configure access to the video inside of the organization. 
 
-   ![](Images/img31.png)
+    ![](Images/img31.png)
    
 1. Now click on the "Options" tab. From here you can enable/disable the ability to tag people, have a comments section, have captions, or add subtitles.
  
-   ![](Images/img32.png)
+    ![](Images/img32.png)
 
 1. Click on **Publish**.
    
-   ![](Images/img33.png)
+    ![](Images/img33.png)
 
 1. From the Stream navigation bar, click on **Discover**. You can browse for videos, channels, people in your organization, and groups from here.
 
-   ![](Images/img161.png)
+    ![](Images/img161.png)
    
 1. You can explore other options available in Microsoft Stream.
 
@@ -337,11 +337,11 @@ Microsoft SharePoint helps organizations share and manage content, knowledge, an
 
 1. From the top of the SharePoint page, click **+ Create site**  option.
   
-   ![](Images/img35.png)
+    ![](Images/img35.png)
 
 1. A site creation wizard will appear on the right-hand side of the screen. Based on your requirement you can select **Team site** or **Communication site**. For now, select **Team site**.
    
-   ![](Images/img36.png)
+    ![](Images/img36.png)
    
     - Provide a name for your site
     
@@ -349,7 +349,7 @@ Microsoft SharePoint helps organizations share and manage content, knowledge, an
 
     -  Select a language for your site and click on **Next**
     
-       ![](Images/img37.png)
+    ![](Images/img37.png)
     
     -  In **Add group members** pane, under **Add additional owners box** add the names or email addresses of others whom you would want to allow to manage this site. In **Add members box**, add the name or email address of users you want to be a member of your site and then click **Finish**.  
     
@@ -357,25 +357,25 @@ Microsoft SharePoint helps organizations share and manage content, knowledge, an
 
 1. On the home page of the site click on **New**, and then select **Page**.
 
-   ![](Images/img48.png)
+    ![](Images/img48.png)
 
 1. Choose a page template to start with. For now, you can select **Blank** template and click on **Create page**.
 
-   ![](Images/img49.png)
+    ![](Images/img49.png)
 
 1. Add a page name in the title area. You can customize the title area with an image, a choice of four layouts, text above the title, the ability to change the displayed author, and you can show or hide the published date.
 
 1. Select **Edit web part** icon from here you can select the layout of your choice, Set alignment, Add text above the title.
   
-   ![](Images/img50.png)
+    ![](Images/img50.png)
 
 1. To add an image click on **Add image** button in the toolbar on the left. 
 
-   ![](Images/img51.png)
+    ![](Images/img51.png)
 
 1. Choose a recent image or get an image from a web search, your site, your computer, or a link. If your organization has specified a set of approved images, you'll be able to choose from that set under Your organization. 
 
-   ![](Images/img52.png)
+    ![](Images/img52.png)
 
 1. In **text box** you can add the content. Click on **+** to add content like text, documents, video and more. 
 
@@ -393,7 +393,7 @@ List helps to track information and organize your work. With a list, one can tra
 
 1. On the home page of **Lists** click on **New list**. 
 
-   ![](Images/img38.png)
+    ![](Images/img38.png)
 
 1. From the Create a list page, select **Blank list**. 
  
@@ -402,8 +402,8 @@ List helps to track information and organize your work. With a list, one can tra
     - Choose a color and icon for your list.
     
     - In **Save to** select a location where you want your list to be saved. Click on **Create**
-    
-      ![](Images/img39.png)
+   
+    ![](Images/img39.png)
     
  1. When your list opens, to add an item to your list, select **+ New**. 
   
@@ -417,13 +417,13 @@ List helps to track information and organize your work. With a list, one can tra
  
  1. In the Create a column panel, in the **Name** field, enter a title or column heading. Enter any other required information. The number of fields will vary with the column type you choose. The above example is for a **Multiple lines of text** field.
  
-     ![](Images/img166.png)
+    ![](Images/img166.png)
 
 1. Select **Save**. In this way, you can add multiple items and columns to your list.
 
 1. To rename a column, select the column which you want to rename select **Column settings** and select **Rename**. When prompted provide column name and select **Save**.
 
-   ![](Images/img164.png)
+    ![](Images/img164.png)
 
 1. Now select the item which you have added click on **Show actions** and select **Edit**  from here you can add value against the newly created column.
 
@@ -433,21 +433,21 @@ List helps to track information and organize your work. With a list, one can tra
 
 1. To share your list select **Share** near the top of the page.
 
-   ![](Images/img170.png)
+    ![](Images/img170.png)
     
 1. Enter a name or email address. To change the access permissions you are granting to people, select **Can edit** and then select an option based on requirement. 
 
-   ![](Images/M1E2T6Step12.png)
+    ![](Images/M1E2T6Step12.png)
 
 1. In the Alert Title section, change the title for the alert if you want. Within the **Send Alerts To section**, enter the user names or email addresses of people you want alerts to be sent to.
 
-   ![](Images/img01.png)
+    ![](Images/img01.png)
    
-   ![](Images/img02.png)
+    ![](Images/img02.png)
    
-   ![](Images/img03.png)
+    ![](Images/img03.png)
    
-   ![](Images/img04.png)
+    ![](Images/img04.png)
 
 1. Select a delivery method, choose the types of changes that you want to be notified about, how frequently you want to receive the alert. Once done select **Ok**.
 
