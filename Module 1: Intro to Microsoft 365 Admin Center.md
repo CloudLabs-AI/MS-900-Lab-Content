@@ -42,9 +42,9 @@ In this task, you will learn how to create and manage users from Microsoft Admin
 
    ![](Images/img1.png)
 
-1. From the navigation menu, click on the **Groups** icon and click on **Active groups**. This will display a list of all the groups that are created.
+1. From the navigation menu, click on the **Teams & Groups** icon and click on **Active teams & groups**. This will display a list of all the groups that are created.
 
-   ![](Images/img2.png)
+   ![](Images/image02.png)
 
 1. Now to create a new user, from the navigation menu click on **Users icon** and click on **Active users**, and then select **Add a user** icon.
 
@@ -57,10 +57,12 @@ In this task, you will learn how to create and manage users from Microsoft Admin
    - **Username:** Enter username.
 
      ![](Images/img4.png)
+     
+   - **Automatically create a password**: unselected, provide the password.
 
    - **Require this user to change their password when they first sign in**: selected. click on **Next**
 
-     ![](Images/M1E1T1Step6.4.png)
+     ![](Images/image05.png)
 
 1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, choose **Assign user a product license** and select **office 365 E5** license. Click **Next**.
 
@@ -126,9 +128,13 @@ In this task, you will learn how to access other admin centers from Microsoft Ad
 
    ![](Images/img13.png)
    
+   ![](Images/M1E1T3Step201.png)
+   
 1. In the admin center page select **Exchange**. This will redirect you to the Exchange admin center page. 
 
-   ![](Images/M1E1T3Step2.png)
+1. If below image page occur, click on **New Exchange admin center**. This will redirect you to the new Exchange admin center page.
+  
+   ![](Images/image106.png)
 
 1. From here you can manage email settings for your organization. In the left-hand menu explore through the options available
 
@@ -248,17 +254,20 @@ OneDrive gives you one place to store, share, and sync your work or school files
 
 With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
 
-1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page. 
+1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page.
+ 
    ![](Images/img21.png)
 
 1. From the left-hand pane click on **Create a Community**, enter a name for your community. In **Members** search and select the users you want to add. Based on your requirement choose **Public** or **Private** access by click on **Edit**.
 
-   ![](Images/M1E2T3Step2.1.png)  ![](Images/M1E2T3Step2.2.png)
+   ![](Images/M1E2T3Step2.101.png)  
+   
+   ![](Images/M1E2T3Step2.202.png)
    
    
 1. Now select the group that you newly created, click on **Start a discussion**. Type the content that you like to post (you can include gifs, files or any website links based on the requirement). Click on **post**.
   
-   ![](Images/M1E2T3Step3.png)
+   ![](Images/M1E2T3Step303.png)
    
 1. Switch back to the yammer account of the user whom you added to the group and verify if the user is added to the newly created group and if the posts are visible.
    
