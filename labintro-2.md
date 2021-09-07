@@ -3,6 +3,8 @@
 
 1. In the **Search** field on the taskbar at the bottom of the desktop, enter **PowerShell**.
 
+   ![](Images/image024.png)
+
     **Important:** you should select **Windows PowerShell ISE** (not Windows PowerShell); therefore, right-click on **Windows PowerShell ISE** and select **Run as administrator**.
 
     ![](Images/image245.png)
