@@ -11,6 +11,12 @@
 
 1. If a **User Account Control** dialog box appears, select **Yes** to allow this app to make changes to your device.
 
+1. Run the following command to install Azure Information Protection
+
+   **Note**: If you are prompted to confirm an Execution Policy Change, select Yes to All
+   
+       Install-Module -Name AIPService
+
 1. Run the following command. In the **Sign in** dialog box, Enter the **username** and **password** as provided in the environment detail tab for your Azure Information Protection tenant.
 
        Connect-AipService
