@@ -25,33 +25,41 @@
 
 1. When prompted, use the credentials provided in the **Environment Details** page to login to the admin center.
 
-1. From the navigation menu click on the **Groups** icon and click on **Active groups**, now select **Add a group** icon.
+1. From the navigation menu click on the **Teams & Groups** icon and click on **Active teams & groups**, now select **Add a group** icon.
 
-   ![](Images/img53.png)
+   ![](Images/image02.png)
     
 1. On the Choose a group type page, select **Microsoft 365**, and click on **Next**.
 
-   ![](Images/M3E2T1Step4.png)
+   ![](Images/M3E2T1Step401.png)
 
 1. On the Basics page, type a name for the group and a description(optional). Click **Next**.
 
-   ![](Images/M3E2T1Step5.png)   
+   ![](Images/M3E2T1Step501.png)   
 
 1. On the **Owners** page, choose the name of one or more people who will be designated to manage the group. Anyone who is a group owner can add or remove members and have unique permissions like the ability to delete conversations from the shared inbox or change different settings about the group. Click **Next**.
  
-  ![](Images/M3E2T1Step6.png) ![](Images/M3E2T1Step6.1.png)  ![](Images/M3E2T1Step6.2.png)
+   ![](Images/M3E2T1Step601.png) 
+  
+   ![](Images/M3E2T1Step6.101.png)  
+  
+   ![](Images/M3E2T1Step6.201.png)
    
 1. Now in the **Members** page, you can join 20 member including owner, and then click **Next**.
 
-   ![](Images/M3E2T1Step7.png) ![](Images/M3E2T1Step7.1.png) ![](Images/M3E2T1Step7.2.png)
+   ![](Images/M3E2T1Step701.png) 
+   
+   ![](Images/M3E2T1Step7.101.png)
+   
+   ![](Images/M3E2T1Step7.201.png)
 
 1. Now in the **Settings** page, type a unique email address for the group, choose a privacy option based on your requirement, and whether you want to add Microsoft Teams for the group, and then click **Next**.
 
-   ![](Images/M3E2T1Step8.png)
+   ![](Images/M3E2T1Step801.png)
 
 1. Review your settings and make any changes if needed, select **Create group**, and then **close**.
 
-   ![](Images/M3E2T1Step9.png)
+   ![](Images/M3E2T1Step901.png)
 
 1. In the admin center, select the name of the group that you want to add members to. Refresh the page if you are not able to see the newly created group.
 
@@ -91,7 +99,7 @@ In this exercise, you will learn how to create a new plan in Microsoft Planner a
     
     - Select **Create plan**.
     
-       ![](Images/img62.png)
+   ![](Images/img62.png)
 
 1. Now to add members to the plan, from the upper-right corner of the Planner window click on **Members**.
 
@@ -113,29 +121,29 @@ In this exercise, you will learn how to create a new plan in Microsoft Planner a
     
     - Click on **Assign** and choose a plan member from the list. If the right person isn't listed, type a name or email address in the search box to add someone new.
     
-       ![](Images/img233.png)
+   ![](Images/img233.png)
  
 1. Click on the task to open the task window. 
  
 1. Select **Start anytime** below Start date, and then select the start date you want. Select **Due anytime** below Due date, and then select the due date you want.
  
-    ![](Images/img234.png)
+   ![](Images/img234.png)
      
 1. In the task window select **Priority**  from here you can set the priority of the task.
  
-    ![](Images/img235.png)
+   ![](Images/img235.png)
  
-1. Select **Add attachment**. Select **File** to attach a locally stored file, select **Link** to include a link, or select **SharePoint** to attach a file from a SharePoint site.
- 
-    ![](Images/img236.png)
- 
+1. Select **Add attachment**. Select **computer** to attach a locally stored file, select **Link** to include a link, or select **SharePoint** to attach a file from a SharePoint site.
+
+   ![](Images/image10.png)
+
 1. Navigate to and select the file you want to attach or enter the link information.
 
 1. You can also add comments in **Comment** section. When done click on the dismiss button in the upper-right corner of the task window to save and close the task.
 
 1. Now select **Charts**. The charts show how your plan is progressing, with details about what’s done, in progress, not started, and late.
 
-    ![](Images/img237.png)
+   ![](Images/img237.png)
 
 1. To learn more about planner refer to https://support.microsoft.com/en-us/planner.
 
@@ -152,8 +160,6 @@ In this task, you will learn how to create a Form using Microsoft Forms.
 1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **Forms**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Forms** web page.
 
 1. Select **New Form** to begin creating your form.
-
-   ![](Images/M3E4T1Step2.png)
 
 1. Enter a name for your form, you can also enter a description if needed.
 
@@ -238,6 +244,12 @@ In this task, you will import sample financial data to PowerBI.
 
 In this task, you will visualize the data which you had imported in the previous task by using various visualization options available in PowerBI.
 
+1. Click on **Financial Sample** dataset. From the dropdown of **+Create a report**, click on **From scratch**.
+
+   ![](Images/image11.png)
+   
+   ![](Images/image12.png)
+
 1. The report opens in the Editing view and displays the blank report canvas. On the right are the **Visualizations**, **Filters**, and **Fields** panes.
 
    ![](Images/img81.png)
@@ -270,14 +282,13 @@ Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to h
 
 *New users won’t have enough data to view various analytical breakdowns within the application. You will see a message stating that “MyAnalytics works best with at least 4 weeks of data. Please check back later for your insights”. Your screen would look like this*: 
 
- ![](Images/M3E6T1Step3.png) 
+   ![](Images/M3E6T1Step301.png) 
 
-Once you have enough data, you can view various insights in MyAnalytics. Let us now explore these features. 
-
+   **Note**: Once you have enough data, you can view various insights in MyAnalytics. Let us now explore these features. 
  
 In this exercise, you will explore MyAnalytics application.
 
-**Note**: The Data may not appear in **MyAnalytics** of your lab environment as there are no activity performed yet.
+   **Note**: The Data may not appear in **MyAnalytics** of your lab environment as there are no activity performed yet.
 
 1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **MyAnalytics**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **MyAnalytics** web page.
 
@@ -307,7 +318,7 @@ In this exercise, you will explore MyAnalytics application.
    
    - **Communication habits** : The Communication habits section shows the total number of chats (instant messages) and emails sent and read during each hour of the day in the past four weeks.
    
-     ![](Images/img210.png)
+   ![](Images/img210.png)
 
 1. To learn more about **MyAnalytics** refer to https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/mya-landing-page.
 
@@ -336,7 +347,7 @@ Before we explore the Microsoft EndPoint Manager, we need to activate the **Ente
 
    ![](Images/img128.png)
    
-1. Now select **Create your own policies and target specific conditions like Cloud apps, Sign-in risk, and Device Platforms with Azure AD Premium.**
+1. If you see **Create your own policies and target specific conditions like Cloud apps, Sign-in risk, and Device Platforms with Azure AD Premium.**, then select it. else ignore **7&8**.
 
    ![](Images/p5license.png)
    
