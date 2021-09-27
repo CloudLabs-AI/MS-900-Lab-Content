@@ -284,7 +284,7 @@ Microsoft MyAnalytics, formerly Delve Analytics, is an application designed to h
 
    ![](Images/M3E6T1Step301.png) 
 
-   **Note**: Once you have enough data, you can view various insights in MyAnalytics. Let us now explore these features. 
+   **Note**: Once you have enough data, you can view various insights in MyAnalytics, or Else can try with your personal account with atleast office 365 license. Let us now explore these features. 
  
 In this exercise, you will explore MyAnalytics application.
 
