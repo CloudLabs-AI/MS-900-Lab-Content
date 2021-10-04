@@ -134,7 +134,7 @@ In this task, we will create and assign a messaging policy to the user from the 
 
 1. In the **Messaging policies** page click on **Add**. 
 
-   - Provide a name and description for the policy.
+   - Provide a name as **Disable giphy** and description for the policy.
    
    - Disable **Use Giphys in conversations** and **Delete sent messages**. You can explore through all the **Messaging policies** settings and select changes that you want.
    
