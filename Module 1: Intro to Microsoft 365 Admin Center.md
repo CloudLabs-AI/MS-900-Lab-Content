@@ -52,9 +52,11 @@ In this task, you will learn how to create and manage users from Microsoft Admin
 
 1. In the **Set up the basics pane**, fill the following details, and then select **Next**.
 
-   - **Display Name:** Enter a display name for the user.
+   - **First name:** Odl.
 
-   - **Username:** Enter username.
+   - **Display Name:** Odl_User-DeploymentId.
+
+   - **Username:** Odl.
 
     ![](Images/img4.png)
      
@@ -88,7 +90,7 @@ In this task, you will verify Custom Domains in the tenant and add a new domain 
 
 1. All the available domains can be found here. We can also purchase new domains or add any existing domain from the **Domains** page.
 
-1. To add a domain Select **Add domain**. Enter the name of the **domain** you want to add, then select **Use this domain**.
+1. To add a domain Select **Add domain**. Enter the name of the domain as **myspektra.com** , then select **Use this domain**.
 
     ![](Images/img225.png)
     
