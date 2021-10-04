@@ -118,7 +118,7 @@ In this task, we will create and assign a messaging policy to the user from the 
 
 1. From here you can add a new team by clicking on **Add**. In the **Add a new team**  page fill in the deatils and click on **Apply**.
 
-   Name: **Sevices-Team**.
+   * Name: **Sevices-Team**.
 
     ![](Images/img222.png)
 
