@@ -56,7 +56,7 @@ In this task, we will explore the options available in Teams, learn how to creat
 
     ![](Images/M2E1T1Step1201.png)
 
-1. Give the team a name and add a description if needed. Select **Create**.
+1. Give the team name as **IT-Team** and add a description if needed. Select **Create**.
 
     ![](Images/img214.png)
 
@@ -117,6 +117,8 @@ In this task, we will create and assign a messaging policy to the user from the 
 1. The Manage teams page displays the list of your teams along with channels, users, and the status of the team.
 
 1. From here you can add a new team by clicking on **Add**. In the **Add a new team**  page fill in the deatils and click on **Apply**.
+
+   Name: **Sevices-Team**.
 
     ![](Images/img222.png)
 
