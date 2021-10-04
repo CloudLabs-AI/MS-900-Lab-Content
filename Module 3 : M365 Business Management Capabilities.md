@@ -33,7 +33,7 @@
 
    ![](Images/M3E2T1Step401.png)
 
-1. On the Basics page, type a name for the group and a description(optional). Click **Next**.
+1. On the Basics page, type a name for the group as **Sales-demo** and a description(optional). Click **Next**.
 
    ![](Images/M3E2T1Step501.png)   
 
@@ -91,7 +91,7 @@ In this exercise, you will learn how to create a new plan in Microsoft Planner a
 
 1. In the **New plan** window: 
     
-    - Enter a name for the plan
+    - Enter a name for the plan as **Demo-plan**
     
     - Make the plan public if you want it to be visible to the rest of your organization and in search results, or make it private if you want only plan members to see it.
     
