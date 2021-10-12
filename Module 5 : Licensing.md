@@ -13,7 +13,7 @@
 
 1. From the navigation menu scroll down to  **Billing** and select **Licenses**.
    
-1. On the Subscriptions page you can see all Available licenses, Assigned licenses. Click on any of the products to get detailed information.
+1. On the Subscriptions page you can see all Available licenses, Assigned licenses. Click on **any** of the License to get detailed information.
 
    ![](Images/img129.png)
 
