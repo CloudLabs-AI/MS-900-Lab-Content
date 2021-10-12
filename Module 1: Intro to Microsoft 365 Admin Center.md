@@ -64,7 +64,7 @@ In this task, you will learn how to create and manage users from Microsoft Admin
 
    - **Password**: Password.1!!
 
-    ![](Images/image900.png)
+    ![](Images/image900.jpg)
 
 1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, choose **Assign user a product license** and select **office 365 E5** license. Click **Next**.
 
