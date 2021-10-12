@@ -41,7 +41,7 @@
 
    ![](Images/img132.png)
 
-1. Now on the licenses page click on **Requests**. From here you can approve or deny the requests made from members of your organization for license assignments.
+1. Switch back to the licenses page click on **Requests**. From here you can approve or deny the requests made from members of your organization for license assignments.
 
     ![](Images/img133.png)
 
