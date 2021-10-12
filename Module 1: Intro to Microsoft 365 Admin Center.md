@@ -256,7 +256,7 @@ OneDrive gives you one place to store, share, and sync your work or school files
 
 With yammer people can openly connect and engage across the organization, from here we can discuss ideas, share and collaborate with others.
 
-1. Switch back to the office365 portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page.
+1. Switch back to the office365 user account portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page.
  
     ![](Images/img21.png)
 
@@ -295,7 +295,7 @@ With yammer people can openly connect and engage across the organization, from h
 
 Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely. You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration.
 
-1. In the office365 portal from the  **App launcher** click on **All apps** and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Stream** web page. 
+1. Switch back to the office365 user account portal from the  **App launcher** click on **All apps** and in the search bar search for **Stream**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Stream** web page. 
 
 1. In the Stream navigation bar, click on the **Invite** button.
    
@@ -335,7 +335,7 @@ Microsoft Stream is an Enterprise Video service where people in your organizatio
 
 Microsoft SharePoint helps organizations share and manage content, knowledge, and applications to Empower teamwork, Quickly find information and seamlessly collaborate across the organization.
 
-1. Switch back to the office365 portal, from the  **App launcher** click on **All apps**. In the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab**. This will redirect you to the **SharePoint** web page. 
+1. Switch back to the office365 user account portal, from the  **App launcher** click on **All apps**. In the search bar search for **SharePoint**, from **Open context menu** click on **Open in new tab**. This will redirect you to the **SharePoint** web page. 
 
 1. From the top of the SharePoint page, click **+ Create site**  option.
   
@@ -391,7 +391,7 @@ Microsoft SharePoint helps organizations share and manage content, knowledge, an
 
 List helps to track information and organize your work. With a list, one can track issues, assets, routines, contacts, inventory and more using customizable views and smart rules and alerts to keep everyone in sync.
 
-1. In office365 portal from the  **App launcher** click on **All apps** and in the search bar search for **List**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **List** web page. 
+1.Switch back to the office365 user account portal from the  **App launcher** click on **All apps** and in the search bar search for **List**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **List** web page. 
 
 1. On the home page of **Lists** click on **New list**. 
 
