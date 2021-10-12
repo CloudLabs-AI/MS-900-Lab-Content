@@ -157,7 +157,7 @@ With Microsoft Forms, you can create surveys, quizzes, and polls, and easily see
 
 In this task, you will learn how to create a Form using Microsoft Forms.
 
-1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **Forms**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Forms** web page.
+1. Switch back to the office365 user account portal from the **App launcher** click on **All apps** and in the search bar search for **Forms**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Forms** web page.
 
 1. Select **New Form** to begin creating your form.
 
@@ -223,7 +223,7 @@ In this exercise, you will learn how to create a Power BI report from sample dat
 
 In this task, you will import sample financial data to PowerBI. 
 
-1. In office365 portal from the **App launcher** click on **All apps** and in the search bar search for **Power BI**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Power BI** web page.
+1. Switch back to the office365 user account portal from the **App launcher** click on **All apps** and in the search bar search for **Power BI**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Power BI** web page.
 
 1. Download sample data from https://docs.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
 
@@ -290,7 +290,7 @@ In this exercise, you will explore MyAnalytics application.
 
    **Note**: The Data may not appear in **MyAnalytics** of your lab environment as there are no activity performed yet.
 
-1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **MyAnalytics**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **MyAnalytics** web page.
+1. Switch back to the office365 user account portal from the **App launcher** click on **All apps** and in the search bar search for **MyAnalytics**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **MyAnalytics** web page.
 
 1. Under **Apps**, select **MyAnalytics** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft **MyAnalytics** web page.
 
