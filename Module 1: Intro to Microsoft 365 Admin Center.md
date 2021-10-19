@@ -64,6 +64,8 @@ In this task, you will learn how to create and manage users from Microsoft Admin
 
    - **Password**: Password.1!!
 
+   - **Require this user to change their password when they first sign in** : unselected
+
     ![](Images/image900.jpg)
 
 1. In the  **Assign product licenses**  pane, choose your location from the **select location** dropdown. In the licenses section, choose **Assign user a product license** and select **office 365 E5** license. Click **Next**.
@@ -176,8 +178,6 @@ Microsoft Outlook is an application that is used mainly to send and receive emai
 
    >**Note**: You can get the username by clicking on **Users** and then **Active users** from the navigation menu. In the Active Users pane note down the username for your newly created  user
 
-1. When logging in with the new user for the first time it will prompt you to update your password, provide your current password and new password and select sign in.
-    
 1. From the top right corner click on **App launcher**
 
 1. Under **Apps**, select **Outlook** and from **Open context menu** click on **Open in new tab**. This will redirect you to the outlook mail.
