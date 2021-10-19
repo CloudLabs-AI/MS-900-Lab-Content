@@ -81,7 +81,7 @@ In this exercise, you will learn how to create a new plan in Microsoft Planner a
 
 1. Open a new browser window and log in to the office365 center at https://www.office.com.
 
-1. When prompted enter the username and password of the user that you created in the previous exercise.
+1. When prompted enter the username and password of the user which you have created in the the Exercise 1 task 1. For example Odl_User-DeploymentId. 
 
 1. In the office365 portal from the App launcher click on **All apps** and in the search bar search for **Planner**, from **Open context menu** click on Open in new tab, this will redirect you to the **Planner** web page.
 
@@ -157,7 +157,11 @@ With Microsoft Forms, you can create surveys, quizzes, and polls, and easily see
 
 In this task, you will learn how to create a Form using Microsoft Forms.
 
-1. Switch back to the office365 user account portal from the **App launcher** click on **All apps** and in the search bar search for **Forms**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Forms** web page.
+1. Open a new browser window and log in to the office365 center at https://www.office.com.
+
+1. When prompted enter the username and password of the user which you have created in the the Exercise 1 task 1. For example Odl_User-DeploymentId. 
+
+1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **Forms**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Forms** web page.
 
 1. Select **New Form** to begin creating your form.
 
@@ -223,7 +227,11 @@ In this exercise, you will learn how to create a Power BI report from sample dat
 
 In this task, you will import sample financial data to PowerBI. 
 
-1. Switch back to the office365 user account portal from the **App launcher** click on **All apps** and in the search bar search for **Power BI**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Power BI** web page.
+1. Open a new browser window and log in to the office365 center at https://www.office.com.
+
+1. When prompted enter the username and password of the user which you have created in the the Exercise 1 task 1. For example Odl_User-DeploymentId. 
+
+1. In office365 portal from the **App launcher** click on **All apps** and in the search bar search for **Power BI**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **Power BI** web page.
 
 1. Download sample data from https://docs.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
 
@@ -290,7 +298,11 @@ In this exercise, you will explore MyAnalytics application.
 
    **Note**: The Data may not appear in **MyAnalytics** of your lab environment as there are no activity performed yet.
 
-1. Switch back to the office365 user account portal from the **App launcher** click on **All apps** and in the search bar search for **MyAnalytics**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **MyAnalytics** web page.
+1. Open a new browser window and log in to the office365 center at https://www.office.com.
+
+1. When prompted enter the username and password of the user which you have created in the the Exercise 1 task 1. For example Odl_User-DeploymentId. 
+
+1. In the office365 portal from the **App launcher** click on **All apps** and in the search bar search for **MyAnalytics**, from **Open context menu** click on **Open in new tab**, this will redirect you to the **MyAnalytics** web page.
 
 1. Under **Apps**, select **MyAnalytics** and from **Open context menu** click on **Open in new tab**. This will redirect you to the Microsoft **MyAnalytics** web page.
 
