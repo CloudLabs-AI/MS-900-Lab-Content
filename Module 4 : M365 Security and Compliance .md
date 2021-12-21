@@ -153,13 +153,13 @@ In this task, you will explore Microsoft Threat Protection Portal.
 
 1. The home page provides an at-a-glance view of the overall security health of your organization.
 
-   ![](Images/img05.png)
+   ![](Images/Defender2.png)
 
 1. Click on **incidents & alerts**, select **Alerts** as we can View various Alerts.
 
     **Note:** New users won’t have enough data to view various **Alerts** breakdowns within the application
 
-   ![](Images/img06.png)
+   ![](Images/Defender3.png)
 
 1. Select **Reports** from the menu and then slect **Security Report** from here you can view security trends and track the protection status of your identities, data, devices, apps, and infrastructure.
 
