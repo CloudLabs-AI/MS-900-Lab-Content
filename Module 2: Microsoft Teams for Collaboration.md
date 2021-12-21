@@ -112,7 +112,7 @@ In this task, we will create and assign a messaging policy to the user from the 
    
 1. From the **Left navigation menu** select **Teams** and under it select **Manage teams**. From here you can manage all the teams and channels, create new ones, and manage the existing ones.
 
-    ![](Images/M2E1T2Step301.png)
+    ![](Images/Teams1.png)
 
 1. The Manage teams page displays the list of your teams along with channels, users, and the status of the team.
 
@@ -124,27 +124,27 @@ In this task, we will create and assign a messaging policy to the user from the 
 
 1. Click on your newly created team. From here you can add or remove **Members**, **channels** to the team and manage them.
 
-    ![](Images/img223.png)
+    ![](Images/Teams2.png)
    
-    ![](Images/img224.png)
+    ![](Images/Teams3.png)
 
 1. Now from the **Left navigation menu** select **Messaging policies**. Messaging policies are used to control which chat and channel messaging features are available to users in Microsoft Teams.
 
-    ![](Images/img44.png)
+    ![](Images/Teams4.png)
 
 1. In the **Messaging policies** page click on **Add**. 
 
    - Provide a name as **Disable giphy** and description for the policy.
    
-   - Disable **Use Giphys in conversations** and **Delete sent messages**. You can explore through all the **Messaging policies** settings and select changes that you want.
+   - Disable **Giphy in conversations** and **Delete sent messages**. You can explore through all the **Messaging policies** settings and select changes that you want.
    
    - Click on **Save**.
     
-    ![](Images/img45.png)
+    ![](Images/Teams5.png)
    
 1. To assign a policy to the user, select the policy that you have created and click on **Manage Users**. In the search bar, search and select the user that you created previously and click on **Apply**.
  
-    ![](Images/img46.png)
+    ![](Images/Teams6.png)
    
     ![](Images/M3E2T1Step1001.png)
 
@@ -152,13 +152,13 @@ In this task, we will create and assign a messaging policy to the user from the 
 
 1. In the left navigation of the Microsoft Teams admin center, select **Teams apps**  and select **Permission policies**. From here you can configure App permission policies. App permission policies control what apps you want to make available to Teams users in your organization.
 
-    ![](Images/img217.png)
+    ![](Images/Teams7.png)
 
 1. Click on **Add**. Enter a name and description for the policy.
 
 1. Under **Microsoft apps** select **Allow specific apps and block all others**. You can also select other options based on your requirement.
 
-    ![](Images/img218.png)
+    ![](Images/Teams8.png)
 
 1. Select **Allow apps**, search for the apps that you want to allow, and then click **Add**.
 
