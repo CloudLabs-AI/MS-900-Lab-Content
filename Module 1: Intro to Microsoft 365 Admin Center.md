@@ -258,7 +258,7 @@ With yammer people can openly connect and engage across the organization, from h
 
 1. Switch back to the office365 user account portal and from  **App launcher** under **Apps**, select **Yammer**. From **Open context menu** click on **Open in new tab**, this will redirect you to the **Yammer** page.
  
-    ![](Images/img21.png)
+    ![](Images/Yammer1.png)
 
 1. From the left-hand pane click on **Create a Community**, enter a name for your community. In **Members** search and select the users you want to add. Based on your requirement choose **Public** or **Private** access by click on **Edit**.
 
@@ -269,7 +269,7 @@ With yammer people can openly connect and engage across the organization, from h
    
 1. Now select the group that you newly created, click on **Start a discussion**. Type the content that you like to post (you can include gifs, files or any website links based on the requirement). Click on **post**.
   
-    ![](Images/M1E2T3Step303.png)
+    ![](Images/Yammer2.png)
    
 1. Switch back to the yammer account of the user whom you added to the group and verify if the user is added to the newly created group and if the posts are visible.
    

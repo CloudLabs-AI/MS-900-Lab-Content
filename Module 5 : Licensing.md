@@ -15,7 +15,7 @@
    
 1. On the Subscriptions page you can see all Available licenses, Assigned licenses. Click on **any** of the License to get detailed information.
 
-   ![](Images/img129.png)
+   ![](Images/License1.png)
 
 1. This displays the list of users to whom the selected license is assigned. From here you can assign the license to users.
 
@@ -43,6 +43,6 @@
 
 1. Switch back to the licenses page click on **Requests**. From here you can approve or deny the requests made from members of your organization for license assignments.
 
-    ![](Images/img133.png)
+    ![](Images/License2.png)
 
 1. To learn more about licenses refer to  https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses

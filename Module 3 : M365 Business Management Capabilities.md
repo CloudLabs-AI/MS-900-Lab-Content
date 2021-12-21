@@ -357,7 +357,7 @@ Before we explore the Microsoft EndPoint Manager, we need to activate the **Ente
 
 1. In the **Security** page select **Conditional access**.
 
-   ![](Images/img128.png)
+   ![](Images/security.png)
    
 1. If you see **Create your own policies and target specific conditions like Cloud apps, Sign-in risk, and Device Platforms with Azure AD Premium.**, then select it. else ignore **7&8**.
 
