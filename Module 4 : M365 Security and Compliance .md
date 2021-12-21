@@ -209,11 +209,11 @@ In this task, you will learn about Microsoft Secure Score.
  
 1. To learn more about secure score refer to https://docs.microsoft.com/en-us/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide.
        
-# Exercise 3: Cloud App Security 
+# Exercise 3: Microsoft Defender for Cloud Apps
 
-In this exercise, you will use the  Cloud App Security portal to identify the sensitivity and criticality of data and apps owned by an organization and address them.
+In this exercise, you will use the  Microsoft Defender for Cloud Apps portal to identify the sensitivity and criticality of data and apps owned by an organization and address them.
 
-### Task 1: Discover Apps with Cloud App Security  
+### Task 1: Discover Apps with Microsoft Defender for Cloud Apps  
 
 Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB). It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyber threats across all your cloud services.
 
@@ -221,9 +221,9 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
    ![](Images/img178.png)
 
-1. In the Microsoft 365 security page, click **More resources**, and then select **Cloud App Security**.
+1. In the Microsoft 365 security page, click **More resources**, and then select **Microsoft Defender for Cloud Apps**.
 
-   ![](Images/img179.png)
+   ![](Images/Capp1.png)
   
 1. From the left-hand menu select **Dashboard**. In the dashboard you can see details about:
 
@@ -243,7 +243,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
    - **Azure security configuration**: Shows the number and severity of Azure security configuration recommendations.
    
-   ![](Images/img180.png)
+   ![](Images/Cloud-apps1.png)
 
 1. Now from the left navigation menu select **Discover**. Cloud Discovery uses your traffic logs to dynamically discover and analyze the cloud apps that your organization is using.
 
@@ -251,7 +251,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
   
     **Note**: if could not found under **Discover** then select **Settings(1)** in the top right corner and click **settings(2)**, Under **Cloud Discovery(3)** select **Snapsnot Reports(4)**, and click **+Create Snapsnot Report(5)**.
    
-   ![](Images/img181.png)
+   ![](Images/Cloud-apps2.png)
 
 1. Collect log files from your firewall and proxy, through which users in your organization access the Internet. Make sure to gather logs during times of peak traffic that are representative of all user activity in your organization.
 
@@ -271,13 +271,13 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
 
 1. After you upload your log files, it will take some hours for them to be parsed and analyzed. Wait till the status of your log files turns **Ready**.
 
-   ![](Images/img184.png)
+   ![](Images/Cloud-apps9.png)
 
 1. Now from the left-hand menu under **Discover** select **Cloud Discovery Dashboard**. It provides an at-a-glance overview of what kinds of apps are being used, your open alerts, and the risk levels of apps in your organization. It also shows you who your top app users are and provides an App Headquarter location map.
 
-   ![](Images/img185.png)
+   ![](Images/Cloud-apps3.png)
    
-   ![](Images/img186.png)
+   ![](Images/Cloud-apps4.png)
 
 1. Click on **Discovered apps** tab, from here you can review which apps are risky and which are commonly used by using filters like:
 
@@ -297,23 +297,23 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
     
     - **Legal risk factor**: Lets you filter based on all the regulations and policies that are in place to ensure data protection and privacy of the app's users.
     
-   ![](Images/img187.png)
+   ![](Images/Cloud-apps5.png)
     
-1. Explore through other **IP address** and **Users** tab.
+1. Explore through other **Discovered resources**, **IP address** and **Users** tab.
 
 1. From the left-hand pane select **Alerts**. Alerts are the entry points to understanding your cloud environment more deeply.
 
 1. On the Alerts page, select Open for the **Filters**. This section of the dashboard provides full visibility into any suspicious activity or violation of your established policies. It can help you safeguard the security posture you defined for your cloud environment.
 
-   ![](Images/img188.png)
+   ![](Images/Cloud-apps6.png)
 
 1. For each alert, you need to investigate and determine the nature of the violation and the required response. You can filter the alerts by **Alert type**, by **Severity**, by **App** or by **User Name** to process the most important ones first.
     
-   ![](Images/img189.png)
+   ![](Images/Cloud-apps7.png)
     
 1. You can also customize alerts and actions by creating policies. In the alerts page click on **Create policy**. Select **App discovery policy**. Based on your requirement you can choose other **policies**.
  
-   ![](Images/img190.png)
+   ![](Images/Cloud--apps8.png)
  
 1. Give your policy a name and description. If you want, you can base it on a template. Set the severity of the policy.
  
