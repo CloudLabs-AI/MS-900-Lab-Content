@@ -373,7 +373,7 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 
     **Note**: if the scope for files and emails is not selected, you can't select the options on the next page.
   
-1. In the **File & Emails** page, select **Encryption** and **Content Marking**, Click **Next**. 
+1. In the **File & Emails** page, select **Encrypt files and emails** and **Mark the content of files**, Click **Next**. 
 
 1. In the **Encryption** page, choose when you want to assign permissions, whether you want your users access to the content to expire, and whether you want to allow offline access. 
       
