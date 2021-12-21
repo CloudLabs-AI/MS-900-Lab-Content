@@ -265,7 +265,7 @@ Microsoft Cloud App Security is a multimode Cloud Access Security Broker (CASB).
    
    ![](Images/image016.png)
 
-1. Under **Upload Traffic Logs** Tab, In **Choose traffic logs** browse and upload the log file which you downloaded. Click **Create**.
+1. Under **Upload Traffic Logs** Tab, In **Choose traffic logs** browse and upload the log file which you downloaded. Click **Upload logs**.
 
 1. After the upload completes, the status message will appear at the top right corner of your screen letting you know that your log was successfully uploaded.
 
