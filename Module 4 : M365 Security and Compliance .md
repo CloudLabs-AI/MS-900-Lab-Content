@@ -417,7 +417,7 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 
 1. Now select **Groups & Sites** to configure priacy, access control and other settings to protect label, leave the setting as default
 
-1. Under the **Azure Purview assets (preview)** check the below option, click on **Next** then review the settings and click **Create**.
+1. Under the **Schematized data assests (preview)** check the below option, click on **Next** then review the settings and click **Create**.
      2. Select Check sensitive info types to choose the sensitive info types you want to apply to your label.
 
    ![](Images/M4E4T1Step1301.png)
@@ -443,6 +443,12 @@ Sensitivity labels from the Microsoft Information Protection framework let you c
 1. Under the **Policy Setting**, select the way you prefer and click **Next**.
 
    ![](Images/img109.png)
+   
+1. Under policy setting, in the **Apply a default label to documents**, select the label which you have created in the previous task and select next.
+
+1. In the **Apply a default label to emails** leave the settings as default and select next.
+
+1. In the **Apply a default label to Power BI content (preview)** leave the settings as default and select next.
 
 1. Provide a Name and Description for your policy. Click **Next**.
 
